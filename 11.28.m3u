@@ -1,0 +1,209 @@
+#EXTM3U
+#EXTINF:-1 ,BTV冬奥记实际-8KSDR源
+http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
+#EXTINF:-1 ,广东综艺-4K50P-HLG
+http://159.75.85.63:5828/gudou.php?id=GDZYHD4K_38000
+#EXTINF:-1 ,CCTV5-4K
+http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 ,CCTV5-4K2
+http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
+#EXTINF:-1 ,CCTV16-4K-SDR源
+http://111.29.9.37:6610/000000001000/5000000008000023254/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000008000023254
+#EXTINF:-1 ,CCTV16-4K50P-HLG
+http://159.75.85.63:5828/gudou.php?id=4010
+#EXTINF:-1 ,CCTV161080p
+http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1 ,CCTV16
+http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
+#EXTINF:-1 ,CCTV-4K50P-HLG
+http://159.75.85.63:5828/gudou.php?id=4005
+#EXTINF:-1 ,咪咕体育-4K-HLG源
+http://39.135.42.203:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 ,咪咕体育-4K-HLG源2
+http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 ,咪咕体育
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 ,苏州 4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 ,欢笑剧场4K
+http://111.29.9.37:6610/000000001000/5000000007000010001/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000007000010001
+#EXTINF:-1 ,纯享4K
+http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000004000011651
+#EXTINF:-1 ,4K影视1
+http://111.29.9.37:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=wasusyt&Contentid=6000000003000004748
+#EXTINF:-1 ,4K影视2
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 ,爱上4K
+http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 ,爱上4K2
+http://111.20.40.170/TVOD/88888893/224/3221226352/index.m3u8
+#EXTINF:-1 ,广东体育
+http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 ,广东体育HD
+http://159.75.85.63:5828/gudou.php?id=gdsportsHD_7000
+#EXTINF:-1 ,南国都市
+https://justsometime.gztv.com/sec/shenghuos.m3u8
+#EXTINF:-1 ,CCTV5+
+http://yfsl.vsd.gehua.net.cn/live/CCTV5plusHD_1200.m3u8
+#EXTINF:-1 ,CCTV5+2
+http://60.213.134.68/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204503.m3u8
+#EXTINF:-1 ,风云足球
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2012514203.m3u8
+#EXTINF:-1 ,风云足球2
+http://gxyl-dl001.8866.org:8181/tsfile/live/1100_1.m3u8
+#EXTINF:-1 ,魅力足球
+http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,新视觉HD
+http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,斗鱼4K
+http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 ,户外4K
+http://tduzsfhg.megatv.fun/iptv/A2U3C8FHYB5PPQ/5002
+#EXTINF:-1 ,CCTV1
+http://220.177.175.45/tlivectfree-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://gxyl-dl001.8866.org:8181/tsfile/live/1066_1.m3u8
+#EXTINF:-1 ,CHC动作电影
+http://gxyl-dl001.8866.org:8181/tsfile/live/1066_1.m3u8
+#EXTINF:-1 ,CHC高清影院
+http://gxyl-dl001.8866.org:8181/tsfile/live/1067_1.m3u8
+#EXTINF:-1 ,BestTV
+https://bp-caster.bestv.com.cn/789/3/video.m3u8
+#EXTINF:-1 ,BestTV1
+https://bp-caster.bestv.com.cn/790/3/video.m3u8
+#EXTINF:-1 ,BestTV2
+https://bp-caster.bestv.com.cn/791/3/video.m3u8
+#EXTINF:-1 ,BestTV3
+https://bp-caster.bestv.com.cn/798/3/video.m3u8
+#EXTINF:-1 ,CCTV5-高清
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 ,CCTV5-高清
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 ,CCTV5HD
+http://159.75.85.63:5828/gudou.php?id=CCTV5HD_7000
+#EXTINF:-1 ,五星体育1
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,五星体育2
+http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,五星体育3
+http://111.29.9.37:6610/000000001000/5000000010000017540/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=bestzb&Contentid=5000000010000017540
+#EXTINF:-1 ,上海东方卫视1
+http://yfsl.vsd.gehua.net.cn/live/DongFangHD_1200.m3u8
+#EXTINF:-1 ,上海东方卫视2
+http://115.149.139.141:10001/tsfile/live/1031_1.m3u8
+#EXTINF:-1 ,愛自然 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 ,Fashion4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 ,Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,MUZZIK ZZ4000 4K
+http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+#EXTINF:-1 ,欢笑剧场
+http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+#EXTINF:-1 ,金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 ,BesTV電影
+http://www.372583307.top:4022/udp/233.50.201.228:5140
+#EXTINF:-1 ,BestTV
+https://bp-caster.bestv.com.cn/789/3/video.m3u8
+#EXTINF:-1 ,頂級歐美電影
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
+#EXTINF:-1 ,頂級歐美電影
+http://mmitv.top/pltv/yy.php?id=24923327
+#EXTINF:-1 ,變種人電影
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1 ,歐美科幻
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
+#EXTINF:-1 ,歐美科幻
+http://mmitv.top/pltv/yy.php?id=37988782
+#EXTINF:-1 ,JJ斗地主官方
+http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=29de5d618f17cbdd25e1d4fb0821dd4e&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce1a900bde6ac0cbfa7b3ffb7167188c74f&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 ,凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,CETV1
+http://txycsbl.centv.cn/zb/0628cetv1.m3u8
+#EXTINF:-1 ,CETV1A
+http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
+#EXTINF:-1 ,CETV2
+http://txycsbl.centv.cn/zb/0822cetv2.m3u8
+#EXTINF:-1 ,CETV3
+http://txycsbl.centv.cn/zb/0822cetv3.m3u8
+#EXTINF:-1 ,CETV4
+http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+#EXTINF:-1 ,CCTV移动
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
+#EXTINF:-1 ,CGTN阿语
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 ,CGTN阿语
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 ,CGTN西班牙语
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 ,CGTN西班牙语
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 ,CGTN法语
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 ,CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 ,经典功夫台
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+#EXTINF:-1 ,峨眉电影
+http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
+#EXTINF:-1 ,J2
+https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1 ,HKC新闻台
+http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 ,TVB星河
+http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 ,兵团十四师昆玉综合
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
+#EXTINF:-1 ,广东珠江
+http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdzj&auth=rinimabi
+#EXTINF:-1 ,广东公共
+http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdgg&auth=rinimabi
+#EXTINF:-1 ,广东影视
+http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs4&auth=rinimabi
+#EXTINF:-1 ,广东体育
+http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdty&auth=rinimabi
+#EXTINF:-1 ,广东新闻
+http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdxw&auth=rinimabi
+#EXTINF:-1 ,广东经济
+http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs1&auth=rinimabi
+#EXTINF:-1 ,广东综艺
+http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs3&auth=rinimabi
+#EXTINF:-1 ,大湾区卫视
+http://v2.91kds.cn/b9/itouchtv.m3u8?fmt=hls&id=gdtvs2&auth=rinimabi
+#EXTINF:-1 ,T
+http://185.236.229.31:9981/play/a03n
+#EXTINF:-1 ,Y
+http://185.236.229.31:9981/play/a03d
+#EXTINF:-1 ,I
+http://185.236.229.31:9981/play/a03c
+#EXTINF:-1 ,I
+http://185.236.229.31:9981/play/a03c
+#EXTINF:-1 ,7
+http://195.154.185.179/xx_hot_tv/index.m3u8
+#EXTINF:-1 ,8
+http://195.154.185.179/xx_venus_tv/index.m3u8
+#EXTINF:-1 ,9
+http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
+#EXTINF:-1 ,10
+http://myott.tv/stream/S8JK2Q2BVB/138.m3u8
+#EXTINF:-1 ,11
+http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
+#EXTINF:-1 ,13
+https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 ,14
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1 ,12
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 ,15
+https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+#EXTINF:-1 ,16
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
