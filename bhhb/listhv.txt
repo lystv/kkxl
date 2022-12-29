@@ -1,5 +1,5 @@
 体育,#genre#
-广东体育,http://113.117.74.26:808/hls/1/index.m3u8#http://113.117.74.24:808/hls/1/index.m3u8#http://113.117.74.16:808/hls/1/index.m3u8#http://113.117.74.21:808/hls/1/index.m3u8#http://113.117.74.14:808/hls/1/index.m3u8#http://113.117.74.19:808/hls/1/index.m3u8
+广东体育,http://120.84.96.73:808/hls/22/index.m3u8#http://113.117.74.26:808/hls/1/index.m3u8#http://113.117.74.24:808/hls/1/index.m3u8#http://113.117.74.16:808/hls/1/index.m3u8#http://113.117.74.21:808/hls/1/index.m3u8#http://113.117.74.14:808/hls/1/index.m3u8#http://113.117.74.19:808/hls/1/index.m3u8
 广东体育,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdty
 广东体育,http://nsszds.f3322.net:808/hls/1/index.m3u8
 广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
