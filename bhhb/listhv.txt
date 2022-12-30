@@ -1,5 +1,5 @@
 体育,#genre#
-广东体育,http://120.84.96.73:808/hls/22/index.m3u8#http://113.117.74.26:808/hls/1/index.m3u8#http://113.117.74.24:808/hls/1/index.m3u8#http://113.117.74.16:808/hls/1/index.m3u8#http://113.117.74.21:808/hls/1/index.m3u8#http://113.117.74.14:808/hls/1/index.m3u8#http://113.117.74.19:808/hls/1/index.m3u8
+广东体育,http://120.84.96.73:808/hls/22/index.m3u8
 广东体育,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdty
 广东体育,http://nsszds.f3322.net:808/hls/1/index.m3u8
 广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
@@ -487,6 +487,12 @@ IPTV高清院线,http://home.111818.xyz:8888/udp/239.76.252.217:9000
 广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 俄罗斯中文-HD,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 凤凰电影台,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+健康,http://bp-caster.bestv.com.cn:80/402/1/video.m3u8
+读诗,http://bp-caster.bestv.com.cn:80/418/3/video.m3u8
+戏曲,http://bp-caster.bestv.com.cn:80/429/3/video.m3u8
+美食,http://bp-caster.bestv.com.cn:80/432/2/video.m3u8
+春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
+跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
 HBO,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 TVB翡翠台,https://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 TVB华丽台,https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
