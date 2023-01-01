@@ -468,6 +468,9 @@ CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 地方,#genre#
 TVB星河,http://jydx.jdshipin.com:808/hls/135/index.m3u8
 香港明珠台,http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8
+翡翠台,http://r.jdshipin.com/62WM7
+J2,http://r.jdshipin.com/Nr5jq
+VIUTV,http://r.jdshipin.com/vSJvl
 HBO2,http://208.115.225.174:14140
 HBOX,http://208.115.225.174:14165
 HBO原创,http://208.115.225.174:14160
@@ -494,6 +497,7 @@ IPTV高清院线,http://home.111818.xyz:8888/udp/239.76.252.217:9000
 春晚,http://bp-caster.bestv.com.cn:80/435/3/video.m3u8
 跨年,http://bp-caster.bestv.com.cn:80/436/3/video.m3u8
 HBO,https://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+美亚电影台,https://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 TVB翡翠台,https://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 TVB华丽台,https://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 now新闻台,https://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
