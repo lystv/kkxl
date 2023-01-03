@@ -202,6 +202,14 @@ CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 新华中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
 新华英语,http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
 卫视,#genre#
+北京影院,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8?zbeid
+北京新闻,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8?zbeid
+北京文艺,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8?zbeid
+北京青年,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappqingnian.m3u8?zbeid
+北京生活,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8?zbeid
+北京科教,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappkejiao.m3u8?zbeid
+北京财经,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8?zbeid
+北京冬奥纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
 广东珠江,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdzj
 广东珠江,http://mmitv.top/pltv/itouchtv.php?id=gdzj&pk=1183
 广东体育,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdty
