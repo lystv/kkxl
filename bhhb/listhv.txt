@@ -19,6 +19,7 @@ CTV5+,http://117.169.121.162:6610/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://tvmvip110.club/as.php?id=cctv5p
 CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5hd
+BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
