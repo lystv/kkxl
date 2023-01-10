@@ -1470,7 +1470,6 @@ CETV-1教育综合,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
 107港台测试,#genre#
 STARWORLD,http://123.51.230.108:18504/playlist.m3u8
 纬来体育,http://123.51.230.108:18509/playlist.m3u8
-东森戏剧,http://123.51.230.108:18538/playlist.m3u8
 东风37,http://123.51.230.108:18560/playlist.m3u8
 莲花卫视K,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
@@ -1504,6 +1503,12 @@ STARWORLD,http://123.51.230.108:18504/playlist.m3u8
 民视K,http://107.151.203.111:2209/135/us50.php?id=msk
 台视K,http://107.151.203.111:2209/135/us50.php?id=tsk
 中天娱乐K,http://107.151.203.111:2209/135/us50.php?id=ztz
+华丽台,http://23.237.10.66:16410
+星卫电影台,http://23.237.10.66:16359
+中天综合HD,http://23.237.10.66:16372
+台视,http://23.237.10.66:16344 
+民视,http://23.237.10.66:16334
+动物星球,http://208.115.225.174:14192
 广播,#genre#
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
