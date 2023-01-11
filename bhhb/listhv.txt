@@ -1,6 +1,8 @@
 体育,#genre#
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 广东体育,http://diygz.f3322.org:9090/hls/5/index.m3u8
+广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
+广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
 广东体育,http://120.84.96.73:808/hls/22/index.m3u8
 广东体育,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdty
 广东体育,http://nsszds.f3322.net:808/hls/1/index.m3u8
@@ -1113,6 +1115,11 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 新闻综合,http://diygz.f3322.org:9090/hls/101/index.m3u8
 CHC高清电影,http://diygz.f3322.org:9090/hls/110/index.m3u8
 DOXTV,http://diygz.f3322.org:9090/hls/111/index.m3u8
+深圳电视剧,http://218.17.216.102:9901/tsfile/live/1057_1.m3u8
+深圳国际,http://gxfrg007.8800.org:8282/tsfile/live/1077_1.m3u8
+深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
+深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
+深圳众创,https://lglivepull.sznews.com/live/2645.m3u8
 佛山综合,http://121.12.115.112/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
 佛山综合,http://121.12.115.118/xmplay.fstv.com.cn/live/xingmu20211111163434G0Bw.m3u8
 佛山影视,http://121.12.115.112/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
