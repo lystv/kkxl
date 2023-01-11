@@ -46,6 +46,7 @@ NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.
 4K超高清电影,http://wabc.ml/sxg.php?id=emdy4k_8000
 4K超高清电影,http://r.jdshipin.com/5DWJk
 BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
@@ -690,7 +691,9 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 北京生活,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8?zbeid
 北京科教,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappkejiao.m3u8?zbeid
 北京财经,http://pull.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8?zbeid
+北京纪实科教,http://117.169.124.149:8080/live/HD-8000k-1080P-beijingjishi/1.m3u8
 北京冬奥纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+北京卡酷,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
 北京影视,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
 北京文艺,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
 北京新闻,http://111.31.106.45/downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
