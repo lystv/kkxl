@@ -186,6 +186,7 @@ CCTV17,http://fyld.eatuo.com:9901/tsfile/live/1034_1.m3u8
 4K超高清电影4K,http://139.9.188.172:5678/sxg.php?id=emdy4k_8000
 4K超高清电影,http://r.jdshipin.com/5DWJ
 4K超高清电影,http://wabc.ml/sxg.php?id=emdy4k_8000
+4K超高清电影,http://159.75.85.63:5681/sxg.php
 欢笑剧场4K,http://139.9.188.172:5678/sxg.php?id=hxjc-4k_8000
 BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
@@ -193,6 +194,8 @@ BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei15
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 欢笑剧场4k,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
+欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
+CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
 广东综艺4K,http://diygz.f3322.org:9090/hls/10/index.m3u8
