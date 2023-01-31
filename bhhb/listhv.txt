@@ -1,4 +1,5 @@
 体育,#genre#
+广东体育,http://jydx.jdshipin.com:8081/hls/1/index.m3u8
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
 广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
