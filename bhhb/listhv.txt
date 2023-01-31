@@ -1689,6 +1689,13 @@ CCTV中视购物,http://39.135.138.58:18890/PLTV/88888888/224/3221225976/index.m
 广东移动,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdyd&auth=rinimabi
 岭南戏曲,http://v2.91kds.cn/b9/itouchv3.m3u8?id=lnxq&auth=rinimabi
 广东国际,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgj&auth=rinimabi
+广东公共,http://183.63.15.42:9901/tsfile/live/1003_1.m3u8
+经济科教,http://183.63.15.42:9901/tsfile/live/1000_1.m3u8
+广东珠江,http://183.63.15.42:9901/tsfile/live/1002_1.m3u8
+娱乐新闻,http://183.63.15.42:9901/tsfile/live/1013_1.m3u8
+大湾区卫视,http://183.63.15.42:9901/tsfile/live/1016_1.m3u8
+广东影视,http://183.63.15.42:9901/tsfile/live/1017_1.m3u8
+广东少儿,http://183.63.15.42:9901/tsfile/live/1018_1.m3u8
 广州综合代理,https://justsometime.gztv.com/sec/zhonghe.m3u8
 广州法制代理,https://justsometime.gztv.com/sec/fazhi.m3u8
 广州新闻代理,https://justsometime.gztv.com/sec/xinwen.m3u8
