@@ -1701,6 +1701,11 @@ CCTV中视购物,http://39.135.138.58:18890/PLTV/88888888/224/3221225976/index.m
 广州新闻,http://iptv.cooltv.top/tv/guangzhou.php?id=gzxw 
 广州竞赛,http://iptv.cooltv.top/tv/guangzhou.php?id=gzjs 
 广州南国都市,http://iptv.cooltv.top/tv/guangzhou.php?id=gzsh
+广州综合频道,http://124.222.238.146:1125/m3u8.php?/GZTV/zhonghe/playlist.m3u8
+广州法治频道,http://124.222.238.146:1125/m3u8.php?/GZTV/fazhi/playlist.m3u8
+广州竞赛频道,http://124.222.238.146:1125/m3u8.php?/GZTV/jingsai/playlist.m3u8
+广州影视频道,http://124.222.238.146:1125/m3u8.php?/GZTV/yingshi/playlist.m3u8
+广州南国都市(4K),http://124.222.238.146:1125/m3u8.php?/GZTV/shenghuo/playlist.m3u8
 深圳卫视,http://218.17.216.102:9901/tsfile/live/1049_1.m3u8
 深圳公共频道,http://218.17.216.102:9901/tsfile/live/1042_1.m3u8
 深圳都市频道,http://218.17.216.102:9901/tsfile/live/1043_1.m3u8
