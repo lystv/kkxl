@@ -355,6 +355,10 @@ CCTV13,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8
 CCTV14,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1
 CCTV15,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1
 CCTV17,http://59.49.41.44/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 CCTV1,http://wabc.ml/sxg.php?id=CCTV-1H265_4000
 CCTV1,http://wabc.ml/sxg.php?id=CCTV-1H265_4000
 CCTV1,http://124.220.17.172:1100/aas.php?id=1
