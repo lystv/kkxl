@@ -1782,7 +1782,15 @@ NHGJ,http://183.63.15.42:9901/tsfile/live/1007_1.m3u8
 广东经济,http://jydx.jdshipin.com:8081/hls/29/index.m3u8
 广东体育,http://jydx.jdshipin.com:8081/hls/1/index.m3u8
 大湾区卫视,http://jydx.jdshipin.com:8081/hls/30/index.m3u8
-广东房产,岭南戏曲,http://120.84.96.89:808/hls/77/index.m3u8
+岭南戏曲,http://120.84.96.89:808/hls/77/index.m3u8
+广东影视,http://jydx.jdshipin.com:8081/hls/31/index.m3u8
+广东少儿,http://jydx.jdshipin.com:8081/hls/32/index.m3u8
+珠江频道,http://jydx.jdshipin.com:8081/hls/139/index.m3u8
+广东公共,http://jydx.jdshipin.com:8081/hls/27/index.m3u8
+广东新闻,http://jydx.jdshipin.com:8081/hls/28/index.m3u8
+广东经济,http://jydx.jdshipin.com:8081/hls/29/index.m3u8
+广东体育,http://jydx.jdshipin.com:8081/hls/1/index.m3u8
+南方卫视,http://jydx.jdshipin.com:8081/hls/30/index.m3u8
 广东影视,http://jydx.jdshipin.com:8081/hls/31/index.m3u8
 广东少儿,http://jydx.jdshipin.com:8081/hls/32/index.m3u8
 珠江频道,http://jydx.jdshipin.com:8081/hls/139/index.m3u8
