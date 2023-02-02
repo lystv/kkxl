@@ -479,6 +479,7 @@ IPTV热播剧场,http://jydx.jdshipin.com:8081/hls/63/index.m3u8
 4K超高清电影,http://wabc.ml/sxg.php?id=emdy4k_8000
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 4K超高清电影,http://159.75.85.63:5681/sxg.php
+广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 超高清,http://www.xuweihome.vip:2222/udp/239.253.248.102:8000
 欢笑剧场4K,http://139.9.188.172:5678/sxg.php?id=hxjc-4k_8000
