@@ -123,6 +123,11 @@ Z频道,http://116.11.140.23:8181/tsfile/live/1209_1.m3u8
 动物星球,http://116.11.140.23:8181/tsfile/live/1213_1.m3u8
 AXN,http://116.11.140.23:8181/tsfile/live/1217_1.m3u8
 Boomerang,http://116.11.140.23:8181/tsfile/live/1219_1.m3u8
+翡翠台,http://jydx.jdshipin.com:8081/hls/25/index.m3u8
+明珠台,http://jydx.jdshipin.com:8081/hls/26/index.m3u8
+星空卫视,http://jydx.jdshipin.com:8081/hls/87/index.m3u8
+Channel [V],http://jydx.jdshipin.com:8081/hls/88/index.m3u8
+TVB星河频道,http://jydx.jdshipin.com:8081/hls/135/index.m3u8
 重庆有线&p9p,#genre#
 WWE,p9p://192.95.32.107:9906/5b987ab5000ef7018744e50174a621bd&link=盗链死全家
 有线603,p9p://104.149.128.154:9906/616bf7790005f1831804e7e0e9f99143.ts
