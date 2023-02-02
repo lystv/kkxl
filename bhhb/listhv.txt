@@ -109,13 +109,18 @@ ELEVEN2,http://www.yshmzmc.top/gtjm.php?id=live1072
 MOMO综合,http://www.yshmzmc.top/gtjm.php?id=live1248
 年代much,http://www.yshmzmc.top/gtjm.php?id=live2002
 澳门莲花卫视,http://iptv.cooltv.top/tv/lotus.php
+好莱坞电影台,http://116.11.140.23:8181/tsfile/live/1203_1.m3u8
+凤凰中文台,http://116.11.140.23:8181/tsfile/live/1214_1.m3u8
+星空卫视,http://116.11.140.23:8181/tsfile/live/1208_1.m3u8
 天映经典频道,http://116.11.140.23:8181/tsfile/live/1223_1.m3u8
 数码私人影院,http://116.11.140.23:8181/tsfile/live/1210_1.m3u8
 东森电影台,http://116.11.140.23:8181/tsfile/live/1222_1.m3u8
 东森洋片台,http://116.11.140.23:8181/tsfile/live/1218_1.m3u8
+东森新闻,http://116.11.140.23:8181/tsfile/live/1201_1.m3u8
 LSTime电影台,http://116.11.140.23:8181/tsfile/live/1205_1.m3u8
 东森新闻台,http://116.11.140.23:8181/tsfile/live/1201_1.m3u8
 好莱坞电影台,http://116.11.140.23:8181/tsfile/live/1203_1.m3u8
+八大娱乐台,http://116.11.140.23:8181/tsfile/live/1211_1.m3u8
 ELEVEN体育一台,http://116.11.140.23:8181/tsfile/live/1204_1.m3u8
 ELEVEN体育二台,http://116.11.140.23:8181/tsfile/live/1216_1.m3u8
 Z频道,http://116.11.140.23:8181/tsfile/live/1209_1.m3u8
@@ -127,6 +132,7 @@ Boomerang,http://116.11.140.23:8181/tsfile/live/1219_1.m3u8
 明珠台,http://jydx.jdshipin.com:8081/hls/26/index.m3u8
 星空卫视,http://jydx.jdshipin.com:8081/hls/87/index.m3u8
 Channel [V],http://jydx.jdshipin.com:8081/hls/88/index.m3u8
+星空卫视,http://116.11.140.23:8181/tsfile/live/1208_1.m3u8
 TVB星河频道,http://jydx.jdshipin.com:8081/hls/135/index.m3u8
 重庆有线&p9p,#genre#
 WWE,p9p://192.95.32.107:9906/5b987ab5000ef7018744e50174a621bd&link=盗链死全家
