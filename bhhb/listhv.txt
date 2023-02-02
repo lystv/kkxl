@@ -46,31 +46,31 @@ NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.
 超级体育1,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 超级体育2,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
 港台116测试,#genre#
-HK| FAIRCHILD EAST,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=90350&extension=ts&play_token=w4panUqY4F
-HK| FAIRCHILD WEST,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=90351&extension=ts&play_token=PgSS8rcLNN
-HK| FAIRCHILD 2 HD,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=90352&extension=ts&play_token=7QUQvrpycU
-HK| TVB HD,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153395&extension=ts&play_token=tdSmXOsMqf
-HK| TVB1,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153396&extension=ts&play_token=qd42npLkoB
-HK| TVB2,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153397&extension=ts&play_token=mpwdCCQONG
-HK| TVB DRAMA,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153400&extension=ts&play_token=l1PpLPHRTQ
-HK| TVB PEARL,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153399&extension=ts&play_token=mad8wXPonE
-HK| TVBE,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153398&extension=ts&play_token=0ib2fAt9jW
-HK| TVB CHINESE,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153401&extension=ts&play_token=wxx9BccHxp
-HK| TVB CLASSIC,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153503&extension=ts&play_token=XgkUlCEKCM
-HK| TVB E NEWS,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153504&extension=ts&play_token=9urlq5p625
-HK| TVB JADE,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153505&extension=ts&play_token=u4yRheiuaw
-HK| TVBS ASIA,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153507&extension=ts&play_token=Pun5nieBxs
-HK| TVB XING HE,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153506&extension=ts&play_token=oBUI7V2RM0
-HK| PHOENIX HK CHANNEL,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=153402&extension=ts&play_token=IAGXESvLLM
-HK| PHOENIX CHINESE,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=114695&extension=ts&play_token=p2cS9YxmDH
-HK| NOW SPORTS 1 HD,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=554949&extension=ts&play_token=XWRY8eYrZY
-HK| NOW SPORTS 2 HD,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=554948&extension=ts&play_token=rL3rerdHEH
-HK| NOW SPORTS 3 HD,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=554947&extension=ts&play_token=iE1GPQatpB
-HK| NOW SPORTS 4 HD,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=554946&extension=ts&play_token=YM7THcUXoh
-HK| NOW SPORTS 5 HD,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=554945&extension=ts&play_token=XjyQS2Hx7M
-HK| NOW SPORTS 6 HD,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=554944&extension=ts&play_token=nDSbaJ2YUs
-HK| NOW SPORTS 7 HD,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=554943&extension=ts&play_token=JyOiBTPc33
-HK| NOW PREMIER SPORTS 1 HD,http://line.gofast-tv.me:80/play/live.php?mac=da:85:38:dc:df:bc&stream=554953&extension=ts&play_token=GOrtHpTYly
+HK| FAIRCHILD EAST,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=90350&extension=ts&play_token=w4panUqY4F
+HK| FAIRCHILD WEST,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=90351&extension=ts&play_token=PgSS8rcLNN
+HK| FAIRCHILD 2 HD,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=90352&extension=ts&play_token=7QUQvrpycU
+HK| TVB HD,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153395&extension=ts&play_token=tdSmXOsMqf
+HK| TVB1,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153396&extension=ts&play_token=qd42npLkoB
+HK| TVB2,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153397&extension=ts&play_token=mpwdCCQONG
+HK| TVB DRAMA,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153400&extension=ts&play_token=l1PpLPHRTQ
+HK| TVB PEARL,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153399&extension=ts&play_token=mad8wXPonE
+HK| TVBE,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153398&extension=ts&play_token=0ib2fAt9jW
+HK| TVB CHINESE,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153401&extension=ts&play_token=wxx9BccHxp
+HK| TVB CLASSIC,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153503&extension=ts&play_token=XgkUlCEKCM
+HK| TVB E NEWS,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153504&extension=ts&play_token=9urlq5p625
+HK| TVB JADE,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153505&extension=ts&play_token=u4yRheiuaw
+HK| TVBS ASIA,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153507&extension=ts&play_token=Pun5nieBxs
+HK| TVB XING HE,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153506&extension=ts&play_token=oBUI7V2RM0
+HK| PHOENIX HK CHANNEL,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=153402&extension=ts&play_token=IAGXESvLLM
+HK| PHOENIX CHINESE,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=114695&extension=ts&play_token=p2cS9YxmDH
+HK| NOW SPORTS 1 HD,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=554949&extension=ts&play_token=XWRY8eYrZY
+HK| NOW SPORTS 2 HD,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=554948&extension=ts&play_token=rL3rerdHEH
+HK| NOW SPORTS 3 HD,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=554947&extension=ts&play_token=iE1GPQatpB
+HK| NOW SPORTS 4 HD,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=554946&extension=ts&play_token=YM7THcUXoh
+HK| NOW SPORTS 5 HD,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=554945&extension=ts&play_token=XjyQS2Hx7M
+HK| NOW SPORTS 6 HD,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=554944&extension=ts&play_token=nDSbaJ2YUs
+HK| NOW SPORTS 7 HD,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=554943&extension=ts&play_token=JyOiBTPc33
+HK| NOW PREMIER SPORTS 1 HD,http://line.gofast-tv.me:80/play/live.php?mac=C4:18:E9:9F:7B:5D&stream=554953&extension=ts&play_token=GOrtHpTYly
 华视新闻资讯,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 澳门莲花卫视,http://iptv.cooltv.top/tv/lotus.php
 翡翠台,http://jydx.jdshipin.com:8081/hls/25/index.m3u8
