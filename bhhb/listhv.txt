@@ -44,6 +44,7 @@ NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.
 超级体育1,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 超级体育2,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
 港台116测试,#genre#
+华视新闻资讯,http://stream.dsichannel.com:80/hls/cts-news.m3u8
 澳门莲花卫视,http://iptv.cooltv.top/tv/lotus.php
 翡翠台,http://jydx.jdshipin.com:8081/hls/25/index.m3u8
 明珠台,http://jydx.jdshipin.com:8081/hls/26/index.m3u8
