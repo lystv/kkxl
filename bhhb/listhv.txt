@@ -2572,6 +2572,9 @@ CCTV4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000
 欢笑剧场4k,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 CCTV4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV16,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+喜剧之王,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/6/7f69af54-c623-4782-879d-04560bce8a91/medium/?myTokenPrefixCustomParameter=88&myTokenPrefixendtime=1554639828&myTokenPrefixhash=xKa_49F96NytaceVdBKXhQ-wjIyArZzWeN19P4CJSP0=
+热播剧场,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/9/f7b8e434-e8df-46b0-bbda-5807610d58c7/medium/?myTokenPrefixCustomParameter=42&myTokenPrefixendtime=1554639828&myTokenPrefixhash=SxV4iLftnMMwXgGa8r9xOJQd9hVmcHo5XvDlmzzH2O4=
+少儿动画,http://cord.tvxio.bestv.com.cn/v1_0/k91/0g0/api/live/m3u8/10/6f2acaf1-2341-4cd7-a33f-168f83127eb1/medium/?myTokenPrefixCustomParameter=165&myTokenPrefixendtime=1554639828&myTokenPrefixhash=F1VajEzLv7q_mJwjwLLQRB2_rYtzgjmDSeKR2ZPhcM0=
 百视独播,http://tvmvip110.club/bs.php?id=124
 百视独播2,http://tvmvip110.club/bs.php?id=126
 百视独播3,http://tvmvip110.club/bs.php?id=128
