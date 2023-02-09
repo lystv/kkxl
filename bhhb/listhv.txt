@@ -54,6 +54,29 @@ PBS Kids FHD,https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac037
 PBS World Channel | HD,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 NASA TV 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+龙祥时代,http://gxdl-lhs.8866.org:8181/tsfile/live/1081_1.m3u8
+凤凰中文,http://gxdl-lhs.8866.org:8181/tsfile/live/1083_1.m3u8
+凤凰资讯,http://gxdl-lhs.8866.org:8181/tsfile/live/1082_1.m3u8
+凤凰香港,http://gxdl-lhs.8866.org:8181/tsfile/live/1084_1.m3u8
+快乐垂钓,http://gxdl-lhs.8866.org:8181/tsfile/live/1096_1.m3u8
+茶频道,http://gxdl-lhs.8866.org:8181/tsfile/live/1097_1.m3u8
+兵器科技,http://gxdl-lhs.8866.org:8181/tsfile/live/1098_1.m3u8
+电视指南,http://gxdl-lhs.8866.org:8181/tsfile/live/1099_1.m3u8
+风云足球,http://gxdl-lhs.8866.org:8181/tsfile/live/1100_1.m3u8
+央视台球,http://gxdl-lhs.8866.org:8181/tsfile/live/1101_1.m3u8
+高尔夫*网球,http://gxdl-lhs.8866.org:8181/tsfile/live/1102_1.m3u8
+女性时尚,http://gxdl-lhs.8866.org:8181/tsfile/live/1103_1.m3u8
+世界地理,http://gxdl-lhs.8866.org:8181/tsfile/live/1104_1.m3u8
+怀旧剧场,http://gxdl-lhs.8866.org:8181/tsfile/live/1105_1.m3u8
+央视文化精品,http://gxdl-lhs.8866.org:8181/tsfile/live/1107_1.m3u8
+风云剧场,http://gxdl-lhs.8866.org:8181/tsfile/live/1106_1.m3u8
+第一剧场,http://gxdl-lhs.8866.org:8181/tsfile/live/1108_1.m3u8
+风云音乐,http://gxdl-lhs.8866.org:8181/tsfile/live/1110_1.m3u8
+深圳都市,http://gxdl-lhs.8866.org:8181/tsfile/live/1112_1.m3u8
+深圳电视剧,http://gxdl-lhs.8866.org:8181/tsfile/live/1113_1.m3u8
+深圳财经生活,http://gxdl-lhs.8866.org:8181/tsfile/live/1114_1.m3u8
+深圳娱乐,http://gxdl-lhs.8866.org:8181/tsfile/live/1115_1.m3u8
+深圳体育健康,http://gxdl-lhs.8866.org:8181/tsfile/live/1116_1.m3u8
 民视台湾台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 民视HD,http://107.151.203.111:2209/135/us50.php?id=msk
 民视HD,http://23.237.10.66:16334
