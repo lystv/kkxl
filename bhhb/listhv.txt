@@ -50,6 +50,16 @@ NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.
 超级体育2,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
 港台116测试,#genre#
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+HBOHits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
+J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+TV8,http://2022.stream-link.org/playlist/8tv
+凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
+凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
+日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 KBS1,http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
 KBS2,http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
 MBC,http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
