@@ -93,12 +93,13 @@ RTHK31,http://2022.stream-link.org/playlist/rthk_31
 RTHK31,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV31/master.m3u8
 RTHK32,http://2022.stream-link.org/playlist/rthk_32
 RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 TV8,http://2022.stream-link.org/playlist/8tv
 凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
+香港衛視文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 日本购物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
