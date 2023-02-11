@@ -1,6 +1,7 @@
 体育,#genre#
 广东体育,http://jydx.jdshipin.com:8081/hls/1/index.m3u8
 广东体育,http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
+广东体育,http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 广东体育,http://gxfrg007.8800.org:8282/tsfile/live/1052_1.m3u8
 广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
@@ -28,6 +29,12 @@ CCTV5,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5hd
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 劲爆体育,http://110.80.139.109/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8$百视通
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+五星体育,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+魅力足球,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+超级体育,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/qcsj8m/8000000/mnf.m3u8
+新视觉,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
+足球高清,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/zqpd8m/8000000/mnf.m3u8
 FTV足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 TV BRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TV BRICS,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
@@ -72,7 +79,9 @@ NewTV炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.
 超级体育1,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 超级体育2,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
 港台116测试,#genre#
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线财经资讯台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd208_h.live/playlist.m3u8
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 翡翠台,http://2022.stream-link.org/playlist/tvb_jade
@@ -1116,6 +1125,7 @@ CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 CCTV4K,http://r.jdshipin.com/krMB5
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php
 CCTV16-4K-25PHLG源,http://live.cooltv.top/tv/aishang.php?id=cctv164k
+CCTV16-4K,http://223.109.123.145/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV16-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
@@ -3860,6 +3870,104 @@ IHOT爱动漫,http://39.135.7.132:6610/000000001001/6000000006000280630/1.m3u8?C
 IHOT爱体育,http://39.135.7.132:6610/000000001001/6000000006000290630/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=2&channel-id=wasusyt
 IHOT爱探索,http://39.135.7.132:6610/000000001001/6000000006000300630/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=2&channel-id=wasusyt
 广播,#genre#
+中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+环球资讯,http://sk.cri.cn/905.m3u8
+环球广播,http://sk.cri.cn/hyhq.m3u8
+南海之声,http://sk.cri.cn/nhzs.m3u8
+Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
+高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
+清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
+老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
+亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
+上海动感101,http://ls.qingting.fm/live/274.m3u8
+厦门音乐广播,http://ls.qingting.fm/live/1739.m3u8
+浙江动听,http://ls.qingting.fm/live/4866.m3u8
+四川岷江音乐广播,http://ls.qingting.fm/live/1110.m3u8
+北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
+广东音乐广播,http://ls.qingting.fm/live/1260.m3u8
+深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+动感音乐,http://cnlive.cnr.cn/hls/dongganyyt.m3u8
+华语金曲500首,http://ls.qingting.fm/live/3412131.m3u8
+80后音怡台,http://lhttp.qingting.fm/live/20207761/64k.mp3
+500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
+CRI 环球资讯广播 FM90.5,http://live.xmcdn.com/live/1040/64.m3u8
+CRI 环球资讯广播 FM90.5,http://ls.qingting.fm/live/24035.m3u8
+CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI 中文环球广播,http://live.xmcdn.com/live/1043/64.m3u8
+CRI 中文环球广播,http://ls.qingting.fm/live/4995.m3u8
+CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
+CRI 南海之声,http://live.xmcdn.com/live/1054/64.m3u8
+CRI 南海之声,http://ls.qingting.fm/live/62624.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI Hit FM FM88.7,http://live.xmcdn.com/live/75/64.m3u8
+CRI Hit FM FM88.7,http://ls.qingting.fm/live/1007.m3u8
+CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+CRI 轻松调频 FM91.5,http://live.xmcdn.com/live/1042/64.m3u8
+CRI 轻松调频 FM91.5,http://ls.qingting.fm/live/1006.m3u8
+CRI Easy FM – FM91.5,http://sk.cri.cn/915.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI NEWS Plus AM846,http://ls.qingting.fm/live/4584.m3u8
+CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
+CRI NEWS Plus AM1008,http://ls.qingting.fm/live/4584.m3u8
+CRI Sydney,http://ls.qingting.fm/live/4584.m3u8
+CNR 经济之声,http://live.xmcdn.com/live/1066/64.m3u8
+CNR 经济之声,http://ls.qingting.fm/live/387.m3u8
+CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 中国之声,http://live.xmcdn.com/live/1065/64.m3u8
+CNR 中国之声,http://ls.qingting.fm/live/386.m3u8
+CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR 音乐之声,http://live.xmcdn.com/live/12/64.m3u8
+CNR 音乐之声,http://ls.qingting.fm/live/388.m3u8
+CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR 经典音乐广播 101.8,http://live.xmcdn.com/live/13/64.m3u8
+CNR 经典音乐广播 101.8,http://ls.qingting.fm/live/389.m3u8
+CNR 经典音乐广播 101.8,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR 中华之声,http://live.xmcdn.com/live/14/64.m3u8
+CNR 中华之声,http://ls.qingting.fm/live/390.m3u8
+CNR 中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR 神州之声,http://live.xmcdn.com/live/15/64.m3u8
+CNR 神州之声,http://ls.qingting.fm/live/391.m3u8
+CNR 神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR 华夏之声,http://live.xmcdn.com/live/16/64.m3u8
+CNR 华夏之声,http://ls.qingting.fm/live/392.m3u8
+CNR 华夏之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR 香港之声,http://live.xmcdn.com/live/44/64.m3u8
+CNR 香港之声,http://ls.qingting.fm/live/4986.m3u8
+CNR 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+CNR 民族之声,http://live.xmcdn.com/live/17/64.m3u8
+CNR 民族之声,http://ls.qingting.fm/live/394.m3u8
+CNR 民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+CNR 文艺之声,http://live.xmcdn.com/live/38/64.m3u8
+CNR 文艺之声,http://ls.qingting.fm/live/395.m3u8
+CNR 文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR 老年之声,http://live.xmcdn.com/live/39/64.m3u8
+CNR 老年之声,http://ls.qingting.fm/live/396.m3u8
+CNR 老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs48/index.m3u8
+CNR 中国乡村之声,http://live.xmcdn.com/live/46/64.m3u8
+CNR 中国乡村之声,http://ls.qingting.fm/live/5039.m3u8
+CNR 中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR 哈语广播,http://live.xmcdn.com/live/1396/64.m3u8
+CNR 哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+CNR 藏语广播,http://ls.qingting.fm/live/4988.m3u8
+CNR 藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+CNR 维语广播,http://live.xmcdn.com/live/40/64.m3u8
+CNR 维语广播,http://ls.qingting.fm/live/4988.m3u8
+CNR 维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+CNR 娱乐广播,http://live.xmcdn.com/live/42/64.m3u8
+CNR 娱乐广播,http://ls.qingting.fm/live/398.m3u8
+CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR 中国交通广播,http://live.xmcdn.com/live/45/64.m3u8
+CNR 中国交通广播,http://ls.qingting.fm/live/4985.m3u8
+CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 AsiaFM亞洲天空台,http://funradio.cn:8000/funradio
 AsiaFM亞洲音樂台,http://asiafm.hk:8000/asiafm
 AsiaFM亞洲經典台,http://goldfm.cn:8000/goldfm
