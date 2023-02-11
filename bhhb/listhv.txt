@@ -20,11 +20,17 @@ CCTV5,http://tvmvip110.club/as.php?id=cctv5hd
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5hd
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
-CTV5+,http://117.169.121.162:6610/PLTV/88888910/224/3221225649/index.m3u8
+CTVV5+,http://117.169.121.162:6610/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://tvmvip110.club/as.php?id=cctv5p
 CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5hd
-BTV纪实科教-8KSDR源,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+五星体育,http://110.80.139.109/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
+劲爆体育,http://110.80.139.109/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8$百视通
+劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
+FTV足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+TV BRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+TV BRICS,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 古装剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
 超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
@@ -67,9 +73,20 @@ NewTV炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.
 超级体育2,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
 港台116测试,#genre#
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://2022.stream-link.org/playlist/tvb_jade
 HBOHits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
+J2,https://live.astradamy.com/tvbj2/index.m3u8
 J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+J2,http://shazui.8866.org:800/hls/81/index.m3u8
+RTHK31,http://2022.stream-link.org/playlist/rthk_31
+RTHK31,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV31/master.m3u8
+RTHK32,http://2022.stream-link.org/playlist/rthk_32
+RTHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8
+明珠台,http://r.jdshipin.com/ZQ4kN
 TV8,http://2022.stream-link.org/playlist/8tv
 凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
@@ -77,10 +94,14 @@ TV8,http://2022.stream-link.org/playlist/8tv
 日本购物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 日本购物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 日本购物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
-KBS1,http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
-KBS2,http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
-MBC,http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
-SBS,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m3u8
+纬来综合HD,http://123.51.230.108:18540/.m3u8
+纬来育乐HD,http://123.51.230.108:18541/.m3u8
+纬来体育HD,http://123.51.230.108:18509/.m3u8
+东风37,http://123.51.230.108:18560/.m3u8
+台视HD,http://123.51.230.108:18543/.m3u8
+东森戏剧HD,http://123.51.230.108:18538/.m3u8
+八大第一台HD,http://123.51.230.108:18539/.m3u8
+龙华电影,https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
 PBS Kids FHD,https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_128.m3u8
 PBS World Channel | HD,https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 NASA TV,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -344,7 +365,12 @@ ELEVEN2,http://www.yshmzmc.top/gtjm.php?id=live1072
 壹新闻,http://www.yshmzmc.top/gtjm.php?id=live1242
 MOMO综合,http://www.yshmzmc.top/gtjm.php?id=live1248
 年代much,http://www.yshmzmc.top/gtjm.php?id=live2002
+KBS1,http://pull-l3-cny.douyincdn.com/third/stream-da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+KBS2,http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+MBC,http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+SBS,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m3u8
 8M测试,#genre#
+咪咕4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 CCTV-4K,http://cfss.cc/ds/bst.php?id=Cf-0
 CCTV-1 8M,http://cfss.cc/ds/bst.php?id=Cf-1
 CCTV-2 8M,http://cfss.cc/ds/bst.php?id=Cf-2
