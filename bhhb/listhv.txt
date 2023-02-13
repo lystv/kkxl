@@ -106,6 +106,13 @@ NewTV炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.
 港片轮播,http://tvmvip110.club/douyu.php?id=9129814
 小星儿很酷,http://tvmvip110.club/douyu.php?id=9650887
 港剧直播,http://tvmvip110.club/douyu.php?id=4549169
+星空卫视,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8 
+广东体育,http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8 
+翡翠台,http://159.75.85.63:8765/telegram@feiyangdigital-feicui.m3u8 
+明珠台,http://159.75.85.63:8765/telegram@feiyangdigital-mingzhu.m3u8 
+CCTV4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8 
+CCTV16-4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8 
+广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线财经资讯台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd208_h.live/playlist.m3u8
