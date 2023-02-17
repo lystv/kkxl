@@ -479,7 +479,6 @@ CCTV-4K,http://cfss.cc/ds/bst.php?id=Cf-0
 港片轮播,http://tvmvip110.club/douyu.php?id=9129814
 小星儿很酷,http://tvmvip110.club/douyu.php?id=9650887
 港剧直播,http://tvmvip110.club/douyu.php?id=4549169
-
 CCTV1,http://iptv.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV2,http://iptv.cooltv.top/tv/aishang.php?id=cctv2hd
 CCTV3,http://iptv.cooltv.top/tv/aishang.php?id=cctv3hd
@@ -499,7 +498,6 @@ CCTV15,http://iptv.cooltv.top/tv/aishang.php?id=cctv15hd
 CCTV16,http://iptv.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV16,http://iptv.cooltv.top/tv/aishang.php?id=cctv164k
 CCTV17,http://iptv.cooltv.top/tv/aishang.php?id=cctv17hd
-
 CCTV1,http://218.29.55.44:808/hls/1/index.m3u8
 CCTV2,http://218.29.55.44:808/hls/2/index.m3u8
 CCTV3,http://218.29.55.44:808/hls/3/index.m3u8
@@ -514,7 +512,6 @@ CCTV11,http://218.29.55.44:808/hls/11/index.m3u8
 CCTV12,http://218.29.55.44:808/hls/12/index.m3u8
 CCTV13,http://218.29.55.44:808/hls/13/index.m3u8
 CCTV14,http://218.29.55.44:808/hls/14/index.m3u8
-
 CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV3,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
@@ -530,7 +527,6 @@ CCTV12,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 CCTV14,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 CCTV15,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-
 CCTV1,http://117.169.124.149:8080/live/cctv-1/1.m3u8
 CCTV2,http://117.169.124.149:8080/live/cctv-2/1.m3u8
 CCTV3,http://117.169.124.149:8080/live/cctv-3/1.m3u8
@@ -549,7 +545,6 @@ CCTV15,http://117.169.124.149:8080/live/cctv-15/1.m3u8
 CCTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8
 CCTV16,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV17,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv17/1.m3u8
-
 CCTV1,http://223.95.111.98:5555/newlive/live/hls/1/live.m3u8
 CCTV2,http://223.95.111.98:5555/newlive/live/hls/2/live.m3u8
 CCTV3,http://223.95.111.98:5555/newlive/live/hls/3/live.m3u8
@@ -564,7 +559,6 @@ CCTV11,http://223.95.111.98:5555/newlive/live/hls/11/live.m3u8
 CCTV12,http://223.95.111.98:5555/newlive/live/hls/12/live.m3u8
 CCTV14,http://223.95.111.98:5555/newlive/live/hls/14/live.m3u8
 CCTV15,http://223.95.111.98:5555/newlive/live/hls/15/live.m3u8
-
 CCTV-1 8M,http://cfss.cc/ds/bst.php?id=Cf-1
 CCTV-2 8M,http://cfss.cc/ds/bst.php?id=Cf-2
 CCTV-3 8M,http://cfss.cc/ds/bst.php?id=Cf-3
