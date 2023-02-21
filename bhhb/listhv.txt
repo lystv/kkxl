@@ -90,6 +90,25 @@ CGTN西班牙语,http://live.aishang.ctlcdn.com/00000110240367_1/encoder/0/playl
 Discovery Asia1,vjms://14.102.154.164:8500/live/cid=440
 Nat Geo,vjms://14.102.154.164:8500/live/cid=115
 Nat Geo Wild,vjms://14.102.154.164:8500/live/cid=263
+FigHTS,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+WB TV,http://208.115.225.174:14132
+HBO,http://208.115.225.174:14136
+HBO 2,http://208.115.225.174:14140
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+HBO X,http://208.115.225.174:14165
+Sbt,http://208.115.225.174:14170
+Sbt1,http://208.115.225.174:14173
+Sbt2,http://208.115.225.174:14176
+14259,http://208.115.225.174:14259
+BDMG,http://208.115.225.174:14263
+14271,http://208.115.225.174:14271
+Show FE1,http://208.115.225.174:14420
+Show FE2,http://208.115.225.174:14428
+Premiere,http://208.115.225.174:14460
+Premiere,http://208.115.225.174:14468
+ESPN 4,http://208.115.225.174:14510
+动物星球,http://208.115.225.174:14192
 东森新闻,http://116.11.141.181:8181/tsfile/live/1201_1.m3u8
 歌唱,http://116.11.141.181:8181/tsfile/live/1202_1.m3u8
 好莱坞电影,http://116.11.141.181:8181/tsfile/live/1203_1.m3u8
