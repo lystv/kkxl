@@ -81,6 +81,14 @@ NewTV炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.
 中国功夫,http://39.137.49.76:8080/PLTV/88888888/224/3221225660/index.m3u8?
 超级体育1,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
 超级体育2,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
+魅力广东,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVguangdongstv/1.m3u8
+魅力广西,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVguangxistv/1.m3u8
+魅力吉林,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVjilinstv/1.m3u8
+魅力江西,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-chaojijiangxistv/1.m3u8
+魅力四川,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVsichuanstv/1.m3u8
+魅力山东,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVshandongstv/1.m3u8
+魅力云南,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVyunnanstv/1.m3u8
+魅力黑龙江,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVheilongjiangstv/1.m3u8
 谷豆新源,#genre#
 东森新闻,http://116.11.141.145:8181/tsfile/live/1201_1.m3u8#http://116.11.141.136:8181/tsfile/live/1201_1.m3u8	
 歌唱,http://116.11.141.145:8181/tsfile/live/1202_1.m3u8#http://116.11.141.136:8181/tsfile/live/1202_1.m3u8	
