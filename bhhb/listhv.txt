@@ -398,6 +398,15 @@ CCTV-17ᴴᴰ,http://nas.jdshipin.com:8801/gdtest.php?id=CCTV-17HD_7500
 汕头综合,http://nas.jdshipin.com:8801/gdtest.php?id=shantouyitaogaoqing_1500
 汕头经济,http://nas.jdshipin.com:8801/gdtest.php?id=shantouertaogaoqing_1500
 纬来电影,http://103.68.63.37:8278/videolandmovie/playlist.m3u8
+RTHK31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+RTHK31,http://2022.stream-link.org/playlist/rthk_31
+RTHK31,http://shazui.8866.org:800/hls/89/index.m3u8
+RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+RTHK32,http://2022.stream-link.org/playlist/rthk_32
+RTHK32,http://shazui.8866.org:800/hls/90/index.m3u8
+RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8
+RTHK33,https://live.astradamy.com/hk33/index.m3u8
+RTHK34,https://cdn.hklive.tv/xxxx/34/index.m3u8
 TVBS,http://103.68.63.37:8278/tvbs/playlist.m3u8
 中天新闻,http://103.68.63.37:8278/ctinews/playlist.m3u8
 八大综合,http://103.68.63.37:8278/badazhonghe/playlist.m3u8
