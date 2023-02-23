@@ -102,6 +102,8 @@ HBO强档钜献,P2p://generationnexxxt.com:19806/7abe506274d0439e9dcd6c411f663e4
 HBO原创钜献,P2p://generationnexxxt.com:19806/8b3d44f4686d41adba17df9fcc3269e1
 TVBS新闻台,P2p://generationnexxxt.com:19806/96def3cebf90469a94613c2f5cd3afa7
 TVBS,P2p://generationnexxxt.com:19806/14a0607064b24a0280136944abd294aa
+无线新闻,mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
+无线新闻,P2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 东森新闻,http://116.11.141.145:8181/tsfile/live/1201_1.m3u8#http://116.11.141.136:8181/tsfile/live/1201_1.m3u8	
 歌唱,http://116.11.141.145:8181/tsfile/live/1202_1.m3u8#http://116.11.141.136:8181/tsfile/live/1202_1.m3u8	
 香港台,http://116.11.141.145:8181/tsfile/live/1207_1.m3u8	
