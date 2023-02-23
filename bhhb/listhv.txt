@@ -1,8 +1,11 @@
 体育,#genre#
-广东体育ᴴᴰ,http://nas.jdshipin.com:8801/gdtest.php?id=gdsportsHD_7000
+广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
+广东体育,http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146
 广东体育,http://124.222.238.146:3328/SMBD/smtv.php?id=gdty
 广东体育,http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=gdsports_1500
 广东体育,http://jydx.jdshipin.com:8081/hls/1/index.m3u8
+广东体育,https://epg.pw/stream/23ebc20bde4843e213cc9306a5c5346e9f5e2d66d5f47ac420d0424ba14fe54e.m3u8
+广东体育,https://epg.pw/stream/5245154a811c48a5f4879953135981353d2fdf422dab946a7346640572da65ac.m3u8
 广东体育,http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
 广东体育,http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
@@ -11,8 +14,6 @@
 广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
 广东体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东体育,http://lu1.cc/c/tv/sjtv/p/itouch.php?id=gdty
-广东体育,https://epg.pw/stream/23ebc20bde4843e213cc9306a5c5346e9f5e2d66d5f47ac420d0424ba14fe54e.m3u8
-广东体育,https://epg.pw/stream/5245154a811c48a5f4879953135981353d2fdf422dab946a7346640572da65ac.m3u8
 广东体育SD,http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdty&auth=rinimabi
 北京体育,http://hls.dszbdq.cn/d/btime.php?id=dajs
 北京体育,http://genglicai.3322.org:9901/tsfile/live/1033_1.m3u8
