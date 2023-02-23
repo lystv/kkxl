@@ -90,7 +90,18 @@ NewTV炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.
 魅力山东,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVshandongstv/1.m3u8
 魅力云南,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVyunnanstv/1.m3u8
 魅力黑龙江,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVheilongjiangstv/1.m3u8
-谷豆新源,#genre#
+P2p&谷豆新源,#genre#
+翡翠台,P2p://generationnexxxt.com:19806/95044fff239543bb930f22245aee31f5
+翡翠台,P2p://generationnexxxt.com:19806/c36a993d4e9f474085e37409335523c8
+翡翠台(华丽台),P2p://generationnexxxt.com:19806/dc1b0b5cf11843d9b5ee41a21c82ee41
+无綫新闻台,P2p://generationnexxxt.com:19806/e0e92ce4e14e4a8fb5f68334d86089e9
+无綫新闻台,P2p://generationnexxxt.com:19806/95c95dadeea940d290aeda7be36c1729
+爱奇艺,P2p://generationnexxxt.com:19806/fef044e1f92840509fbd830d827e08b3
+HBO Family,P2p://generationnexxxt.com:19806/dd04c17d0d674582be3126a5815dba0d
+HBO强档钜献,P2p://generationnexxxt.com:19806/7abe506274d0439e9dcd6c411f663e46
+HBO原创钜献,P2p://generationnexxxt.com:19806/8b3d44f4686d41adba17df9fcc3269e1
+TVBS新闻台,P2p://generationnexxxt.com:19806/96def3cebf90469a94613c2f5cd3afa7
+TVBS,P2p://generationnexxxt.com:19806/14a0607064b24a0280136944abd294aa
 东森新闻,http://116.11.141.145:8181/tsfile/live/1201_1.m3u8#http://116.11.141.136:8181/tsfile/live/1201_1.m3u8	
 歌唱,http://116.11.141.145:8181/tsfile/live/1202_1.m3u8#http://116.11.141.136:8181/tsfile/live/1202_1.m3u8	
 香港台,http://116.11.141.145:8181/tsfile/live/1207_1.m3u8	
