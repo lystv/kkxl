@@ -50,6 +50,18 @@ CCTV16 4K,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/cctv16hd
 欢笑剧场 4K,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 TV BRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TV BRICS,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
+HUB PREMIER 9,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348105&extension=ts&play_token=TD5uiTmsZQ
+HUB PREMIER 8,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348104&extension=ts&play_token=Scc2fTGjFJ
+HUB PREMIER 7,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348103&extension=ts&play_token=mkcO1jhuxL
+HUB PREMIER 6,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348102&extension=ts&play_token=7Vl2oj7voH
+HUB PREMIER 5,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348101&extension=ts&play_token=tEtke2zXKR
+HUB PREMIER 4,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348100&extension=ts&play_token=t2G2z76SM3
+HUB PREMIER 3,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348099&extension=ts&play_token=FH8u0jMsvO
+HUB PREMIER 2,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348098&extension=ts&play_token=KtN3ozRJY9
+HUB PREMIER 11,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348107&extension=ts&play_token=JOZvcxNKU
+HUB PREMIER 10,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348106&extension=ts&play_token=nrduhOvlh4
+HUB PREMIER 1,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348097&extension=ts&play_token=PzCZ7v7Nk7
 超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
 古装剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
 超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
