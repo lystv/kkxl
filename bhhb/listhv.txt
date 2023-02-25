@@ -1,5 +1,8 @@
 体育,#genre#
 广东体育,http://183.63.15.42:9901/tsfile/live/1001_1.m3u8
+广东体育,http://120.84.96.73:808/hls/170/index.m3u8
+广东体育,http://qwas.eatuo.com:9901/tsfile/live/1081_1.m3u8
+广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
 广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
 广东体育,http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146
 广东体育,http://124.222.238.146:3328/SMBD/smtv.php?id=gdty
@@ -18,6 +21,7 @@
 广东体育SD,http://v2.91kds.cn/c9/jdtv.m3u8?fmt=hls&id=gdty&auth=rinimabi
 北京体育,http://hls.dszbdq.cn/d/btime.php?id=dajs
 北京体育,http://genglicai.3322.org:9901/tsfile/live/1033_1.m3u8
+广东综艺4K,http://119.140.58.85:9901/hls/44/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV16,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
 CCTV16,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv16hd
@@ -94,7 +98,27 @@ NewTV炫舞未来,http://39.135.7.4:6610/000000001000/1000000001000000515/index.
 魅力山东,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVshandongstv/1.m3u8
 魅力云南,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVyunnanstv/1.m3u8
 魅力黑龙江,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVheilongjiangstv/1.m3u8
-P2p,#genre#
+P2p&秒播回看,#genre#
+广东体育,http://120.84.96.73:808/hls/170/index.m3u8
+IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
+CCTV-4,http://111.20.40.164:80/PLTV/88888893/224/3221226191/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,683&prioritypopid=1
+CCTV-16,http://111.20.40.170/PLTV/88888893/224/3221226921/index.m3u8
+CCTV世界地理,http://111.20.40.170/PLTV/88888893/224/3221226947/index.m3u8
+CCTV风云剧场,http://111.20.40.170/PLTV/88888893/224/3221226950/index.m3u8
+CCTV央视台球,http://111.20.40.170/PLTV/88888893/224/3221226956/index.m3u8
+CCTV第一剧场,http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
+CCTV女性时尚,http://111.20.40.170/PLTV/88888893/224/3221226969/index.m3u8
+CCTV怀旧剧场,http://111.20.40.170/PLTV/88888893/224/3221226972/index.m3u8
+CCTV兵器科技,http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
+CCTV高尔夫网球,http://111.20.40.170/PLTV/88888893/224/3221226978/index.m3u8
+CCTV文化精品,http://111.20.40.170/PLTV/88888893/224/3221226981/index.m3u8
+CCTV风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
+CCTV电视指南,http://111.20.40.170/PLTV/88888893/224/3221226987/index.m3u8
+CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8#http://live.cooltv.top/tv/aishang.php?id=chcjtyy
+CHC高清电影台,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8#http://y3y4.f3322.net:9901/hls/9/index.m3u8#http://live.cooltv.top/tv/aishang.php?id=chcgqdy#http://119.125.129.59:9901/tsfile/live/1046_1.m3u8
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8#http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://live.cooltv.top/tv/aishang.php?id=chcdzdy
+1905电影频道,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+欢笑剧场4k,http://111.20.40.170/PLTV/88888893/224/3221226582/index.m3u8#http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 翡翠台,P2p://generationnexxxt.com:19806/95044fff239543bb930f22245aee31f5
 翡翠台,P2p://generationnexxxt.com:19806/c36a993d4e9f474085e37409335523c8
 翡翠台(华丽台),P2p://generationnexxxt.com:19806/dc1b0b5cf11843d9b5ee41a21c82ee41
@@ -381,6 +405,17 @@ TVS,P2p://generationnexxxt.com:19806/e1b62b390f0e4cbdb006e649e79bb873
 tvN Movies HD,P2p://generationnexxxt.com:19806/ae806aaeb4f5487a86dc0d8e371e347b
 Astro Awani,P2p://generationnexxxt.com:19806/a32ed746445b45128fc97cff0723bf6c
 谷豆新源,#genre#
+IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
+足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+中国交通,http://119.125.129.59:9901/tsfile/live/1092_1.m3u8
+中国天气,http://59.32.98.154:9901/tsfile/live/1061_1.m3u8
+全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+纪实人文,http://119.125.130.16:9901/tsfile/live/1079_1.m3u8
+求索纪录,http://125.210.152.19:9120/live/hzgq-qsjlgq-h264.m3u8#http://39.135.7.132:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+星空音乐台,http://119.125.130.16:9901/tsfile/live/1038_1.m3u8
+TVB星河,http://119.125.130.16:9901/tsfile/live/1072_1.m3u8
+劲爆体育,http://121.51.249.48/livehkkp.chinamcache.com/live/lqhxjcHDH265.m3u8#http://122.136.191.47/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/
 东方影视,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
 东方影视,https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000/mnf.m3u8
 上海新闻,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
