@@ -79,6 +79,11 @@ HUB PREMIER 2,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=3480
 HUB PREMIER 11,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348107&extension=ts&play_token=JOZvcxNKU
 HUB PREMIER 10,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348106&extension=ts&play_token=nrduhOvlh4
 HUB PREMIER 1,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348097&extension=ts&play_token=PzCZ7v7Nk7
+凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 CCTV第一剧场,http://home.111818.xyz:8888/udp/239.76.254.49:9000
 CCTV风云剧场,http://home.111818.xyz:8888/udp/239.76.254.50:9000
 CCTV风云音乐,http://home.111818.xyz:8888/udp/239.76.254.51:9000
@@ -3538,6 +3543,24 @@ CHC-家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/def
 凤凰卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
 香港卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 凤凰中文,http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
+CCTV-1综合,http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
+CCTV-2财经,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
+CCTV-3综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
+CCTV-4中文国际,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
+CCTV-5体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225751/index.m3u8
+CCTV-6电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
+CCTV-7国防军事,http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
+CCTV-8电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225635/index.m3u8
+CCTV-9记录,http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
+CCTV-10科教,http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
+CCTV-11戏曲,http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
+CCTV-12社会与法,http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
+CCTV-13新闻,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
+CCTV-14少儿,http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
+CCTV-15音乐,http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-16奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+CCTV-17农业农村,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
+CCTV-5+体育赛事,http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
@@ -3581,7 +3604,6 @@ CHC-家庭影院,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/def
 纪实人文,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8?zshangd
 上视外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8?zshangd
 法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8?zshangd
-CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221226221/index.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221226225/index.m3u8
