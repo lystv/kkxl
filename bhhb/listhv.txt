@@ -93,6 +93,7 @@ CCTV女性时尚,http://home.111818.xyz:8888/udp/239.76.254.55:9000
 CCTV文化精品,http://home.111818.xyz:8888/udp/239.76.254.56:9000
 CCTV世界地理,http://home.111818.xyz:8888/udp/239.76.254.57:9000
 CCTV央视台球,http://home.111818.xyz:8888/udp/239.76.254.58:9000
+CCTV兵器科技,http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
 CCTV兵器科技,http://home.111818.xyz:8888/udp/239.76.254.59:9000
 CCTV高尔夫网球,http://home.111818.xyz:8888/udp/239.76.254.62:9000
 CCTV兵器科技,http://www.kitcc.cn:8888/udp/239.253.43.18:5146
@@ -120,6 +121,7 @@ CCTV风云音乐,http://www.kitcc.cn:8888/udp/239.253.43.6:5146
 CCTV高尔夫网球,http://www.kitcc.cn:8888/udp/239.253.43.22:5146
 CCTV高尔夫网球,http://www.kitcc.cn:8888/udp/239.253.43.12:5146
 连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+4K影视,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 4K超高清电影,http://r.jdshipin.com/5DWJk
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
