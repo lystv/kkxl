@@ -67,28 +67,6 @@ CCTV16 4K,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/cctv16hd
 欢笑剧场 4K,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 TV BRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TV BRICS,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-astro SUPERSPORT 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-astro SUPERSPORT 4K,http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
-ASTRO SPORT 4K UHD 1,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=QB30im0n3A
-ESPN 4 HD,http://51.222.87.103:8880/287994016241/287994016241/31148
-ESPN 3,http://51.222.87.103:8880/287994016241/287994016241/16725
-SporTV 1,http://51.222.87.103:8880/287994016241/287994016241/16753
-日-J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日-J Sports 3[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
-日-J Sports 2[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
-日-J Sports 1[Not 24/7],http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
-Hub Premier Sport 4K,http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-HUB PREMIER 9,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348105&extension=ts&play_token=TD5uiTmsZQ
-HUB PREMIER 8,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348104&extension=ts&play_token=Scc2fTGjFJ
-HUB PREMIER 7,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348103&extension=ts&play_token=mkcO1jhuxL
-HUB PREMIER 6,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348102&extension=ts&play_token=7Vl2oj7voH
-HUB PREMIER 5,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348101&extension=ts&play_token=tEtke2zXKR
-HUB PREMIER 4,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348100&extension=ts&play_token=t2G2z76SM3
-HUB PREMIER 3,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348099&extension=ts&play_token=FH8u0jMsvO
-HUB PREMIER 2,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348098&extension=ts&play_token=KtN3ozRJY9
-HUB PREMIER 11,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348107&extension=ts&play_token=JOZvcxNKU
-HUB PREMIER 10,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348106&extension=ts&play_token=nrduhOvlh4
-HUB PREMIER 1,http://tvt3.xyz:80/play/live.php?mac=00:1A:79:00:04:02&stream=348097&extension=ts&play_token=PzCZ7v7Nk7
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
