@@ -562,11 +562,14 @@ P2p&秒播回看,#genre#
 J2,http://r.jdshipin.com/Nr5jq
 明珠台,http://r.jdshipin.com/ZQ4kN
 ViuTV,http://r.jdshipin.com/vSJvl
+IPTV高清院线,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bfa0a1311d0134f8d.flv
 IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225712/index.m3u8
 IPTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u8
 IPTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226261/index.m3u8
 CCTV-4,http://111.20.40.164:80/PLTV/88888893/224/3221226191/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,683&prioritypopid=1
+CCTV4K超高清,http://lu1.cc/itv/php/cctv4k.php
+CCTV4K超高清,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV-16,http://111.20.40.170/PLTV/88888893/224/3221226921/index.m3u8
 CCTV1综合,http://117.169.122.98:6610/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1综合,http://117.169.122.98:6610/PLTV/88888910/224/3221225642/index.m3u8
