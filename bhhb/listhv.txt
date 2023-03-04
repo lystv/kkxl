@@ -28,26 +28,24 @@
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 广东综艺4K,http://119.140.58.85:9901/hls/44/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+CCTV16,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV16,http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
-CCTV16,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv16hd
 CCTV16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV5,http://39.134.116.30/PLTV/88888888/224/3221225751/index.m3u8
-CCTV-5体育,rtsp://183.59.156.50/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?0&GuardEncType=2&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C
+CCTV5,rtsp://183.59.156.50/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?0&GuardEncType=2&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C
 CCTV-5+体育赛事,rtsp://183.59.156.50/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil?0&GuardEncType=2&accountinfo=%7E%7EV2.0%7Er6jF1xCjzHv7swACkj1iSQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C
-CCTV-5体育,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?0&GuardEncType=2&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=%2C
+CCTV5,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?0&GuardEncType=2&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=%2C
 CCTV5+体育赛事,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil?0&GuardEncType=2&accountinfo=%7E%7EV2.0%7Er6jF1xCjzHv7swACkj1iSQ%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=%2C
 CCTV5+,http://39.134.116.30/PLTV/88888888/224/3221225706/index.m3u8
 CCTV5,http://tvmvip110.club/as.php?id=cctv5hd
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5hd
 CCTV5,http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 CCTV5+,http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
 CCTV16,http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CTVV5+,http://117.169.121.162:6610/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5+,http://tvmvip110.club/as.php?id=cctv5p
 CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
-CCTV5,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5hd
 五星体育,http://110.80.139.109/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 劲爆体育,http://110.80.139.109/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8$百视通
@@ -63,7 +61,6 @@ CCTV5,http://wtv.weetai.cn/iptv/2022/tyzb02.php?id=cctv5hd
 FTV足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 风云足球,rtsp://125.88.53.18/PLTV/88888905/224/3221229930/10000100000000060000000011037422_0.smil?icpid=SSPID&GuardEncType=2&accountinfo=%7E%7EV2.0%7Elo3t0CkPXl-Ytuu5GGG77w%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C#rtp://239.253.43.20:5146
 CCTV4K超高清,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
-CCTV16 4K,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 欢笑剧场 4K,http://221.178.19.78/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
 TV BRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TV BRICS,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
