@@ -2,8 +2,10 @@
 广东体育,rtsp://183.59.156.50/PLTV/88888905/224/3221227818/10000100000000060000000005076859_0.smil?0&GuardEncType=2&accountinfo=/+akjaBNtrxv++Nlci7N1GWGerOaC+XYLh9OOsbcYpBZpE5Fjy4Wp3Jul0t692MecGUxbnM9ZfOcCvij6GLDGveliofE49RneKThAOoyW/3RbDYGzY4aMb7dUd8Pcq+xlhGzVCb7g1l9i8quZgKLag==:20200321701401,02040449949
 广东体育,rtsp://125.88.53.80:554/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw==%3A20201118191457%2C23789887%2C113.117.62.188%2C20201118191457%2C02000001000000052014052600000001%2C2378988720201118191456%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601&from=187&hms_devid=71604&online=1605705879
 广东体育,http://183.63.15.42:9901/tsfile/live/1001_1.m3u8
+广东体育,http://www.superkit.cn:8888/udp/239.77.0.112:5146
 广东体育,http://120.84.96.73:808/hls/170/index.m3u8
 广东体育,http://119.140.58.85:9901/hls/39/index.m3u8
+广东体育,http://www.superkit.cn:8888/udp/239.77.0.168:5146
 广东体育,http://qwas.eatuo.com:9901/tsfile/live/1081_1.m3u8
 广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.168:5146
 广东体育,http://fxhack.f3322.org:8000/udp/239.77.0.112:5146
@@ -1768,6 +1770,58 @@ CCTV-17,http://117.169.124.149:8080/live/HD-4000k-1080P-cctv17/index.m3u8
 金牌综艺,http://117.169.124.149:8080/live/saishijx/index.m3u8
 CETV1,http://117.169.124.149:8080/live/jiaoyutv/index.m3u8
 CGTN纪实,http://117.169.124.149:8080/live/cctv-9/index.m3u8
+翡翠台,http://nas.jdshipin.com:8801/gdtest.php?id=1350_4500
+翡翠台,http://113.117.74.7:8081/hls/67/index.m3u8
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8
+翡翠台,http://baidu.douyincdn.freetvtv.com/jade/index.m3u8
+翡翠台,http://2022.stream-link.org/playlist/tvb_jade.ts
+翡翠台,P2p://generationnexxxt.com:19806/8fb1cc240a46409fb6db45af3fe436a3
+翡翠台,http://23.237.10.66:16106
+华丽台,http://2022.stream-link.org/playlist/astro_jade.ts
+华丽台,http://r.jdshipin.com/thuYX
+明珠台,http://nas.jdshipin.com:8801/gdtest.php?id=1351_4500
+明珠台,http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://moking2010.x10.mx/gd1.php?id=mzt
+TVB J2,http://r.jdshipin.com/Nr5jq
+TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+TVB J2,http://baidu.douyincdn.freetvtv.com/j22/m2.m3u8
+TVB J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+TVB 星河,http://113.117.74.7:8081/hls/135/index.m3u8
+TVB 星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
+TVB星河,http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
+无线新闻,https://pull-l3-cny.douyincdn.com/live/stream-112175tvb1202212212.m3u8
+无线新闻,http://2022.stream-link.org/playlist/tvb_news.ts
+无线新闻台,P2p://generationnexxxt.com:19806/53d2416198234f76a9e3207886db4517
+无线新闻台,P2p://generationnexxxt.com:19806/3fab81cdbe234f20a5036669ce3c42d1
+无线新闻,P2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
+无线财经,http://2022.stream-link.org/playlist/tvb_finance.ts
+有线新闻,http://2022.stream-link.org/playlist/cable_news.ts
+有线财经,http://2022.stream-link.org/playlist/cable_finance.ts
+HoyTV,http://2022.stream-link.org/playlist/hoy_tv.ts
+HoyTV资讯,http://2022.stream-link.org/playlist/hoy_info.ts
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,https://v1.qiantutv.com/stream/8645d53881d781e024b0db69a147fbd7/index.m3u8
+RTHK31,http://2022.stream-link.org/playlist/rthk_31.ts
+RTHK32,http://2022.stream-link.org/playlist/rthk_32.ts
+HBO Hits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8
+纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门莲花,http://nettvpro.live/hls/lotustv.php
+澳门莲花,http://epg.112114.xyz/lotus
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+ABC,http://2022.stream-link.org/playlist/abc_news.ts
+ANN,http://2022.stream-link.org/playlist/ann_news.ts
+Asianet,http://2022.stream-link.org/playlist/asianet_news.ts
+CNA，http://2022.stream-link.org/playlist/cna_news.ts
+DW,http://2022.stream-link.org/playlist/dw_news.ts
+EURO,http://2022.stream-link.org/playlist/euro_news.ts
+France24,http://2022.stream-link.org/playlist/france_24e.ts
+GB新闻,http://2022.stream-link.org/playlist/gb_news.ts
+turk,http://2022.stream-link.org/playlist/haber_turk.ts
+nbc,http://2022.stream-link.org/playlist/nbc_news.ts
 江西电信,#genre#
 CCTV1-综合,http://yuwentao114.f3322.net:4022/rtp/239.252.219.200:5140
 CCTV2-财经,http://yuwentao114.f3322.net:4022/rtp/239.252.220.183:5140
