@@ -2228,6 +2228,27 @@ Premiere,http://208.115.225.174:14460
 Premiere,http://208.115.225.174:14468
 ESPN 4,http://208.115.225.174:14510
 动物星球,http://208.115.225.174:14192
+东森新闻,http://116.11.141.173:8181/tsfile/live/1201_1.m3u8
+歌唱,http://116.11.141.173:8181/tsfile/live/1202_1.m3u8
+香港台,http://116.11.141.173:8181/tsfile/live/1207_1.m3u8
+香港台,http://116.11.141.173:8181/tsfile/live/1207_1.m3u8
+私人影院,http://116.11.141.173:8181/tsfile/live/1210_1.m3u8
+龙祥时代181,http://116.11.141.173:8181/tsfile/live/1205_1.m3u8
+好莱坞电影,http://116.11.141.173:8181/tsfile/live/1203_1.m3u8
+凤凰中文,http://116.11.141.173:8181/tsfile/live/1221_1.m3u8
+凤凰香港,http://116.11.141.173:8181/tsfile/live/1214_1.m3u8
+动物星球,http://116.11.141.173:8181/tsfile/live/1213_1.m3u8
+动画,http://116.11.141.173:8181/tsfile/live/1219_1.m3u8
+东森亚洲新闻,http://116.11.141.173:8181/tsfile/live/1212_1.m3u8
+东森戏剧,http://116.11.141.173:8181/tsfile/live/1223_1.m3u8
+东森电影,http://116.11.141.173:8181/tsfile/live/1222_1.m3u8
+电视剧,http://116.11.141.173:8181/tsfile/live/1215_1.m3u8
+TV星河,http://116.11.141.173:8181/tsfile/live/1206_1.m3u8
+GTV八大娱乐台,http://116.11.141.173:8181/tsfile/live/1211_1.m3u8
+GTV八大戏剧台,http://116.11.141.173:8181/tsfile/live/1208_1.m3u8
+ELEVEN2,http://116.11.141.173:8181/tsfile/live/1216_1.m3u8
+ELEVEN 1,http://116.11.141.173:8181/tsfile/live/1204_1.m3u8
+AXN181,http://116.11.141.173:8181/tsfile/live/1217_1.m3u8
 台視新聞,http://2023.stream-link.org/playlist/ttv_news
 TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news
 民視新聞,http://2023.stream-link.org/playlist/ftv_news
