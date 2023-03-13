@@ -390,6 +390,13 @@ IPTV热播剧场,http://fxhack.f3322.org:8000/udp/239.77.1.90:5146
 IPTV少儿动画,http://fxhack.f3322.org:8000/udp/239.77.1.91:5146
 IPTV收视指南,http://fxhack.f3322.org:8000/udp/239.77.0.111:5146
 EBU,http://fxhack.f3322.org:8000/udp/239.253.43.165:5146
+每日影院,http://home.ddx2013.cc:4022/rtp/239.93.4.250:8808
+幸福剧场,http://home.ddx2013.cc:4022/rtp/239.93.4.245:8788
+风尚生活,http://home.ddx2013.cc:4022/rtp/239.93.4.244:8784
+幸福娱乐,http://home.ddx2013.cc:4022/rtp/239.93.4.246:8792
+麻辣体育,http://home.ddx2013.cc:4022/rtp/239.93.5.210:9732
+爱宠宠物,http://home.ddx2013.cc:4022/rtp/239.93.4.247:8796
+来钓鱼吧,http://home.ddx2013.cc:4022/rtp/239.93.4.224:8496
 PPTV-1,http://fxhack.f3322.org:8000/udp/239.77.1.183:5146
 PPTV-2,http://fxhack.f3322.org:8000/udp/239.77.1.184:5146
 PPTV-3,http://fxhack.f3322.org:8000/udp/239.77.1.185:5146
