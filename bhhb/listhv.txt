@@ -4828,6 +4828,9 @@ CCTV中视购物,http://39.135.138.58:18890/PLTV/88888888/224/3221225976/index.m
 金鹰纪实,http://222.240.44.133:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南爱晚,http://222.240.44.133:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南经视,http://222.240.44.133:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC家庭影院,http://223.151.51.27:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC高清电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://124.232.233.15:6610/000000001001/201600020009/1400.m3u8?m3u8_level=2
 湖南电视剧,http://124.232.233.15:6610/000000001001/201600020006/1400.m3u8?m3u8_level=2
 湖南都市,http://124.232.233.15:6610/000000001001/201600020003/1400.m3u8?m3u8_level=2
