@@ -4073,6 +4073,15 @@ CNC中文,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 西藏藏语高清,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
 泉州电视台1,rtmp://live.qztv.cn/live/news
 泉州电视台4,rtmp://live.qztv.cn/live/mny
+北京卫视,http://lu1.cc/itv/php/bjcd1.php?id=bjws
+北京新闻,http://lu1.cc/itv/php/bjcd1.php?id=bjxw
+北京文艺,http://lu1.cc/itv/php/bjcd1.php?id=bjwy
+北京影视,http://lu1.cc/itv/php/bjcd1.php?id=bjys
+北京财经,http://lu1.cc/itv/php/bjcd1.php?id=bjcj
+北京生活,http://lu1.cc/itv/php/bjcd1.php?id=bjsh
+北京纪实科教,http://lu1.cc/itv/php/bjcd1.php?id=bjjskj
+北京体育休闲,http://lu1.cc/itv/php/bjcd1.php?id=bjtyxx
+北京卡酷少儿,http://lu1.cc/itv/php/bjcd1.php?id=bjkk
 北京文艺,http://genglicai.3322.org:9901/tsfile/live/1018_1.m3u8
 北京科教,http://genglicai.3322.org:9901/tsfile/live/1019_1.m3u8
 北京影视,http://genglicai.3322.org:9901/tsfile/live/1020_1.m3u8
