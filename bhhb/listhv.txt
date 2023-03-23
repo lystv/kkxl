@@ -125,6 +125,10 @@ NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.
 魅力云南,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVyunnanstv/1.m3u8
 魅力黑龙江,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-NEWTVheilongjiangstv/1.m3u8
 广东电信回看源,#genre#
+爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
+4K影视,http://nas.jdshipin.com:8801/4kys.php
+虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
+北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 广州综合,rtsp://183.59.156.50/PLTV/88888905/224/3221230104/453207146.smil?0&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州影视,rtsp://183.59.131.37:554/PLTV/88888905/224/3221230115/453198755.smil?0&accountinfo=%7E%7EV2.0%7ENaCaue7LGOmXprWOEgXTzw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州法治,rtsp://183.59.153.37:554/PLTV/88888905/224/3221230168/453206912.smil?0&accountinfo=%7E%7EV2.0%7EUSiyCu_w9WF99m5iQxHYRA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
@@ -4327,6 +4331,38 @@ CCTV-5+ 体育赛事,http://live.aishang.ctlcdn.com/00000110240128_1/encoder/0/p
 吉林卫视,http://live.aishang.ctlcdn.com/00000110240399_1/encoder/0/playlist.m3u8?CONTENTID=00000110240399_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 江西卫视,http://live.aishang.ctlcdn.com/00000110240398_1/encoder/0/playlist.m3u8?CONTENTID=00000110240398_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 辽宁卫视,http://live.aishang.ctlcdn.com/00000110240255_1/encoder/0/playlist.m3u8?CONTENTID=00000110240255_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=CCTV1hd
+CCTV2,http://live.cooltv.top/tv/aishang.php?id=CCTV2hd
+CCTV3,http://live.cooltv.top/tv/aishang.php?id=CCTV3hd
+CCTV4,http://live.cooltv.top/tv/aishang.php?id=CCTV4hd
+CCTV5,http://live.cooltv.top/tv/aishang.php?id=CCTV5hd
+CCTV6,http://live.cooltv.top/tv/aishang.php?id=CCTV6hd
+CCTV7,http://live.cooltv.top/tv/aishang.php?id=CCTV7hd
+CCTV8,http://live.cooltv.top/tv/aishang.php?id=CCTV8hd
+CCTV9,http://live.cooltv.top/tv/aishang.php?id=CCTV9hd
+CCTV10,http://live.cooltv.top/tv/aishang.php?id=CCTV10hd
+CCTV11,http://live.cooltv.top/tv/aishang.php?id=CCTV11hd
+CCTV12,http://live.cooltv.top/tv/aishang.php?id=CCTV12hd
+CCTV13,http://live.cooltv.top/tv/aishang.php?id=CCTV13hd
+CCTV14,http://live.cooltv.top/tv/aishang.php?id=CCTV14hd
+CCTV15,http://live.cooltv.top/tv/aishang.php?id=CCTV15hd
+CCTV16,http://live.cooltv.top/tv/aishang.php?id=CCTV16hd
+CCTV17,http://live.cooltv.top/tv/aishang.php?id=CCTV17hd
+电视剧1,http://110.153.180.106:55555/out_1/index.m3u8?zxinjd
+电视剧2,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+电视剧3,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
+电视剧4,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
+新疆裕民1,http://117.190.130.4:8081/out_1/index.m3u8?zxinjd
+新疆裕民2,http://117.190.130.4:8081/out_2/index.m3u8?zxinjd
+石家庄综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
+石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
+石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
+石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
+黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8?zheild
+黑龙江新闻法制,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8?zheild
+黑龙江农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8?zheild
+黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8?zheild
+黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8?zheild
 CCTV1 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240001_1/playlist.m3u8?CONTENTID=00000110240001_1
 CCTV2 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240002_1/playlist.m3u8?CONTENTID=00000110240002_1
 CCTV3 576,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240259_1/playlist.m3u8?CONTENTID=00000110240259_1
