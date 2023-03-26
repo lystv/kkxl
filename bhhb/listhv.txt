@@ -887,6 +887,12 @@ BTV新闻,http://iptva.cn/api/M3u8/Index?id=972&card=99982475359
 F3322广东电信组播,#genre#
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 欢笑剧场4K,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
+翡翠台,http://163.172.38.68:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts#http://163.172.38.68:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
+J2,http://163.172.38.68:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
+明珠台,http://163.172.38.68:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts#http://r.jdshipin.com/ZQ4kN
+东森电影,http://163.172.38.68:80/play/ubI0Nrlni6TwusjXuSxNxB5PW_XT81uFDjTVXZoRjdM/ts
+东森洋片,http://163.172.38.68:80/play/ubI0Nrlni6TwusjXuSxNxJYtbFFm1SW1annE_Xwju4w/ts#http://120.84.96.73:808/hls/33/index.m3u8
+财经体育资讯,http://163.172.38.68:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts#https://epg.pw/stream/25bef72b13a58be1cd8920caf513f2af1ed71c489c6d5c0a99603b0360e8ef12.m3u8
 大湾区卫视ᴴᴰ,http://www.kitcc.cn:8888/udp/239.77.0.215:5146
 广东卫视ᴴᴰ,http://www.kitcc.cn:8888/udp/239.77.1.19:5146
 广东卫视ᴴᴰ,http://www.kitcc.cn:8888/udp/239.77.1.152:5146
