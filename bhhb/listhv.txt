@@ -6209,8 +6209,10 @@ CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 金色学堂,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 央卫视测试,#genre#
-凤凰资讯,https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰中文,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN-纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
 CGTN-国际频道,http://live.cgtn.com/1000/prog_index.m3u8
