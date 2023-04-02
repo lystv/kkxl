@@ -41,6 +41,7 @@ CCTV16,http://39.135.138.59:18890/PLTV/88888888/224/3221226233/index.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV5+,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 FTV足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
+4KUHD,http://124.232.233.6:6060/000000001901/202200010028/index.m3u8?m3u8_level=2
 安徽综艺体育,http://stream.ahwanyun.cn/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
