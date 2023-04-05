@@ -142,6 +142,7 @@ NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.
 北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 凤凰资讯,http://39.135.148.130:6610/PLTV/88888910/224/3221226274/index.m3u8
 凤凰中文,http://39.135.148.130:6610/PLTV/88888910/224/3221226248/index.m3u8
+纪实科教8K,http://159.75.85.63:6798/
 广州综合高清,rtsp://183.59.168.27/PLTV/88888905/224/3221230104/453207146.smil?0&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州新闻高清,rtsp://183.59.168.27/PLTV/88888905/224/3221230113/453206913.smil?0&accountinfo=%7E%7EV2.0%7E0SFQT4d134tJBYGpDmeXDQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州影视高清,rtsp://183.59.168.27/PLTV/88888905/224/3221230115/453198755.smil?0&accountinfo=%7E%7EV2.0%7ENaCaue7LGOmXprWOEgXTzw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
@@ -7729,6 +7730,8 @@ CCTV12,http://117.169.121.162:6610/PLTV/88888910/224/3221225637/index.m3u8
 凤凰中文[960*540],https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯[960*540],http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8购物频道导视,http://110.9.159.82:9981/stream/channelid/1104644013?ticket=3E97F83571D93B08A8B49A037892F2BE08DEA3C9&profile=pass
 域外测试,#genre#
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+NHK WORLD,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 D HD,http://84.17.61.203:8086/udp/238.2.25.61:1234
 Cinemax,http://84.17.61.203:8086/udp/238.2.25.62:1234
 HBO,http://84.17.61.203:8086/udp/238.2.25.63:1234
