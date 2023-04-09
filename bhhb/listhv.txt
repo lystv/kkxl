@@ -2996,6 +2996,9 @@ Astro小太阳,P2p://generationnexxxt.com:19806/783861d0aade442c87f4e0dafaf6eb2a
 Astro Ceria,P2p://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c
 Animax,P2p://generationnexxxt.com:19806/de2b9bed4a6049a7b8508323661746dd
 咪咕,#genre#
+TVB 翡翠台,http://live.cooltv.top/tv/good.php?id=1350_4500
+TVB 明珠台,http://live.cooltv.top/tv/good.php?id=1351_4500
+北京淘電影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
 CCTV1,http://hms404nc1972679597.live.aikan.miguvideo.com/wh7f454c46tw521173410_1441882867/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.120&timestamp=20230227022023&ContentId=265183188&timezone=UTC&mtv_session=f92104c049e0b3ae5746e83021b7122d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e3680464d301950f34cd7428aede7d20
 CCTV2,http://hms124nc1972679568.live.aikan.miguvideo.com/wh7f454c46tw579596008_-63006805/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.120&timestamp=20230227022121&ContentId=265667329&timezone=UTC&mtv_session=5995408cce526bc31d22fa1acbcfa6b0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fa018c27a183892195ed0247550f3a00
 CCTV3,http://hms64nc1972679562.live.aikan.miguvideo.com/wh7f454c46tw624229805_115430903/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.120&timestamp=20230227022206&ContentId=265667206&timezone=UTC&mtv_session=9bf248861bac43952ceae743fb070b79&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=270265a9ab798a62c7e6ebf06668da87
