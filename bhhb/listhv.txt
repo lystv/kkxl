@@ -20,7 +20,7 @@ CCTV5+体育赛事,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227192/10000100
 CCTV13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-广东体育,http://183.63.15.42:9901/tsfile/live/1001_1.m3u8
+广东体育,http://113.117.74.15:8081/hls/1/index.m3u8
 广东体育,http://www.superkit.cn:8888/udp/239.77.0.112:5146
 广东体育,http://120.84.96.73:808/hls/170/index.m3u8
 广东体育,http://www.superkit.cn:8888/udp/239.77.0.168:5146
@@ -426,6 +426,10 @@ CEC国际旅游,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 CEC国际教育,rtmp://play.cec-tv.com.cn/channel/cec-tv3
 CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
 3月测试,#genre#
+CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/01.m3u8?&HlsSubType=&encrypt=
+三立新聞,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
+TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 4K超清,http://219.142.150.54:9901/tsfile/live/1011_1.m3u8
 爱上4K,http://219.142.150.54:9901/tsfile/live/1027_1.m3u8
 4K测试,http://219.142.150.54:9901/tsfile/live/1009_1.m3u8
