@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv1.png" group-title="💘CCTV超清",CCTV1FHD
+rtsp://183.59.145.212:554/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7EUwOl-Gl8Z1MFFJlY1q_RCg%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv2.png" group-title="💘CCTV超清",CCTV2FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227634/10000100000000060000000004662503_0.smil?0&accountinfo=%7E%7EV2.0%7Ew08QX--mxmtiRia3ZBMEZA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv3.png" group-title="💘CCTV超清",CCTV3FHD
+rtsp://183.59.180.37:554/PLTV/88888905/224/3221229838/10000100000000060000000009924454_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7EgvH63pQiXJKEZibMVS_W8g%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4.png" group-title="💘CCTV超清",CCTV4FHD
+rtsp://183.59.145.212:554/PLTV/88888905/224/3221229981/10000100000000060000000010232874_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7EWWB8_f1wHT6FqFOd9jVYYQ%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv5.png" group-title="💘CCTV超清",CCTV5FHD
+rtsp://183.59.145.213:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv5plus.png" group-title="💘CCTV超清",CCTV5+FHD
+rtsp://183.59.146.146:554/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7Er6jF1xCjzHv7swACkj1iSQ%7ERvlnGGuryidxfFw7vikqF36KV3OzBo9eGxMifT2i5wlp7q32qkwroK10KKmi7E5C1ULKPXz8jzSWhTr4H-O5w1ZYrWKmJztKkZO6d03HZOk~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv6.png" group-title="💘CCTV超清",CCTV6FHD
+rtsp://183.59.146.147:554/PLTV/88888905/224/3221229898/10000100000000060000000009924445_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ed-FexEoDWH8JBMQLRWKq3w%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv7.png" group-title="💘CCTV超清",CCTV7FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227620/10000100000000060000000004662504_0.smil?0&accountinfo=%7E%7EV2.0%7EmBZ9vCGayUb5OiqnpyUtBg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv8.png" group-title="💘CCTV超清",CCTV8FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221229900/10000100000000060000000009924385_0.smil?0&accountinfo=%7E%7EV2.0%7EsIJM3FaGUlm_stwXY7o0AA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv9.png" group-title="💘CCTV超清",CCTV9FHD
+rtsp://183.59.146.153:554/PLTV/88888905/224/3221227617/10000100000000060000000004662501_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=%7E%7EV2.0%7EdT_-cvTqkfdJ1X89SBzV5A%7ERvlnGGuryidxfFw7vikqF36KV3OzBo9eGxMifT2i5wlp7q32qkwroK10KKmi7E5C1ULKPXz8jzSWhTr4H-O5w1ZYrWKmJztKkZO6d03HZOk~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2&tenantId=8601
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv10.png" group-title="💘CCTV超清",CCTV10FHD
+rtsp://183.59.180.131:554/PLTV/88888905/224/3221227631/10000100000000060000000004662500_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7EP33t7yUqS7YkT4cRFRHKTA%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv11.png" group-title="💘CCTV超清",CCTV11FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221229858/10000100000000060000000010595398_0.smil?0&accountinfo=%7E%7EV2.0%7ElJjNhC1QR9nYivNY1m6PzA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv12.png" group-title="💘CCTV超清",CCTV12FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227576/10000100000000060000000004662502_0.smil?0&accountinfo=%7E%7EV2.0%7EkNzDSSP1HQj9YVj3Av_NKw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv13.png" group-title="💘CCTV超清",CCTV13FHD
+rtsp://183.59.180.130:554/PLTV/88888905/224/3221227258/10000100000000060000000001066424_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg46VRqC2T0DUVyIQg53Tdw%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv14.png" group-title="💘CCTV超清",CCTV14FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227573/10000100000000060000000004662499_0.smil?0&accountinfo=%7E%7EV2.0%7Eh6OEczNSNnl8ovf0ICURZg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv15.png" group-title="💘CCTV超清",CCTV15FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221229902/10000100000000060000000010595397_0.smil?0&accountinfo=%7E%7EV2.0%7EG5WL2lRn6ADFf02YUwwIUg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv16.png" group-title="💘CCTV超清",CCTV16FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221230225/425398358.smil?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElJ7LsaiaN4_uqYtHfUWhVw%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw,END
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv17.png" group-title="💘CCTV超清",CCTV17FHD
+rtsp://183.59.145.210:554/PLTV/88888905/224/3221229870/10000100000000060000000010232873_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ehr_lPp5U_a_DAbe9aVJFVA%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+#EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4EOU.png" group-title="💘CCTV超清",CCTV4EOU FHD
+#EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4AME.png" group-title="💘CCTV超清",CCTV4AME FHD
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖南卫视.png" group-title="💝超清卫视",湖南卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil?0&accountinfo=%7E%7EV2.0%7ENkc6QNZEfJ1Hqm12eGaKxw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/浙江卫视.png" group-title="💝超清卫视",浙江卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227296/10000100000000060000000001141335_0.smil?0&accountinfo=%7E%7EV2.0%7EBng-uKyYgdUpj01BXpVWug%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江苏卫视.png" group-title="💝超清卫视",江苏卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227027/10000100000000060000000000698853_0.smil?0&accountinfo=%7E%7EV2.0%7EaxGs9GVvEtywWlMV9_8zfw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/北京卫视1.png" group-title="💝超清卫视",北京卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227018/10000100000000060000000000698843_0.smil?0&accountinfo=%7E%7EV2.0%7EMm_aUPQYUefILnxsgT-jTQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/东方卫视.png" group-title="💝超清卫视",东方卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227299/10000100000000060000000001141344_0.smil?0&accountinfo=%7E%7EV2.0%7E6KTDBPHM-03Uw5OdPJsmUg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/安徽卫视.png" group-title="💝超清卫视",安徽卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227928/10000100000000060000000006526299_0.smil?0&accountinfo=%7E%7EV2.0%7EuOrkSwl7X_jL_XI5Lg2NiQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/广东卫视.png" group-title="💝超清卫视",广东卫视FFD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227218/10000100000000060000000000988525_0.smil?0&accountinfo=%7E%7EV2.0%7EsFZ46mFNJb4XrlnNoWuN5w%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/深圳卫视.png" group-title="💝超清卫视",深圳卫视FFD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227267/10000100000000060000000001141334_0.smil?0&accountinfo=%7E%7EV2.0%7E0e6_CpdWVE14AFzBPTzwXw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/辽宁卫视.png" group-title="💝超清卫视",辽宁卫视FHD
+http://101.42.12.242:5678/gudou.php?phone=19801117551&ptoken=szcIH9NmmTome696m91jaA%3D%3D&pserialnumber=994595a073cc48e6&cid=364&id=liaoningHD_7000
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/山东卫视.png" group-title="💝超清卫视",山东卫视FHD
+http://113.62.253.22/live.aishang.ctlcdn.com/00000110240254_1/playlist.m3u8?CONTENTID=00000110240254_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/天津卫视.png" group-title="💝超清卫视",天津卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227575/10000100000000060000000004462922_0.smil?0&accountinfo=%7E%7EV2.0%7E-J4B7nijVKr_NAMo7qZTIw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/重庆卫视.png" group-title="💝超清卫视",重庆卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227897/10000100000000060000000006388228_0.smil?0&accountinfo=%7E%7EV2.0%7EtgaHrsUgJAi5sGQ5J3Grjw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/东南卫视.png" group-title="💝超清卫视",东南卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221229798/10000100000000060000000009574969_0.smil?0&accountinfo=%7E%7EV2.0%7EfJL0ZFSnBct56inJbkqSmw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/黑龙江卫视.png" group-title="💝超清卫视",黑龙江卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227302/10000100000000060000000001141347_0.smil?0&accountinfo=%7E%7EV2.0%7Emt5PkJ7RdAiZS0qHFtT_Cg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖北卫视.png" group-title="💝超清卫视",湖北卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227322/10000100000000060000000001141333_0.smil?0&accountinfo=%7E%7EV2.0%7EH1tDedGzar6X8PIQ6bdTvg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/江西卫视2.png" group-title="💝超清卫视",江西卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221229779/10000100000000060000000009575029_0.smil?0&accountinfo=%7E%7EV2.0%7EWZ8ggVo2loF2Lx6AD0nTog%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/海南卫视.png" group-title="💝超清卫视",海南卫视FHD
+http://117.169.124.149:8080/live/lvyoustv/index.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/甘肃卫视.png" group-title="💝超清卫视",甘肃卫视FHD
+http://124.232.233.6:6060/000000001901/202200010064/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/广西卫视.png" group-title="💝超清卫视",广西卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227148/10000100000000060000000000937768_0.smil?0&accountinfo=%7E%7EV2.0%7EazD-bQ4RNsbYuL2F9kyd-Q%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/贵州卫视.png" group-title="💝超清卫视",贵州卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221228286/10000100000000060000000007781468_0.smil?0&accountinfo=%7E%7EV2.0%7EIKugDj03eot3ijhtEwmBwg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/河北卫视.png" group-title="💝超清卫视",河北卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221229830/10000100000000060000000009574961_0.smil?0&accountinfo=%7E%7EV2.0%7EDyxoCpP_LG-nsJ5V4zjxbQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/河南卫视.png" group-title="💝超清卫视",河南卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227093/10000100000000060000000000937769_0.smil?0&accountinfo=%7E%7EV2.0%7EFxOv52fTDQDCAz2QVZn9XQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/吉林✵卫视.png" group-title="💝超清卫视",吉林卫视FHD
+http://113.207.84.197:8090/__cl/cg:live/__c//jilinHD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/四川卫视.png" group-title="💝超清卫视",四川卫视FHD
+http://113.207.84.197:8090/__cl/cg:live/__c//sichuanHD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/云南卫视.png" group-title="💝超清卫视",云南卫视FHD
+http://113.207.84.197:8090/__cl/cg:live/__c//yunnanSD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="海峡卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/海峡卫视.png" group-title="💝超清卫视",海峡卫视FHD
+http://59.49.41.39/live.aishang.ctlcdn.com/00000110240277_1/playlist.m3u8?CONTENTID=00000110240277_1
+
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/内蒙古卫视.png" group-title="💝标清卫视",内蒙古卫视SD
+http://113.207.84.197:8090/__cl/cg:live/__c//neimengkuSD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/康巴卫视.png" group-title="💝标清卫视",康巴卫视FHD
+http://59.49.41.39/live.aishang.ctlcdn.com/00000110240331_1/playlist.m3u8?CONTENTID=00000110240331_1
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/陕西卫视.png" group-title="💝标清卫视",陕西卫视FHD
+http://113.207.84.197:8090/__cl/cg:live/__c//shanxiSD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/新疆卫视.png" group-title="💝标清卫视",新疆卫视FHD
+http://113.207.84.197:8090/__cl/cg:live/__c//xinjiangSD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/南方卫视.png" group-title="💝标清卫视",大湾区卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221226975/00000100000000060000000000554907_0.smil?0&accountinfo=%7E%7EV2.0%7EADg997SlmEiaVj9KmjGXvg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/兵团卫视.png" group-title="💝标清卫视",兵团卫视FHD
+http://113.207.84.197:8090/__cl/cg:live/__c//bingtuanSD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/延边卫视.png" group-title="💝标清卫视",延边卫视HD
+http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/宁夏卫视.png" group-title="💝标清卫视",宁夏卫视SD
+http://113.207.84.197:8090/__cl/cg:live/__c//ningxia/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/山西卫视.png" group-title="💝标清卫视",山西卫视SD
+http://113.207.84.197:8090/__cl/cg:live/__c//shanxiSD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/青海卫视.png" group-title="💝标清卫视",青海卫视SD
+http://113.207.84.197:8090/__cl/cg:live/__c//qinghaiSD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/厦门卫视.png" group-title="💝标清卫视",厦门卫视FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227312/10000100000000060000000003100522_0.smil?0&accountinfo=%7E%7EV2.0%7EW-BZOE935Srk7yYTUFeEcQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/西藏卫视.png" group-title="💝标清卫视",西藏卫视SD
+http://113.207.84.197:8090/__cl/cg:live/__c//xizangSD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/三沙卫视.png" group-title="💝标清卫视",三沙卫视SD
+http://113.207.84.197:8090/__cl/cg:live/__c//sanshaSD/__op/default/__f//index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="陕西农林卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/农林卫视.png" group-title="💝标清卫视",农林卫视SD
+http://39.135.138.58:18890/PLTV/88888888/224/3221226204/index.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/香港卫视.png" group-title="💝标清卫视",香港卫视SD
+http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/动漫秀场.png" group-title="💞超清少儿",动漫秀场FHD
+http://58.34.204.67:9901/tsfile/live/1009_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/黑莓动画.png" group-title="💞超清少儿",黑莓动画FHD
+http://117.169.122.98:6610/PLTV/88888910/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/卡酷少儿.png" group-title="💞超清少儿",卡酷少儿FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221227111/10000100000000060000000000937814_0.smil?0&accountinfo=%7E%7EV2.0%7EW7LePDkHikYdHPemJx88Rg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/哈哈炫动.png" group-title="💞超清少儿",哈哈炫动FHD
+http://39.135.138.58:18890/PLTV/88888888/224/3221225720/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/金鹰卡通.png" group-title="💞超清少儿",金鹰卡通FHD
+http://59.49.41.39/live.aishang.ctlcdn.com/00000110240050_1/playlist.m3u8?CONTENTID=00000110240050_1
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/优漫卡通.png" group-title="💞超清少儿",优漫卡通FHD
+rtsp://183.59.156.50/PLTV/88888905/224/3221228324/10000100000000060000000007935406_0.smil?0&accountinfo=%7E%7EV2.0%7EQN23M5nN9LP1qvicr4L92w%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/嘉佳卡通.png" group-title="💞超清少儿",嘉佳卡通FHD
+http://157.122.177.10:9901/tsfile/live/1012_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/浙江少儿.png" group-title="💞超清少儿",浙江少儿FHD
+https://epg.pw/stream/8b8993093a38082ec721e8922e390d7aa218ec3b2ff6891eb8323aaef7a7f45b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/杭州少儿.png" group-title="💞超清少儿",杭州少儿FHD
+https://epg.pw/stream/d48fe33b0445fb7c666dc11698545c7c496b5a9a426e5dffb1d84efe8571e322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/福建少儿.png" group-title="💞超清少儿",福建少儿FHD
+https://epg.pw/stream/d284f7c1fac078b09b4e598c388312e830af64bb46cb4fa9ceb719045c21a234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/shaoer/福州少儿.png" group-title="💞超清少儿",福州少儿FHD
+https://epg.pw/stream/6cf1e116b6c25a839a269751bb7ae821ffec30d50a09f14a17c67338f40d1008.m3u8
