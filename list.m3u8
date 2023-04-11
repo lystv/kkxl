@@ -36,7 +36,9 @@ rtsp://183.59.156.50/PLTV/88888905/224/3221230225/425398358.smil?GuardEncType=2&
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv17.png" group-title="💘CCTV超清",CCTV17FHD
 rtsp://183.59.145.210:554/PLTV/88888905/224/3221229870/10000100000000060000000010232873_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7Ehr_lPp5U_a_DAbe9aVJFVA%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV4EUO" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4EOU.png" group-title="💘CCTV超清",CCTV4EOU FHD
+http://yuwentao114.f3322.net:4022/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV4AME" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/cctv/cctv4AME.png" group-title="💘CCTV超清",CCTV4AME FHD
+http://yuwentao114.f3322.net:4022/rtp/239.252.219.193:5140
 
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/wdc558/ruoshui/raw/master/weishi/湖南卫视.png" group-title="💝超清卫视",湖南卫视FHD
 rtsp://183.59.156.50/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil?0&accountinfo=%7E%7EV2.0%7ENkc6QNZEfJ1Hqm12eGaKxw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
