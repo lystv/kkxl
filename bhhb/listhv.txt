@@ -4659,9 +4659,8 @@ NMTV M2,https://epg.pw/stream/74c8932a9823bf1d178eb42bff7402b0128c85e686856fc157
 三沙卫视,https://epg.pw/stream/ff763ebf963304c5100b5df5891d3efa61fe87adde7b1235b620598554c659b7.m3u8
 上海ICS,https://epg.pw/stream/a439292bde74ae3770eaea8dea65a072692018f3f77fe8e1eca06a4ff990bc48.m3u8
 上海都市,https://epg.pw/stream/b35a790b225a7f128a2f41e21573755009c05868ca5677390cc2a83217fff8ab.m3u8
-东莞综合,rtmp://stream.sun0769.com/dgrtv1/mp4:tv1
-东莞综合,rtmp://stream.sun0769.com/dgrtv1/mp4:tv1
-东莞综合,rtmp://stream.sun0769.com/dgrtv1/mp4:tv1
+东莞新闻综合,rtmp://stream.sun0769.com/dgrtv1/mp4:tv1
+东莞生活资讯,rtmp://stream.sun0769.com/dgrtv2/mp4:tv2
 中央新影老故事,https://epg.pw/stream/6bb9f684fb98f7dc8b47a0b7a9d8576de7edf3145ed089aa7b27bb7f0418b0f3.m3u8
 中山公共,https://epg.pw/stream/3f9fcc4c312672187ad1ee4cdcbf2bba2bfcb8bfd5e1a0319f00b40e5334f6ed.m3u8
 中山综合,https://epg.pw/stream/e071d53a08d8acf4fc76d4d6df70822fa1e8ca5a86fdc8df8b5812a0d4ca23cd.m3u8
@@ -5646,6 +5645,8 @@ CCTV1,http://yuwentao114.f3322.net:4022/rtp/239.252.219.10:5140
 海南卫视,http://157.122.177.10:9901/tsfile/live/1000_1.m3u8
 广东,#genre#
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+东莞新闻综合,rtmp://stream.sun0769.com/dgrtv1/mp4:tv1
+东莞生活资讯,rtmp://stream.sun0769.com/dgrtv2/mp4:tv2
 广东4K超高清,http://157.122.177.10:9901/tsfile/live/1018_1.m3u8
 CCTV16,http://157.122.177.10:9901/tsfile/live/1003_1.m3u8
 广东新闻,http://157.122.177.10:9901/tsfile/live/1008_1.m3u8
