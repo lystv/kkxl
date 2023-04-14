@@ -435,6 +435,8 @@ CCTV4K,https://hu60.cn/download/cctv/ysp1.php
 東風衛視,http://123.51.230.108:18560/.m3u8
 八大第一台,http://123.51.230.108:18539/.m3u8
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 凤凰资讯台,http://107.151.203.111:2209/135/hk.php?id=fhzx#https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰中文台,http://107.151.203.111:2209/135/hk.php?id=fhzw#https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
