@@ -422,6 +422,9 @@ CEC国际旅游,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 CEC国际教育,rtmp://play.cec-tv.com.cn/channel/cec-tv3
 CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
 4月测试,#genre#
+4K影视超高清,http://39.134.136.151:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1159120230327103012001425&channel-id=wasusyt&Contentid=6000000003000004748
+4K超高清,http://120.234.220.107:9000/udp/239.20.0.60:3160
+南国都市4K,http://120.234.220.107:9000/udp/239.21.0.132:3872
 CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/01.m3u8?&HlsSubType=&encrypt=
 三立新聞,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 TVBS新闻,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
