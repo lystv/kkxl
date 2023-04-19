@@ -595,12 +595,12 @@ CCM,http://flv.mp4cdn.live/gt-key=0025874.php?id=111
 凤凰香港台,http://flv.mp4cdn.live/gt-key=0025874.php?id=184
 江苏广电-4K宣传,http://122.97.211.220:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11688&Fsv_otype=0&Provider_id=&Pcontent_id=?$3840x2160
 爱上4K,http://39.134.24.166/PLTV/88888888/224/3221226005/index.m3u8?$20M3840x2160
-TVB翡翠台,https://pull-l3-cny.douyincdn.com/third/stream-bc26eadfe11f7c1f94073f0737d24370.flv
-中天新闻台,https://pull-l3-cny.douyincdn.com/third/stream-cb2f462971b54065e24513132180f9df.flv
-中天新闻台,https://pull-l3-cny.douyincdn.com/third/stream-e8701b1a8f072357907da5d8a98a6347.flv
+TVB翡翠台,https://pull-l3-cny.douyincdn.com/third/stream-bc26eadfe11f7c1f94073f0737d24370.m3u8
+中天新闻台,https://pull-l3-cny.douyincdn.com/third/stream-cb2f462971b54065e24513132180f9df.m3u8
+中天新闻台,https://pull-l3-cny.douyincdn.com/third/stream-e8701b1a8f072357907da5d8a98a6347.m3u8
 中天综合台,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
-东森新闻台,https://pull-l3-cny.douyincdn.com/third/stream-e0022695fdc9fd562b80311660055f1f.flv
-东森新闻台,https://pull-l3-cny.douyincdn.com/third/stream-6c0af631eeb41948028808699bede33c.flv
+东森新闻台,https://pull-l3-cny.douyincdn.com/third/stream-e0022695fdc9fd562b80311660055f1f.m3u8
+东森新闻台,https://pull-l3-cny.douyincdn.com/third/stream-6c0af631eeb41948028808699bede33c.m3u8
 台视新闻台,https://pull-l3-cny.douyincdn.com/third/stream-9b6d05efc4b7aa2e77714bf71a7cb582.m3u8
 TVBS新闻台,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
