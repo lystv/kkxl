@@ -594,6 +594,13 @@ TVBS新闻台,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8
 翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
+北京卫视,,http://120.204.20.48/120.204.20.48/down.brtvcloud.com///w110s/Satellite110.m3u8
+北京文艺,http://120.204.20.48/120.204.20.48/down.brtvcloud.com//w113y/literature113.m3u8
+北京纪实科教,http://120.204.20.48/120.204.20.48/down.brtvcloud.com/k115j/science115.m3u8
+北京影视,http://120.204.20.48/120.204.20.48/down.brtvcloud.com/y112s/Movies112.m3u8
+北京财经,http://120.204.20.48/120.204.20.48/down.brtvcloud.com/c116j/finance116.m3u8
+北京生活,http://120.204.20.48/120.204.20.48/down.brtvcloud.com/s118h/life118.m3u8
+北京新闻,http://120.204.20.48/120.204.20.48/down.brtvcloud.com/x117w/news117.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
