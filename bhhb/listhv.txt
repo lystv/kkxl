@@ -581,6 +581,37 @@ TVBSHD 56台,https://pull-l3-cny.douyincdn.com/live/stream-1121752023042001218.m
 中天综合台,http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m3u8
 TVBS新闻台,http://pull-l3-cny.douyincdn.com/third/stream-e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 莲花电影台,http://pull-l3-cny.douyincdn.com/third/stream-f3caad21816e3bfe2210a692387ab040.m3u8
+EZTV1欧洲华文电视台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+EZTV2欧洲华文电视,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+EZTV6欧洲华文电视 福州频道,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+广电广东卫视,http://xjayrf.eatuo.com:9901/tsfile/live/1010_1.m3u8
+广电广东珠江,http://xjayrf.eatuo.com:9901/tsfile/live/1011_1.m3u8
+广电广东体育,http://xjayrf.eatuo.com:9901/tsfile/live/1014_1.m3u8
+凤凰卫视,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+4K测试,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV4欧洲,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+北京卫视,,http://120.204.20.48/120.204.20.48/down.brtvcloud.com///w110s/Satellite110.m3u8
+北京文艺,http://120.204.20.48/120.204.20.48/down.brtvcloud.com//w113y/literature113.m3u8
+北京纪实科教,http://120.204.20.48/120.204.20.48/down.brtvcloud.com/k115j/science115.m3u8
+北京影视,http://120.204.20.48/120.204.20.48/down.brtvcloud.com/y112s/Movies112.m3u8
+北京财经,http://120.204.20.48/120.204.20.48/down.brtvcloud.com/c116j/finance116.m3u8
+北京生活,http://120.204.20.48/120.204.20.48/down.brtvcloud.com/s118h/life118.m3u8
+北京新闻,http://120.204.20.48/120.204.20.48/down.brtvcloud.com/x117w/news117.m3u8
+四川|成都-1,http://xcm13.f3322.net:4000/udp/239.93.0.16:5140
+四川|成都-2,http://xcm13.f3322.net:4000/udp/239.93.0.17:1239
+四川|成都-3,http://xcm13.f3322.net:4000/udp/239.93.0.18:1238
+四川|成都-4,http://xcm13.f3322.net:4000/udp/239.93.0.19:1250
+四川|成都-5,http://xcm13.f3322.net:4000/udp/239.93.1.231:5140
+四川|成都-6,http://xcm13.f3322.net:4000/udp/239.93.0.21:1251
+四川|成都-8,http://xcm13.f3322.net:4000/udp/239.93.0.22:1252
+四川|四川新闻,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv4&auth=rinimabi
+四川|四川经济,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv2&auth=rinimabi
+四川|四川文化,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv3&auth=rinimabi
+四川|四川影视,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv5&auth=rinimabi
+四川|四川妇女,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv7&auth=rinimabi
+四川|四川乡村,http://v2.91kds.cn/b9/sctv.m3u8?id=sctv9&auth=rinimabi
 民視新聞,http://123.51.230.108:18663/.m3u8
 民视新闻,http://2023.stream-link.org/playlist/ftv_news
 凤凰中文,http://nas.jdshipin.com:8801/fjgd.php?id=fhzwhd_2000
@@ -2633,6 +2664,54 @@ CCTV17,http://jiexi.bulisite.top/ysp.php?id=cctv17
 魅力足球,http://jiexi.bulisite.top/bestv.php?id=mlyyhd8m/8000000
 魅力足球,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 P2p,#genre#
+广东体育,P2p://generationnexxxt.com:19806/e9e2075a549c4f98802b4c029614289d
+广东体育,P2p://generationnexxxt.com:19806/e9e2075a549c4f98802b4c029614289d
+五星体育,P2p://generationnexxxt.com:19806/959661cff0a04f3992d128dd93281579
+五星体育,P2p://generationnexxxt.com:19806/959661cff0a04f3992d128dd93281579
+CCTV5,P2p://generationnexxxt.com:19806/3b142cffb4924301b28c5f605630801e
+CCTV5+,P2p://generationnexxxt.com:19806/523c903908b7424f9f71bf77a2427b71
+纬来体育台,P2p://generationnexxxt.com:19806/58f3f9d1af84455f9cfe42ff41d2af0c
+纬来体育台,P2p://generationnexxxt.com:19806/58f3f9d1af84455f9cfe42ff41d2af0c
+爱尔达体育3台,P2p://generationnexxxt.com:19806/15c761413fd041d5b4ae0df475b0c83b
+爱尔达体育3台,P2p://generationnexxxt.com:19806/15c761413fd041d5b4ae0df475b0c83b
+爱尔达体育2台,P2p://generationnexxxt.com:19806/cbbd958cdde84831bf9a6701e6998885
+爱尔达体育2台,P2p://generationnexxxt.com:19806/cbbd958cdde84831bf9a6701e6998885
+爱尔达体育1台,P2p://generationnexxxt.com:19806/f94513b159124098b45469fa0b492511
+爱尔达体育1台,P2p://generationnexxxt.com:19806/f94513b159124098b45469fa0b492511
+爱尔达体育1台,P2p://generationnexxxt.com:19806/1f6a86fd988d46ddaac6cc8c3c064dcf
+爱尔达体育1台,P2p://generationnexxxt.com:19806/1f6a86fd988d46ddaac6cc8c3c064dcf
+HKC Sports Plus 3,P2p://generationnexxxt.com:19806/a27709fdfa574a5f9ca52c490a37435b
+HKC Sports Plus 1,P2p://generationnexxxt.com:19806/82f71e9986084c86a85807f6fa9ab8a5
+ELEVEN体育2台,P2p://generationnexxxt.com:19806/2ef0a9c700a64558a4e2d5c61fa2701f
+ELEVEN体育2台,P2p://generationnexxxt.com:19806/2ef0a9c700a64558a4e2d5c61fa2701f
+ELEVEN体育1台,P2p://generationnexxxt.com:19806/6bf06553dc9942d389fbdee89bb3670a
+ELEVEN体育1台,P2p://generationnexxxt.com:19806/6bf06553dc9942d389fbdee89bb3670a
+智林体育台,P2p://generationnexxxt.com:19806/8aec43ce170d42ee8168f04aad54ba6d
+智林体育台,P2p://generationnexxxt.com:19806/8aec43ce170d42ee8168f04aad54ba6d
+beIN Sports 3,P2p://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61
+beIN Sports,P2p://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9
+beIN Sports 2,P2p://generationnexxxt.com:19806/1aa64e5459b04b32a0618b7226e0a3c0
+Fight Sports,P2p://generationnexxxt.com:19806/78bd0cc13a8840fcb8af0440258a8357
+Hub Sports 1,P2p://generationnexxxt.com:19806/5b7034df7dcd4ccabcb0137f0991a274
+Hub Sports 2,P2p://generationnexxxt.com:19806/2d881919b62242f4930fda32837eb7df
+Hub Sports 3,P2p://generationnexxxt.com:19806/6101d0aff0654f73812cb15c57df9f59
+Hub Sports 4,P2p://generationnexxxt.com:19806/6324a78a0d4549fc859b68804438bbe6
+Hub Sports 5,P2p://generationnexxxt.com:19806/58395e1ea80a40069a5e30c9917d1a97
+J Sports 1,P2p://generationnexxxt.com:19806/ec9e8e130dc8450f9ab54033ec0838cb
+J Sports 2,P2p://generationnexxxt.com:19806/61de10ba994a49ebaedf836962f9065a
+J Sports 3,P2p://generationnexxxt.com:19806/00003bb75b5044739df061845fc5ddce
+J Sports 4,P2p://generationnexxxt.com:19806/8b6d39de46c7464297947f368e623270
+Sky Sports Golf,P2p://generationnexxxt.com:19806/f7979f7719e84f04b70cb3ea3151553c
+Sky Sports Premier League,P2p://generationnexxxt.com:19806/4f70c7b9ee6340949293e813bdb4b7fc
+Skynet Sports HD,P2p://generationnexxxt.com:19806/a058e07556204a1ab4287b441eb54e05
+Skynet Sports 2,P2p://generationnexxxt.com:19806/fb0b368a0dce4d7c8b9002a3180d8d2f
+Skynet Sports 5,P2p://generationnexxxt.com:19806/cfb47a7ba5d2491ebe8b354e58c1cc43
+Skynet Sports 6,P2p://generationnexxxt.com:19806/b5ee6b4f6bb543cd8a1f426faa16821a
+Sky Sports F1,P2p://generationnexxxt.com:19806/8d0465b1adcc4d5aa8a9fd3c6573da3c
+Sky Sports Arena,P2p://generationnexxxt.com:19806/8af1b56b67504c4fbf3151129ab9c4d8
+Sky Sports Main Event,P2p://generationnexxxt.com:19806/347b0cb9ec284f25883567a0e9fee211
+Sky Sports Cricket,P2p://generationnexxxt.com:19806/4c8af69d907a45a5a2fc2977409bf3ef
+Sky Sports Action,P2p://generationnexxxt.com:19806/832cfec045fd458f9a490f07770bb879
 CCTV6,P2p://generationnexxxt.com:19806/fabe340b1cc94bc8a42db4844fb7e497
 天映频道,P2p://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813
 天映经典,P2p://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7
