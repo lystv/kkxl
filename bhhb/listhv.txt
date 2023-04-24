@@ -7003,6 +7003,22 @@ IPTV5+ 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240281_1/playli
 体育赛事,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
 熊猫频道 4M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240263_1/playlist.m3u8?CONTENTID=00000110240263_1
 测试频道,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240330_1/playlist.m3u8?CONTENTID=00000110240330_1
+CCTV-1,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV-2,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV-3,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV-4,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV-4K,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8#http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8#http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+CCTV-5,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8#http://live.cooltv.top/tv/aishang.php?id=cctv5hd#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1
+CCTV-5+,http://live.cooltv.top/tv/aishang.php?id=cctv5p
+CCTV-6,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV-7,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8#https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+CCTV-8,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV-9,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV-10,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV-12,h#http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8CCTV-13,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV-13,http://222.170.28.3/live.aishang.ctlcdn.com/00000110240502_1/encoder/0/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV-16,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
+CCTV-17,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
