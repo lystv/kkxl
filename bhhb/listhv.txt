@@ -7041,7 +7041,8 @@ CCTV-7,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8#htt
 CCTV-8,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
 CCTV-9,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
 CCTV-10,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
-CCTV-12,h#http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8CCTV-13,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV-12,ttp://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV-13,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV-13,http://222.170.28.3/live.aishang.ctlcdn.com/00000110240502_1/encoder/0/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV-16,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
 CCTV-17,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
