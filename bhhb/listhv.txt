@@ -6378,6 +6378,29 @@ CGTN纪实,http://117.169.124.149:8080/live/cctv-9/index.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 峨眉电影,http://182.151.211.171:808/hls/58/index.m3u8
 港澳台,#genre#
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/62WM7
+华丽翡翠台,http://r.jdshipin.com/thuYX
+J2,http://r.jdshipin.com/Nr5jq
+港台電視31,https://cdn.hklive.tv/xxxx/31/index.m3u8
+港台電視32,https://cdn.hklive.tv/xxxx/32/index.m3u8
+港台電視33,https://cdn.hklive.tv/xxxx/33/index.m3u8
+CGTN紀錄頻道,https://cdn.hklive.tv/xxxx/34/index.m3u8
+香港開電視,https://cdn.hklive.tv/xxxx/77/index.m3u8
+香港國際財經台,https://cdn.hklive.tv/xxxx/76/index.m3u8
+翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+J2台,https://cdn.hklive.tv/xxxx/82/index.m3u8
+無綫新聞台,https://cdn.hklive.tv/xxxx/83/index.m3u8
+明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8
+明珠台 (粵語聲道),https://cdn.hklive.tv/xxxx/84b/index.m3u8
+無綫財經·資訊台,https://cdn.hklive.tv/xxxx/85/index.m3u8
+ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
+ViuTV Six,https://cdn.hklive.tv/xxxx/96/index.m3u8
+财经资讯台,https://cdn.hklive.tv/xxxx/108/index.m3u8
+新闻台,https://cdn.hklive.tv/xxxx/109/index.m3u8
+now新闻台,https://cdn.hklive.tv/xxxx/332/index.m3u8
+now直播台,https://cdn.hklive.tv/xxxx/331/index.m3u8
 翡翠台,http://113.117.74.7:8081/hls/67/index.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/n90gt
