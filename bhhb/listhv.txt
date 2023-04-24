@@ -3257,6 +3257,7 @@ P2p,#genre#
 五星体育,P2p://generationnexxxt.com:19806/959661cff0a04f3992d128dd93281579
 CCTV5,P2p://generationnexxxt.com:19806/3b142cffb4924301b28c5f605630801e
 CCTV5+,P2p://generationnexxxt.com:19806/523c903908b7424f9f71bf77a2427b71
+TRACE Sport Stars,mitv://generationnexxxt.com:19806/55df5f8dbb244c40bd8c11d9b2b6c196
 纬来体育台,P2p://generationnexxxt.com:19806/58f3f9d1af84455f9cfe42ff41d2af0c
 纬来体育台,P2p://generationnexxxt.com:19806/58f3f9d1af84455f9cfe42ff41d2af0c
 爱尔达体育3台,P2p://generationnexxxt.com:19806/15c761413fd041d5b4ae0df475b0c83b
