@@ -1049,14 +1049,14 @@ J2,http://163.172.38.68:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 东森洋片,http://163.172.38.68:80/play/ubI0Nrlni6TwusjXuSxNxJYtbFFm1SW1annE_Xwju4w/ts#http://120.84.96.73:808/hls/33/index.m3u8
 财经体育资讯,http://163.172.38.68:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts#https://epg.pw/stream/25bef72b13a58be1cd8920caf513f2af1ed71c489c6d5c0a99603b0360e8ef12.m3u8
 广东组播,#genre#
-南国都市 4K,http://fxhack.f3322.org:8000/udp/239.253.43.99:5146
-CCTV-16 4K,http://www.kitcc.cn:8888/udp/239.77.1.98:5146
-广东综艺 4K50p,http://fxhack.f3322.org:8000/udp/239.77.1.236:5146
-广东综艺 4K,http://fxhack.f3322.org:8000/udp/239.77.1.237:5146
-广东综艺(4k),http://fxhack.f3322.org:8000/udp/239.77.0.244:5146
-广东综艺 宽色域(4k),http://fxhack.f3322.org:8000/udp/239.77.0.246:5146
-广东综艺(4k),http://fxhack.f3322.org:8000/udp/239.77.0.245:5146
-广东综艺 宽色域AVS2(4k) (AVS2),http://fxhack.f3322.org:8000/udp/239.77.0.252:5146
+南国都市 4K,http://www.superkit.cn:8888/udp/239.253.43.99:5146
+CCTV16 4KK,http://www.kitcc.cn:8888/udp/239.77.1.98:5146
+广东综艺 4K50p,http://www.superkit.cn:8888/udp/239.77.1.236:5146
+广东综艺 4K,http://www.superkit.cn:8888/udp/239.77.1.237:5146
+广东综艺(4k),http://www.superkit.cn:8888/udp/239.77.0.244:5146
+广东综艺 宽色域(4k),http://www.superkit.cn:8888/udp/239.77.0.246:5146
+广东综艺(4k),http://www.superkit.cn:8888/udp/239.77.0.245:5146
+广东综艺 宽色域AVS2(4k) (AVS2),http://www.superkit.cn:8888/udp/239.77.0.252:5146
 CGTN英语高清,http://www.kitcc.cn:8888/udp/239.77.0.199:5146
 CGTN西班牙语高清,http://www.kitcc.cn:8888/udp/239.77.0.221:5146
 CGTN法语高清,http://www.kitcc.cn:8888/udp/239.77.0.228:5146
