@@ -9538,6 +9538,14 @@ TGRT HABER HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/216
 BLOOMBERGHT TV,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21642
 TRT COCUK HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/21651
 广播,#genre#
+广东新闻广播,http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+广东股市广播,http://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8
+广东文体广播,http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
+广东城市之声,http://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8
+广东南粤之声,http://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8
+珠江经济台,http://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8
+南方生活广播,http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
+羊城交通广播,http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
 崇左广播,https://rtmp.gdlive.gdmain.com/live/lx1r2o10.m3u8
 龙州广播,https://rtmp.gdlive.gdmain.com/live/lgbd74m0.m3u8
 贵港交通广播,https://rtmp.gdlive.gdmain.com/live/5pmr79r5.m3u8
@@ -9553,13 +9561,39 @@ TRT COCUK HD,http://vip.lotusnet.digital:19051/SemiPapaKaiserl/mwduEeanS87g/2165
 惠州音乐广播,http://stream.hztvmg.com/test17/playlist.m3u8
 CNR深圳旁边之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 CNR大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+凤凰香港,http://live.cooltv.top/tv/fhxaudio.php?id=fhhk
+CCTV-1 综合,https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+CCTV-2 财经,https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+CCTV-3 综艺,https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
+CCTV-4 中文国际 亚洲,https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+CCTV-4 中文国际 欧洲,https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
+CCTV-4 中文国际 美洲,https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
+CCTV-5 体育,https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+CCTV-5+ 体育赛事,https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+CCTV-6 电影,https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+CCTV-7 国防军事,https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
+CCTV-8 电视剧,https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+CCTV-9 纪录,https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+CCTV-10 科教,https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
+CCTV-11 戏曲,https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+CCTV-12 社会与法,https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+CCTV-13 新闻,https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+CCTV-14 少儿,https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+CCTV-15 音乐,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+CCTV-16 奥林匹克,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+CCTV-17 农业农村,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+CGTN,http://stream.zeno.fm/ambvmys65rquv
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
 浙江卫视,http://satellitepull.cnr.cn/live/wxzjws/playlist.m3u8
 江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
@@ -9567,18 +9601,35 @@ CNR大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
+云南卫视,http://satellitepull.cnr.cn/live/wxynws/playlist.m3u8
+贵州卫视,https://piccpndali.v.myalicdn.com/audio/guizhou_2.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
+陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
+延边卫视,http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
+江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8
+宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
+山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
+香港卫视,https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+青海卫视,https://piccpndali.v.myalicdn.com/audio/qinghai_2.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
-中国教育1,https://wstvalic.v.myalicdn.com/wstv/cetv1_1/index.m3u8?adapt=0&BR=audio
-中国教育2,https://wstvalic.v.myalicdn.com/wstv/cetv2_1/index.m3u8?adapt=0&BR=audio
-中国教育3,https://wstvalic.v.myalicdn.com/wstv/cetv3_1/index.m3u8?adapt=0&BR=audio
-中国教育4,https://wstvalic.v.myalicdn.com/wstv/cetv4_1/index.m3u8?adapt=0&BR=audio
+新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
+北京新闻,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
+北京文艺,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio
+北京纪实科教,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
+北京影视,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
+北京财经,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
+北京体育休闲,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv6_1/index.m3u8?adapt=0&BR=audio
+北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+中国教育1,https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
+中国教育2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
+中国教育3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
+中国教育4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
+第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 V0A-1,https://stream.radiojar.com/t2n88q0st5quv
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 凤凰香港,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
