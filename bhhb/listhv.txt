@@ -461,6 +461,7 @@ CCM,http://flv.mp4cdn.live/gt-key=00569874.php?id=111
 凤凰中文台,http://flv.mp4cdn.live/gt-key=00569874.php?id=182
 凤凰资讯台,http://flv.mp4cdn.live/gt-key=00569874.php?id=183
 凤凰香港台,http://flv.mp4cdn.live/gt-key=00569874.php?id=184
+HBO Family,http://flv.mp4cdn.live/gt-key=00569874.php?id=99
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 Animax,http://61.221.81.93:8078/hls/32/80/animax.m3u8
 ELEVEN1,http://61.221.81.93:8078/hls/25/80/esport.m3u8
