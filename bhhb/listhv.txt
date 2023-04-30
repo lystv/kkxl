@@ -482,6 +482,7 @@ CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
 4K超高清,http://120.234.220.107:9000/udp/239.20.0.60:3160
 南国都市4K,http://120.234.220.107:9000/udp/239.21.0.132:3872
 CCTV4K,http://hu60.cn/download/cctv/ysp1.php
+CCTV8K,http://www.kitcc.cn:8888/udp/239.253.43.106:5146
 爱自然4K,http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 CCTV1,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV2,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv2_2/index.m3u8
