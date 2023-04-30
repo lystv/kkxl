@@ -488,6 +488,14 @@ CCTV8K,http://www.kitcc.cn:8888/udp/239.253.43.106:5146
 CCTV1,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV2,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv2_2/index.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+TVBS新闻台,rtmp://9sv2.mine.nu/sat/tv551
+爱尔达体育1,rtmp://9sv2.mine.nu/sat/md031
+爱尔达体育3,mitv://generationnexxxt.com:19806/6a94fcef07d64f50a1edf2837f398cd4
+爱尔达体育2,rtmp://9sv2.mine.nu/sat/md021
+爱尔达体育3,rtmp://9sv2.mine.nu/sat/md041
+ELEVEN体育1台,rtmp://9sv2.mine.nu/sat/tv731
+ELEVEN体育2台,rtmp://9sv2.mine.nu/sat/tv741
+纬来体育,rtmp://9sv2.mine.nu/sat/tv721
 HOY,http://flv.mp4cdn.live/gt-key=00569874.php?id=1
 翡翠台,http://flv.mp4cdn.live/gt-key=00569874.php?id=2
 明珠台,http://flv.mp4cdn.live/gt-key=00569874.php?id=3
