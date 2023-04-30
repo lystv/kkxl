@@ -481,6 +481,8 @@ CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
 4K影视超高清,http://39.134.136.151:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1159120230327103012001425&channel-id=wasusyt&Contentid=6000000003000004748
 4K超高清,http://120.234.220.107:9000/udp/239.20.0.60:3160
 南国都市4K,http://120.234.220.107:9000/udp/239.21.0.132:3872
+CCTV4K,http://hu60.cn/download/cctv/ysp1.php
+爱自然4K,http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 CCTV1,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV2,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv2_2/index.m3u8
 HOY,http://flv.mp4cdn.live/gt-key=00569874.php?id=1
@@ -508,6 +510,9 @@ CCM,http://flv.mp4cdn.live/gt-key=00569874.php?id=111
 凤凰中文台,http://flv.mp4cdn.live/gt-key=00569874.php?id=182
 凤凰资讯台,http://flv.mp4cdn.live/gt-key=00569874.php?id=183
 凤凰香港台,http://flv.mp4cdn.live/gt-key=00569874.php?id=184
+CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
+CHC动作电影,http://www.51nas.top:4022/udp/239.81.0.239:4056
+CHC家庭影院,http://www.51nas.top:4022/udp/239.81.0.238:4056
 HBO Family,http://flv.mp4cdn.live/gt-key=00569874.php?id=99
 HBO,http://61.221.81.93:8078/hls/23/80/hbo.m3u8
 Animax,http://61.221.81.93:8078/hls/32/80/animax.m3u8
