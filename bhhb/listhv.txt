@@ -147,7 +147,7 @@ NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.
 广州影视高清,http://183.59.131.100:30001/PLTV/88888905/224/3221230115/453198755.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7ENaCaue7LGOmXprWOEgXTzw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州法治高清,http://183.59.131.100:30001/PLTV/88888905/224/3221230168/453206912.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7EUSiyCu_w9WF99m5iQxHYRA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州竞赛高清,http://183.59.131.100:30001/PLTV/88888905/224/3221230122/453206917.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7EYewCUd3e3HXUSDKCfQk-Jw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
-
+翡翠台内地版,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 4K影视,http://nas.jdshipin.com:8801/4kys.php
 虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
