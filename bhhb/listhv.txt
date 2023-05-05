@@ -477,7 +477,45 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv1
 CEC国际旅游,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 CEC国际教育,rtmp://play.cec-tv.com.cn/channel/cec-tv3
 CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
-4月测试,#genre#
+5月测试,#genre#
+星衛HD電影台,http://23.237.10.66:16359
+中天综合,http://23.237.10.66:16372
+universal tv,http://208.115.225.174:14128
+WBD TV 生活大爆炸,http://208.115.225.174:14132
+HBO2,http://208.115.225.174:14140
+HBO+,http://208.115.225.174:14152
+HBO signature,http://208.115.225.174:14160
+[马来西亚]DidikTV,http://23.237.10.66:16405
+[马来西亚]ASTRO 翡翠台录播节目,http://23.237.10.66:16410
+[马来西亚]ASTRO Go Shop,http://23.237.10.66:16426
+CGTN,http://23.237.10.66:16428
+[马来西亚]ASTRO Oasis,http://23.237.10.66:16471
+CGTN documentary,http://23.237.10.66:16473
+[新加坡]Mediacorp Suria马来语节目,http://23.237.10.66:16492
+嘉佳卡通,http://23.237.10.66:16662
+CCTV1,rtsp://125.88.52.18/PLTV/88888905/224/3221227610/10000100000000060000000004462931_0.smil?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjrJOUmzk157kD2TdQGpdFA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM%2CEND
+M1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1683756301&sign=39492f2eb787994baec9e42bda85f7bf
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226638/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226736/1.m3u8
+CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
+CCTV5,http://23.237.10.66:16007
+[巴西]Multishow,http://23.237.10.66:16124
+[巴西]spor tv 2,http://23.237.10.66:16180
+[巴西]Telecine,http://23.237.10.66:16195
+[巴西]Sess&#227;o Globoplay,http://208.115.225.174:14020
+[巴西]sbt tv,http://208.115.225.174:14170
+[巴西]sbt tv,http://208.115.225.174:14176
+animal planet discovery,http://208.115.225.174:14192
+[巴西]Globoplay,http://208.115.225.174:14259
+[巴西] Globoplay,http://208.115.225.174:14263
+动物纪录片 Planeta Selvagem,http://208.115.225.174:14428
+[巴西]Premiere,http://208.115.225.174:14460
+[巴西]Premiere,http://208.115.225.174:14464
+[巴西]Premiere,http://208.115.225.174:14468
+[巴西]Premiere,http://208.115.225.174:14472
+[巴西]Premiere,http://208.115.225.174:14476
 4K影视超高清,http://39.134.136.151:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1159120230327103012001425&channel-id=wasusyt&Contentid=6000000003000004748
 4K超高清,http://120.234.220.107:9000/udp/239.20.0.60:3160
 南国都市4K,http://120.234.220.107:9000/udp/239.21.0.132:3872
