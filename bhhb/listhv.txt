@@ -500,6 +500,12 @@ CGTN,http://23.237.10.66:16428
 [马来西亚]ASTRO Oasis,http://23.237.10.66:16471
 CGTN documentary,http://23.237.10.66:16473
 [新加坡]Mediacorp Suria马来语节目,http://23.237.10.66:16492
+北京新闻,http://live.cooltv.top/tv/btime.php?id=btvxw
+北京影视,http://live.cooltv.top/tv/btime.php?id=btvys
+北京文艺,http://live.cooltv.top/tv/btime.php?id=btvwy
+北京财经,http://live.cooltv.top/tv/btime.php?id=btvcj
+北京生活,http://live.cooltv.top/tv/btime.php?id=btvsh
+北京纪实科教,http://live.cooltv.top/tv/btime.php?id=btvkj
 嘉佳卡通,http://23.237.10.66:16662
 CCTV1,rtsp://125.88.52.18/PLTV/88888905/224/3221227610/10000100000000060000000004462931_0.smil?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjrJOUmzk157kD2TdQGpdFA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM%2CEND
 M1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1683756301&sign=39492f2eb787994baec9e42bda85f7bf
