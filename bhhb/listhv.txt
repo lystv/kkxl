@@ -10,6 +10,8 @@ CCTV5+体育赛事,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227192/10000100
 风云足球,rtsp://183.59.156.50/PLTV/88888905/224/3221229930/10000100000000060000000011037422_0.smil?0&accountinfo=%7E%7EV2.0%7Elo3t0CkPXl-Ytuu5GGG77w%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 央视台球,rtsp://183.59.156.50/PLTV/88888905/224/3221230116/10000100000000060000000011037423_0.smil?0&accountinfo=%7E%7EV2.0%7Egdwsh1RXp5fQuBy7_IblpA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 高尔夫网球,rtsp://183.59.156.50/PLTV/88888905/224/3221229987/10000100000000060000000011037424_0.smil?0&accountinfo=%7E%7EV2.0%7ETwh27NLfFB5S4M6z4yiEwg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
+咪咕直播-4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
+咪咕直播4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3 
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 广东GRTN纪录片,https://glive.grtn.cn/live/jilupian.m3u8?auth_key=1681123653-0-0-a35d50d3397bd374ec26f01c8625c73e
 广东GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1681059808-0-0-fdabdd99794469e8571601f7538ec474
