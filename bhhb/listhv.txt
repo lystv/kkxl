@@ -71,6 +71,7 @@ CCTV高尔夫网球,http://111.20.40.170/PLTV/88888893/224/3221226978/index.m3u8
 连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 4K测试,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 4K测试,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV-4K超高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 华数4K,http://nas.jdshipin.com:8801/4kys.php
