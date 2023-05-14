@@ -6243,6 +6243,12 @@ CCTV16,http://157.122.177.10:9901/tsfile/live/1003_1.m3u8
 广东房产,http://157.122.177.10:9901/tsfile/live/1014_1.m3u8
 广东现代教育,http://157.122.177.10:9901/tsfile/live/1015_1.m3u8
 广东移动,http://157.122.177.10:9901/tsfile/live/1016_1.m3u8
+广东民生,http://113.86.204.68:808/hls/18/index.m3u8
+广东新闻,http://113.86.204.68:808/hls/20/index.m3u8
+广东体育,http://113.86.204.68:808/hls/21/index.m3u8
+广东珠江,http://113.86.204.68:808/hls/17/index.m3u8
+大湾区卫视,http://113.86.204.68:808/hls/23/index.m3u8
+广东经济科教,http://113.86.204.68:808/hls/22/index.m3u8
 有线新闻台,http://107.151.203.111:2209/135/hk.php?id=cable37h
 南方卫视,http://124.222.238.146:1125/m3u8.php?/iTouchTV/1197/playlist.m3u8
 广东综艺,http://124.222.238.146:1125/m3u8.php?/iTouchTV/1198/playlist.m3u8
