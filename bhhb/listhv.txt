@@ -3035,14 +3035,15 @@ DIGI sport 3 高清,http://84.17.61.203:8086/udp/238.2.25.90:1234
 HISTORY,http://84.17.61.203:8086/udp/238.2.25.92:1234
 TRAVEL,http://84.17.61.203:8086/udp/238.2.25.93:1234
 AXN,http://84.17.61.203:8086/udp/238.2.25.95:1234
-CTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8#http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8#http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
-CCTV16 4K,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
-CGTN英闻,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2001656803.m3u8
-CGTN法语,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010153503.m3u8
-CGTN俄语,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152603.m3u8
-CGTN西班牙语,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152503.m3u8
-CGTN纪录国际,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155403.m3u8
-电视指南,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514003.m3u8
+CTV16,http://117.169.124.149:8080/live/HD-8000k-1080P-cctv16/1.m3u8#http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8#http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
+CCTV16 4K,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
+CGTN英闻,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2001656803.m3u8
+CGTN法语,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010153503.m3u8
+CGTN俄语,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152603.m3u8
+CGTN西班牙语,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010152503.m3u8
+CGTN纪录国际,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155403.m3u8
+电视指南,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514003.m3u8
+卫生健康,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
 卫生健康,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513503.m3u8
 广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 广东影视,http://157.122.177.10:9901/tsfile/live/1002_1.m3u8
@@ -3519,7 +3520,7 @@ Discovery科学频道,P2p://generationnexxxt.com:19806/7157f2127328417daedb7083a
 历史频道,P2p://generationnexxxt.com:19806/64401a2b0005f4f6fc3b04224ca13025
 罪案侦缉频道,P2p://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
 军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.m3u8
-CCTV-兵器科技,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8#http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8#http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV-兵器科技,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8#http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8#http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8
 Love Nature 4K,P2p://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4#https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8#http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8#http://bamus-eng-roku.amagi.tv/playlist.m3u8
 东森电影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8#http://120.84.96.87:808/hls/32/index.m3u8#P2p://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
 东森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8#http://120.84.96.82:808/hls/33/index.m3u8#http://120.84.96.87:808/hls/33/index.m3u8#P2p://generationnexxxt.com:19806/cbe8fad92b7e4497bce416a75eae4708
@@ -6753,23 +6754,23 @@ IPTV5+ 2M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240281_1/playli
 体育赛事,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
 熊猫频道 4M1080,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240263_1/playlist.m3u8?CONTENTID=00000110240263_1
 测试频道,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240330_1/playlist.m3u8?CONTENTID=00000110240330_1
-CCTV-1,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
-CCTV-2,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
-CCTV-3,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
-CCTV-4,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
-CCTV-4K,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8#http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8#http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
-CCTV-5,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8#http://live.cooltv.top/tv/aishang.php?id=cctv5hd#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1
+CCTV-1,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV-2,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV-3,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV-4,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV-4K,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8#http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8#http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8#https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+CCTV-5,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205103.m3u8#http://live.cooltv.top/tv/aishang.php?id=cctv5hd#http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1
 CCTV-5+,http://live.cooltv.top/tv/aishang.php?id=cctv5p
-CCTV-6,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
-CCTV-7,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8#https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
-CCTV-8,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
-CCTV-9,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
-CCTV-10,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
-CCTV-12,ttp://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
-CCTV-13,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV-6,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203303.m3u8
+CCTV-7,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510003.m3u8#https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+CCTV-8,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV-9,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV-10,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV-12,ttp://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV-13,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
 CCTV-13,http://222.170.28.3/live.aishang.ctlcdn.com/00000110240502_1/encoder/0/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV-16,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
-CCTV-17,http://120.221.218.50/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
+CCTV-16,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012492303.m3u8
+CCTV-17,http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
