@@ -12,6 +12,8 @@ CCTV5+体育赛事,rtsp://183.59.70.69:554/PLTV/88888905/224/3221227192/10000100
 高尔夫网球,rtsp://183.59.156.50/PLTV/88888905/224/3221229987/10000100000000060000000011037424_0.smil?0&accountinfo=%7E%7EV2.0%7ETwh27NLfFB5S4M6z4yiEwg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 咪咕直播-4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3 
+五星体育,http://lu1.cc/itv/php/best.php?id=wxty
+劲爆体育,http://lu1.cc/itv/php/best.php?id=jbty
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 广东GRTN纪录片,https://glive.grtn.cn/live/jilupian.m3u8?auth_key=1681123653-0-0-a35d50d3397bd374ec26f01c8625c73e
 广东GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1681059808-0-0-fdabdd99794469e8571601f7538ec474
@@ -20,6 +22,7 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 广东体育,rtsp://183.59.156.50/PLTV/88888905/224/3221226934/00000100000000060000000000554903_0.smil?0&accountinfo=%7E%7EV2.0%7EaDQgVF98alXCfh_NAd7HHQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
+广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 广东体育,http://120.84.96.73:808/hls/170/index.m3u8
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1413_4500
