@@ -248,9 +248,6 @@ NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.
 咪咕直播-52,http://gslbserv.itv.cmvideo.cn:80/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=3
 咪咕直播-53,http://gslbserv.itv.cmvideo.cn:80/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 广东电信回看源,#genre#
-凤凰中文,http://39.135.138.58:18890/PLTV/88888888/224/3221226248/index.m3u8
-凤凰资讯,http://39.135.138.58:18890/PLTV/88888888/224/3221226274/index.m3u8
-凤凰香港,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
 广东新闻高清,http://183.59.156.50:30001/PLTV/88888905/224/3221230032/320917528.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7EgDBfCrlNs_X3qljSJ3njZQ%7EbLOzG9vYoN7ey7iY69nHZdPUiRe2_9L3SU-HYMCkcDkvsW4hTJlWEWMhTlEZzYxFU6JrebBV1RfOih5WutglnTFb-CIDdUvB5gc2peegd1o~ExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&GuardEncType=2&tenantId=8601
 广东新闻高清,http://183.59.131.100:30001/PLTV/88888905/224/3221230032/320917528.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7EgDBfCrlNs_X3qljSJ3njZQ%7EbLOzG9vYoN7ey7iY69nHZdPUiRe2_9L3SU-HYMCkcDkvsW4hTJlWEWMhTlEZzYxFU6JrebBV1RfOih5WutglnTFb-CIDdUvB5gc2peegd1o~ExtInfoWNHSPSTb+3AG0FnUkYLPMw%2CEND&GuardEncType=2&tenantId=8601
 广州综合高清,http://183.59.131.100:30001/PLTV/88888905/224/3221230104/453207146.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
@@ -258,16 +255,9 @@ NewTV超级体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.
 广州影视高清,http://183.59.131.100:30001/PLTV/88888905/224/3221230115/453198755.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7ENaCaue7LGOmXprWOEgXTzw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州法治高清,http://183.59.131.100:30001/PLTV/88888905/224/3221230168/453206912.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7EUSiyCu_w9WF99m5iQxHYRA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州竞赛高清,http://183.59.131.100:30001/PLTV/88888905/224/3221230122/453206917.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7EYewCUd3e3HXUSDKCfQk-Jw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
-翡翠台内地版,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
 爱上4K,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 4K影视,http://nas.jdshipin.com:8801/4kys.php
-虎牙4K王者荣耀,http://159.75.85.63:35455/huya/wzgxs1
-北京IPTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-凤凰资讯,http://39.135.148.130:6610/PLTV/88888910/224/3221226274/index.m3u8
-凤凰中文,http://39.135.148.130:6610/PLTV/88888910/224/3221226248/index.m3u8
 纪实科教8K,http://159.75.85.63:6798/
-纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8#http://39.134.116.30/PLTV/88888910/224/3221225786/index.m3u8
-纯享4k,http://39.135.138.58:18890/PLTV/88888910/224/3221225786/index.m3u8
 广州综合高清,rtsp://183.59.168.27/PLTV/88888905/224/3221230104/453207146.smil?0&accountinfo=%7E%7EV2.0%7EzPzHhhIQTsmwS_6SJEwFCg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州新闻高清,rtsp://183.59.168.27/PLTV/88888905/224/3221230113/453206913.smil?0&accountinfo=%7E%7EV2.0%7E0SFQT4d134tJBYGpDmeXDQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广州影视高清,rtsp://183.59.168.27/PLTV/88888905/224/3221230115/453198755.smil?0&accountinfo=%7E%7EV2.0%7ENaCaue7LGOmXprWOEgXTzw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
@@ -614,7 +604,6 @@ CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226638/1.m3
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226736/1.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
-CCTV5,http://23.237.10.66:16007
 [巴西]Multishow,http://23.237.10.66:16124
 [巴西]spor tv 2,http://23.237.10.66:16180
 [巴西]Telecine,http://23.237.10.66:16195
@@ -631,7 +620,7 @@ animal planet discovery,http://208.115.225.174:14192
 [巴西]Premiere,http://208.115.225.174:14472
 [巴西]Premiere,http://208.115.225.174:14476
 4K影视超高清,http://39.134.136.151:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1159120230327103012001425&channel-id=wasusyt&Contentid=6000000003000004748
-4K超高清,http://120.234.220.107:9000/udp/239.20.0.60:3160
+广东4K超高清,http://120.234.220.107:9000/udp/239.20.0.60:3160
 南国都市4K,http://120.234.220.107:9000/udp/239.21.0.132:3872
 CCTV4K,http://hu60.cn/download/cctv/ysp1.php
 CCTV8K,http://www.kitcc.cn:8888/udp/239.253.43.106:5146
@@ -1260,6 +1249,7 @@ CCTV卫生健康,http://live.cooltv.top/tv/yqdtv.php?id=111
 南国都市 4K,http://ct.whosayssowhat.top:4022/udp/239.253.43.99:5146
 CCTV-4K 4K,http://ct.whosayssowhat.top:4022/rtp/239.77.0.194:5146$广电4K
 CCTV-4K 4K,http://ct.whosayssowhat.top:4022/rtp/239.77.0.232:5146$广电4K
+CCTV8K,http://ct.whosayssowhat.top:4022/udp/239.253.43.106:5146
 CCTV-164K,http://ct.whosayssowhat.top:4022/rtp/239.77.1.98:5146$广电4K
 CGTN,http://ct.whosayssowhat.top:4022/rtp/239.77.0.45:5146$广电标清
 CGTN,http://ct.whosayssowhat.top:4022/rtp/239.77.1.27:5146$广电标清
