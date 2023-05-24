@@ -555,17 +555,29 @@ CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
 5月测试,#genre#
 4K影视超高清,http://39.134.136.151:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1159120230327103012001425&channel-id=wasusyt&Contentid=6000000003000004748
 纪实科教8K,http://8kdowntest.brtvcloud.com/8klive/8kliveok.m3u8
+东森新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334237
+中天新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334230#http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334177
+三立iNEWS,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334244
+中视新闻台,mitv://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1
+台视新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334227
+TVBS新闻台,http://php.733240.com/hk/hk.php?id=12
+TVBS,http://php.733240.com/hk/hk.php?id=13#http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334178
+HOY资讯台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=449526
+HOY TV,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=449527
+VIUTV SIX,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=419134
+VIUTV,http://php.733240.com/hk/hk.php?id=2#http://r.jdshipin.com/vSJvl
+J2,http://php.733240.com/hk/hk.php?id=10#http://r.jdshipin.com/Nr5jq#mitv://generationnexxxt.com:19806/1d7353774ff645bcbca9f9d5538c4ba7
+无线新闻,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334210
+无线财经体育资讯,http://php.733240.com/hk/hk.php?id=8#http://120.84.96.89:808/hls/86/index.m3u8#http://120.84.96.73:808/hls/86/index.m3u8#http://120.84.96.87:808/hls/86/index.m3u8
+翡翠台,http://php.733240.com/hk/hk.php?id=1#http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334206#http://r.jdshipin.com/62WM7#http://r.jdshipin.com/n90gt
+明珠台,http://r.jdshipin.com/ZQ4kN
+凤凰资讯台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334193#http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv#http://r.jdshipin.com/0Rp07#http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967#http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8#http://107.151.203.111:2209/135/hk.php?id=fhzx
+凤凰中文台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334192#http://115.231.143.224/playtv-live.ifeng.com/live/06OLEGEGM4G.flv#http://r.jdshipin.com/cCCzW#http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487#http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8#http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰中文,http://124.236.64.52/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰资讯,http://124.236.64.52/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰卫视资讯台,http://115.231.143.224/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-吉视都市,http://58.245.106.39:9901/tsfile/live/1001_1.m3u8
-吉视影视,http://58.245.106.39:9901/tsfile/live/1000_1.m3u8
-吉视生活,http://58.245.106.39:9901/tsfile/live/1002_1.m3u8
-长影频道,http://58.245.106.39:9901/tsfile/live/1006_1.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-星衛HD電影台,http://23.237.10.66:16359
-中天综合,http://23.237.10.66:16372
 universal tv,http://208.115.225.174:14128
 WBD TV 生活大爆炸,http://208.115.225.174:14132
 HBO2,http://208.115.225.174:14140
@@ -636,31 +648,6 @@ TVBS新闻台,rtmp://9sv2.mine.nu/sat/tv551
 ELEVEN体育1台,rtmp://9sv2.mine.nu/sat/tv731
 ELEVEN体育2台,rtmp://9sv2.mine.nu/sat/tv741
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
-HOY,http://flv.mp4cdn.live/gt-key=00569874.php?id=1
-翡翠台,http://flv.mp4cdn.live/gt-key=00569874.php?id=2
-明珠台,http://flv.mp4cdn.live/gt-key=00569874.php?id=3
-TVB星河,http://flv.mp4cdn.live/gt-key=00569874.php?id=4
-J2,http://flv.mp4cdn.live/gt-key=00569874.php?id=5
-无线新闻,http://flv.mp4cdn.live/gt-key=00569874.php?id=13
-财经体育资讯,http://flv.mp4cdn.live/gt-key=00569874.php?id=14
-好莱坞电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=100
-CINMAX,http://flv.mp4cdn.live/gt-key=00569874.php?id=101
-AXN,http://flv.mp4cdn.live/gt-key=00569874.php?id=102
-纬来电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=103
-东森电影,http://flv.mp4cdn.live/gt-key=00569874.php?id=104
-东森洋片,http://flv.mp4cdn.live/gt-key=00569874.php?id=105
-东森戏剧,http://flv.mp4cdn.live/gt-key=00569874.php?id=106
-龙华洋片,http://flv.mp4cdn.live/gt-key=00569874.php?id=107
-龙翔时代,http://flv.mp4cdn.live/gt-key=00569874.php?id=108
-卫视中文台,http://flv.mp4cdn.live/gt-key=00569874.php?id=109
-天映频道,http://flv.mp4cdn.live/gt-key=00569874.php?id=110
-CCM,http://flv.mp4cdn.live/gt-key=00569874.php?id=111
-星卫电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=112
-美亚电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=113
-卫视电影台,http://flv.mp4cdn.live/gt-key=00569874.php?id=114
-凤凰中文台,http://flv.mp4cdn.live/gt-key=00569874.php?id=182
-凤凰资讯台,http://flv.mp4cdn.live/gt-key=00569874.php?id=183
-凤凰香港台,http://flv.mp4cdn.live/gt-key=00569874.php?id=184
 CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
 CHC动作电影,http://www.51nas.top:4022/udp/239.81.0.239:4056
 CHC家庭影院,http://www.51nas.top:4022/udp/239.81.0.238:4056
