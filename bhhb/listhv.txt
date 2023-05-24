@@ -545,6 +545,7 @@ CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
 5月测试,#genre#
 4K影视超高清,http://39.134.136.151:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1159120230327103012001425&channel-id=wasusyt&Contentid=6000000003000004748
 纪实科教8K,http://8kdowntest.brtvcloud.com/8klive/8kliveok.m3u8
+1905,https://hlslive.1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8?tm=1685505901&sign=10030cb1ff06e56b06918481f6b62555
 东森新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334237
 中天新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334230#http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334177
 三立iNEWS,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334244
