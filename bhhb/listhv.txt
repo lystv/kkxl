@@ -560,10 +560,11 @@ TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
 华丽台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
+泉州电视台1,rtmp://live.qztv.cn/live/news
+泉州电视台4,rtmp://live.qztv.cn/live/mny
 东森新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334237
 中天新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334230#http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334177
 三立iNEWS,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334244
-中视新闻台,mitv://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1
 台视新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334227
 民视新闻台,http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334228
 TVBS新闻台,http://php.733240.com/hk/hk.php?id=12#http://php.733240.com/hk/test.php?url=https://www.kankanzhibo.com/player/index?id=1334233
