@@ -568,6 +568,33 @@ CCM,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=111
 凤凰中文,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=182
 凤凰咨询,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=183
 凤凰香港,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=184
+明珠台,P2p://198.255.74.87:9906/6372e4cf00008bf83f32699265094010.ts#P2p://generationnexxxt.com:19806/24e912a5d830431fbd5d9ca1792be9de#http://r.jdshipin.com/ZQ4kN
+凤凰资讯台,http://113.117.74.15:8081/hls/36/index.m3u8#http://r.jdshipin.com/0Rp07#http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8#http://107.151.203.111:2209/135/hk.php?id=fhzx#http://123.51.230.108:18580/.m3u8#P2p://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e#mitv://135.148.104.228:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e
+凤凰中文台,http://113.117.74.17:8081/hls/37/index.m3u8#http://r.jdshipin.com/cCCzW#http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8#P2p://generationnexxxt.com:19806/645385720009117848161b4e340f749d#P2p://135.148.104.228:19806/645385720009117848161b4e340f749d
+凤凰香港,http://113.117.74.42:8081/hls/38/index.m3u8
+HOY TV,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=1#P2p://198.255.74.87:9906/6372e4cf00063a783f326b07aad89446#P2p://generationnexxxt.com:19806/e77cb31fe80747d298ef0d2d9c919f07
+VIUTV SIX,P2p://198.255.74.87:9906/6372e4cf0002b47a3f326a209840a60d#P2p://generationnexxxt.com:19806/c4c1c3b894794541baf86612a8c8ce33,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-02c0711b-8297-49cf-b07d-7c91de92f6f8.m3u8
+VIUTV,P2p://198.255.74.87:9906/6372e4bc000275273f321fd87c82ce95#P2p://generationnexxxt.com:19806/894e66f1d02e423f9d6726108942dcf1#http://r.jdshipin.com/vSJvl
+J2,http://flv.mp4cdn.live/gt-key=85IUHH9OIYUFFJIJYRGDW8802.php?id=5#http://r.jdshipin.com/Nr5jq#mitv://198.255.74.87:9906/63de1ea800078fba00338b562e0e1e3c#P2p://generationnexxxt.com:19806/1d7353774ff645bcbca9f9d5538c4ba7
+Now新闻,P2p://198.255.74.87:9906/63de1ea8000ccb6200338cada3855530.ts#P2p://135.148.104.228:19806/d7d8ced83c694ee09eda089b554d9dc5#P2p://198.255.74.87:9906/63de1ea8000ccb6200338cada3855530#P2p://generationnexxxt.com:19806/d7d8ced83c694ee09eda089b554d9dc5
+NOWTV直播台,P2p://198.255.74.87:9906/63de1ea8000deb9500338cf69ab0cfbb#P2p://198.255.74.87:9906/63de1ea8000deb9500338cf69ab0cfbb.ts
+有线綜合娛樂台,P2p://198.255.74.87:19906/aedac82c51ca473aafe301199d9a07eb#P2p://generationnexxxt.com:19806/aedac82c51ca473aafe301199d9a07eb
+TVB娛樂新聞台,P2p://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
+HKC新闻台,P2p://198.255.74.87:9906/6372e4bc0006a31a3f3220ea68a68850.ts
+有线新闻直播台,http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8#http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+Hands Up,P2p://generationnexxxt.com:19806/6f319c6a8c154eeeb7aeb9a2c0767b8a
+AXN,P2p://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a
+HBO,P2p://198.255.74.87:9906/63de1eb300060c290033b5eae09047a0#P2p://generationnexxxt.com:19806/dc01bf43a9fd4c0594f0a73ee31ab4a5
+HBO Hits,P2p://198.255.74.87:9906/63de1eb3000906080033b6ae2d17d654#P2p://generationnexxxt.com:19806/f33628c42a3645dba83d317e70abf28c
+HBO Signature,P2p://198.255.74.87:9906/63de1eb3000711560033b62d88f04196#P2p://generationnexxxt.com:19806/8987f1bb3c9740e980bce7d787cfba0d
+HBO Family,P2p://198.255.74.87:9906/63de1eb300080cb70033b66e88407dbf
+寰宇新闻台,P2p://generationnexxxt.com:19806/644caa69000a86d02d4e808470d2023f
+华视新闻,P2p://generationnexxxt.com:19806/ab85a40ff8754fe58c6aec3a9768925d
+台视新闻台,P2p://generationnexxxt.com:19806/6458c34b000df71b5c8fbf0c55f221b5
+寰宇新闻台湾台,P2p://generationnexxxt.com:19806/6458c4bf000411595c95699b34765f35
+台视财经台,P2p://generationnexxxt.com:19806/6458c34c00065a835c8fc1003c896dab
+镜新闻,P2p://generationnexxxt.com:19806/e3e4efe5fc44494eac3a307a9ce46027
+Animax,P2p://198.255.74.87:9906/63de1eb3000504fe0033b5a75425beca#P2p://generationnexxxt.com:19806/09993190594140d3a87996691fdea68c
 广东新闻,http://157.122.177.10:9901/tsfile/live/1008_1.m3u8#http://live.cooltv.top/tv/gd.php?id=gdxw#http://124.222.238.146:3328/SMBD/smtv.php?id=gdxw#http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdxw&auth=rinimabi#http://61.143.45.150:9901/tsfile/live/0019_1.m3u8
 广东民生,http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgg&auth=rinimabi
 广东卫视,http://222.175.159.226:808/hls/202352/index.m3u8#http://175.18.189.238:9990/tsfile/live/0125_1.m3u8#http://live.cooltv.top/tv/aishang.php?id=gdwshd#http://v2.91kds.cn/b9/itouchv3.m3u8?id=gdgg&auth=rinimabi
