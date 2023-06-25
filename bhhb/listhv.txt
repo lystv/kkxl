@@ -684,8 +684,15 @@ CCTV16,http://china.733240.com/cqyx.php?id=cctv16HD
 五星体育,http://cfss.cc/ds/bst.php?id=Cf-54
 广东体育,http://tianhewan.top/ZIPP.php?url=http://59.32.98.255:9901/tsfile/live/1001_1.m3u8
 广东体育,http://gxdl-lhs.8866.org:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
+凤凰资讯,https://17186.eu.org/php/phtv/fhzxhd.flv
+凤凰资讯,https://17186.eu.org/php/phtv/fhzx.flv
 凤凰资讯,http://iptv.weai.love/live/88888888/fhzx.m3u8
-凤凰中文,http://iptv.weai.love/live/88888888/fhzw.m3u8
+凤凰资讯,http://113.117.74.15:8081/hls/36/index.m3u8
+凤凰中文,https://17186.eu.org/php/phtv/fhzw.flv
+凤凰中文,https://17186.eu.org/php/phtv/fhzwhd.flv
+凤凰中文,http://113.117.74.15:8081/hls/37/index.m3u8
+凤凰香港,http://113.117.74.15:8081/hls/38/index.m3u8
 翡翠台,http://113.117.74.26:8081/hls/67/index.m3u8
 龙华洋片,https://dispatch.ulivetv.net/v/live/cl7cn6bknxds.m3u8?stream_id=cl7cn6bknxds&timestamp=1687140204&rand=P71sEdgrAo&uuid=9b647b3816b2a66a&from=web&sign=4b7adccc3ef7f6b45c5f5aef715290a1
 纬来日本台,https://dispatch.ulivetv.net/v/live/cl7c7d6a1j28.m3u8?stream_id=cl7c7d6a1j28&timestamp=1687142164&rand=F83MEbwFw3&uuid=9b647b3816b2a66a&from=web&sign=3e8ed5b14c9007c6b2f10eec84802d42
