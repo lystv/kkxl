@@ -465,6 +465,15 @@ CCTV16,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 凤凰资讯,https://17186.eu.org/php/phtv/fhzx.flv
 凤凰中文,https://17186.eu.org/php/phtv/fhzw.flv
 凤凰中文,https://17186.eu.org/php/phtv/fhzwhd.flv
+军事评论,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240311_1/encoder/0/playlist.m3u8?CONTENTID=00000110240311_1&&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
+CCTV-兵器科技,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD#http://175.18.189.238:9990/tsfile/live/1030_1.m3u8#http://111.20.40.162/PLTV/88888893/224/3221226975/index.m3u8#http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8
+广东新闻,http://60.208.16.27:1505/gudou.php?id=1454_4500#http://218.19.13.245:9901/tsfile/live/1002_1.m3u8#http://183.236.98.39:808/hls/66/index.m3u8
+广东民生,http://60.208.16.27:1505/gudou.php?id=1455_4500
+广东卫视,http://125.210.152.19:9120/live/hzgq-gdwsgq-h264.m3u8#http://60.208.16.27:1505/gudou.php?id=1401#http://175.18.189.238:9990/tsfile/live/0125_1.m3u8#http://live.cooltv.top/tv/aishang.php?id=gdwshd
+广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8#http://r.jdshipin.com/LiYdg#http://113.117.74.18:8081/hls/1/index.m3u8#http://218.19.13.245:9901/tsfile/live/1004_1.m3u8
+广东珠江,http://218.19.13.245:9901/tsfile/live/1001_1.m3u8#http://60.208.16.27:1505/gudou.php?id=gdzhujiangHD_7500#http://r.jdshipin.com/sE5vO#http://113.117.74.18:8081/hls/139/index.m3u8#http://183.236.98.39:808/hls/63/index.m3u8
+广州新闻,http://v2.91kds.cn/b9/gdgztv.m3u8?id=gdgzxw&auth=rinimabi
+大湾区卫视,http://60.208.16.27:1505/gudou.php?id=1456_4500#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 翡翠台,http://113.117.74.26:8081/hls/67/index.m3u8
 TV星河,http://171.108.239.112:8181/tsfile/live/1005_1.m3u8
 CCM,http://171.108.239.112:8181/tsfile/live/1009_1.m3u8
