@@ -3962,6 +3962,61 @@ CCTV15,http://223.95.111.98:5555/newlive/live/hls/15/live.m3u8
 顶级欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 北京组播新源,#genre#
+淘剧场,http://qnap.yjnhome.com:4000/rtp/239.3.1.95:8001
+淘电影,http://qnap.yjnhome.com:4000/rtp/239.3.1.250:8001
+淘娱乐,http://qnap.yjnhome.com:4000/rtp/239.3.1.100:8001
+淘BABY,http://qnap.yjnhome.com:4000/rtp/239.3.1.238:8001
+4K超清,http://qnap.yjnhome.com:4000/udp/239.3.1.249:8001
+星影,http://qnap.yjnhome.com:4000/rtp/239.3.1.94:4120
+动作影院,http://qnap.yjnhome.com:4000/rtp/239.3.1.92:4120
+光影,http://qnap.yjnhome.com:4000/rtp/239.3.1.84:4120
+喜剧影院,http://qnap.yjnhome.com:4000/rtp/239.3.1.91:4120
+家庭影院,http://qnap.yjnhome.com:4000/rtp/239.3.1.93:4120
+精选,http://qnap.yjnhome.com:4000/rtp/239.3.1.74:4120
+经 典,http://qnap.yjnhome.com:4000/rtp/239.3.1.195:9024
+萌宠TV,http://qnap.yjnhome.com:4000/rtp/239.3.1.102:8001
+CCTV1 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.129:8008
+CCTV2 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.60:8084
+CCTV3 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.172:8001
+CCTV4 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.105:8092
+CCTV5 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.173:8001
+CCTV5+,http://qnap.yjnhome.com:4000/rtp/239.3.1.130:8004
+CCTV6 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.174:8001
+CCTV7 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.61:8104
+CCTV8 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.175:8001
+CCTV9 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.62:8112
+CCTV10,http://qnap.yjnhome.com:4000/rtp/239.3.1.63:8116
+CCTV11 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.152:8120
+CCTV12 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.64:8124
+CCTV13 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.124:8128
+CCTV14 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.65:8132
+CCTV15 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.153:8136
+CCTV17 ,http://qnap.yjnhome.com:4000/rtp/239.3.1.151:8144
+北京卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.241:8000
+湖南卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.132:8012
+东方卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.136:8032
+浙江卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.137:8036
+江苏卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.135:8028
+深圳卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.134:8020
+广东卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.142:8048
+安徽卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.211:8064
+天津卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.141:1234
+重庆卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.122:8160
+山东卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.209:8052
+黑龙江卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.133:8016
+河北卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.148:8072
+辽宁卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.210:8056
+湖北卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.138:8044
+吉林卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.240:8172
+贵州卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.149:8076
+东南卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.156:8148
+江西卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.123:8164
+淘电影,http://beifeng.site:4000/udp/239.3.1.250:8001
+淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+淘电影,http://happy2015.synology.me:4000/udp/239.3.1.250:8001
+淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
+淘电影,http://router.tonyliangli.cn:4022/udp/239.3.1.250:8001
 淘电影,http://beifeng.site:4000/udp/239.3.1.250:8001
 淘剧场,http://beifeng.site:4000/udp/239.3.1.95:8001
 淘娱乐,http://beifeng.site:4000/udp/239.3.1.100:8001
