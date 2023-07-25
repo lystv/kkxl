@@ -1940,6 +1940,13 @@ TVB Thai,P2p://generationnexxxt.com:19806/e9d8980dfdea4d059b62fe6dfd2de092
 Bluesky,P2p://generationnexxxt.com:19806/a4d121356b034c7f95ed7b55aee8b9bb 
 Top News,P2p://generationnexxxt.com:19806/845fb3c3c97a44aeab8fb8d227636c7b 
 广东组播,#genre#
+CCTV-1高清,http://zhaomeng.ddns.net:4000/udp/239.93.0.184:5140
+CCTV-2高清,http://zhaomeng.ddns.net:4000/udp/239.93.1.23:6000
+CCTV-3高清,http://zhaomeng.ddns.net:4000/udp/239.93.1.11:2223
+CCTV-4高清,http://zhaomeng.ddns.net:4000/udp/239.93.1.105:5140
+CCTV-5高清,http://zhaomeng.ddns.net:4000/udp/239.93.42.37:5140
+CCTV-5＋高清,http://zhaomeng.ddns.net:4000/udp/239.93.1.36:8004
+CCTV-6高清,http://zhaomeng.ddns.net:4000/udp/239.93.1.13:2226
 广东珠江,http://fxhack.f3322.org:8000/rtp/239.77.0.1:5146$广电高清2
 广州新闻,http://fxhack.f3322.org:8000/rtp/239.253.43.72:5146$广电高清2
 广州综合,http://fxhack.f3322.org:8000/rtp/239.253.43.71:5146$广电高清2
