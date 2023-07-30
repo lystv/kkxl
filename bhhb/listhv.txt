@@ -4484,8 +4484,11 @@ CCTV1,http://111.59.63.32:9901/tsfile/live/1034_1.m3u8
 苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 联播,#genre#
+解说_阿斗说电影,https://www.goodiptv.club/huya/13303478
+解说_阿斗说电影,http://159.75.85.63:35455/huya/13303478
+解说_阿斗说电影,http://epg.112114.xyz/huya/13303478
 解说_阿斗说电影,http://43.128.40.42:198/虎牙直播/huya.php?id=13303478
-解说_电影狂人[1908*788],http://43.128.40.42:198/虎牙直播/huya.php?id=18715610
+解说_电影狂人,http://43.128.40.42:198/虎牙直播/huya.php?id=18715610
 解说_鹿哥电影,http://43.128.40.42:198/虎牙直播/huya.php?id=24396360
 解说_斌哥漫说,http://43.128.40.42:198/虎牙直播/huya.php?id=18632116
 解说_续哥说电影,http://43.128.40.42:198/虎牙直播/huya.php?id=24396472
