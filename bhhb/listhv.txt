@@ -3969,6 +3969,10 @@ CCTV15,http://223.95.111.98:5555/newlive/live/hls/15/live.m3u8
 顶级欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 北京组播新源,#genre#
+IPTV淘剧场,http://222.128.98.255:4000/rtp/239.3.1.95:8001
+IPTV淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://222.128.98.255:4000/rtp/239.3.1.100:8001
+IPTV淘BABY,http://222.128.98.255:4000/rtp/239.3.1.238:8001
 淘剧场,http://qnap.yjnhome.com:4000/rtp/239.3.1.95:8001
 淘电影,http://qnap.yjnhome.com:4000/rtp/239.3.1.250:8001
 淘娱乐,http://qnap.yjnhome.com:4000/rtp/239.3.1.100:8001
