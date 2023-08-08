@@ -331,6 +331,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv1
 CEC国际旅游,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 CEC国际教育,rtmp://play.cec-tv.com.cn/channel/cec-tv3
 CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
+无线新闻,P2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 急速测试,#genre#
 CCTV1,http://113.117.74.26:8081/hls/138/index.m3u8
 CCTV2,http://113.117.74.26:8081/hls/2/index.m3u8
