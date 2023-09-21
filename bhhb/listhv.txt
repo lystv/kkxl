@@ -29,6 +29,9 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 FTV足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 南京娱乐,http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
 TV BRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+BST百视通CCTV1,http://live-gitv-sx-yh.189smarthome.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+BST百视通CCTV1,http://ts-gitv-sx-yh.189smarthome.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+香港CCTV1,http://zw9999.cnstream.top/playlist/BR4ENDbKEx/dqm5vQ53bJ/m3u_plus?output=hls
 CCTV世界地理,http://111.20.40.170/PLTV/88888893/224/3221226947/index.m3u8
 CCTV风云剧场,http://111.20.40.170/PLTV/88888893/224/3221226950/index.m3u8
 CCTV央视台球,http://111.20.40.170/PLTV/88888893/224/3221226956/index.m3u8
