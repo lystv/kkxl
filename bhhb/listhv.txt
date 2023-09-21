@@ -511,6 +511,11 @@ ELEVEN体育2台,rtmp://9sv2.mine.nu/sat/tv741
 内蒙古卫视,http://1.183.178.135:8097/udp/239.29.0.2:5000
 陕西卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=1452_4500
 山西卫视,http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&playtoken=31607WESMAQDI&programid=4200000166.m3u8
+凤凰中文,http://www.pr666.site:4040/udp/239.255.30.50:8231
+凤凰中文,http://e2.woc.iiiya.cn:8888/udp/239.61.5.214:1025
+凤凰资讯,http://www.pr666.site:4040/udp/239.255.30.70:8231
+凤凰资讯,http://e2.woc.iiiya.cn:8888/udp/239.61.5.213:1025
+凤凰香港,http://www.pr666.site:4040/udp/239.255.30.123:8231
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 凤凰中文,https://17186.eu.org/php/phtv/fhzw.flv
