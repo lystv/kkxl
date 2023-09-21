@@ -1574,685 +1574,673 @@ CGTN,http://live.cooltv.top/tv/aishang.php?id=cgtnhd
 晋中综合,http://jzlive.jztvnews.com:90/live/jzzh.m3u8
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 P2p,#genre#
-Star Movies,P2p://generationnexxxt.com:19806/bcf382b353a74b509a5ca1354b689efe.ts
-Star Movies Gold,P2p://generationnexxxt.com:19806/67b71795aa8042728556240d531e7a31.ts
-壹电视电影台,P2p://generationnexxxt.com:19806/c4d7d3c0d08941afa5b11dfa41a74576.ts
-好莱坞电影台,P2p://generationnexxxt.com:19806/86c7f4066b9c49f3808094bd356b8b33
-凤凰电影台,P2p://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b.ts
-凤凰电影台,P2p://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
-澳门莲花,P2p://generationnexxxt.com:19806/bba45ad672ed40a9b433330c4839cfe2.ts
-有线电影台,P2p://generationnexxxt.com:19806/f64b49e3829e4fe2bf948a18b19c5a98.ts
-HBO,P2p://generationnexxxt.com:19806/dc01bf43a9fd4c0594f0a73ee31ab4a5
-HBO,P2p://generationnexxxt.com:19806/dc01bf43a9fd4c0594f0a73ee31ab4a5.ts
-AXN,P2p://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a.ts
-好莱坞电影台,P2p://generationnexxxt.com:19806/86c7f4066b9c49f3808094bd356b8b33.ts
-CINEMAX,P2p://generationnexxxt.com:19806/1d1c586a05ef4c13b029464c6d4644a1.ts
-HBO强档巨献,P2p://generationnexxxt.com:19806/f33628c42a3645dba83d317e70abf28c.ts
-HBO原创巨献,P2p://generationnexxxt.com:19806/8987f1bb3c9740e980bce7d787cfba0d.ts
-HBO Family,P2p://generationnexxxt.com:19806/ac77e78ed9ea4ff384eaa0de73b75df0.ts
-WARNER TV,P2p://generationnexxxt.com:19806/875d0108135e450485fe55ebca3e1a43.ts
-AMC最爱电影,P2p://generationnexxxt.com:19806/42dc2f449f2c49859e103b0236c34ab1.ts
-CatchPlay电影台,P2p://generationnexxxt.com:19806/7e53298e858e453d8cd89a4f09de4f12.ts
-CinemaWorld,P2p://generationnexxxt.com:19806/82a4e1f9268245ed93f38fcb17732c8f.ts
-美亚电影台HD,P2p://generationnexxxt.com:19806/dd098e4bd8c4432da26bf91235f43596 
-龙华电影,P2p://generationnexxxt.com:19806/caa18819e3884ce9813a067530171bf2 
-星卫HD电影台,P2p://generationnexxxt.com:19806/d050c38fac8c411aaa9b9a300aeaa1e4 
-靖天映画,P2p://generationnexxxt.com:19806/6caa39c31eef4f81bfbad1bde5618aef 
-靖天电影台,P2p://generationnexxxt.com:19806/37f508458d18414ea7ea39ef3094e33a 
-凤凰资讯台,P2p://generationnexxxt.com:19806/0b7958cc2d1c4a6f9f9449e92ad92b9e.ts
-凤凰香港台,P2p://generationnexxxt.com:19806/b70e94e7ac144bf585ad3bb140833c64.ts
-J2,P2p://generationnexxxt.com:19806/c4df08a1f2914a8da93691bfc04bb3ef
-无线新闻台,P2p://generationnexxxt.com:19806/31eb1cf3f36f4188a77f4260af2b50d9
-爱奇艺,P2p://generationnexxxt.com:19806/206defdef43a42fb8ee50238e76ac32c
-翡翠台(华丽台),P2p://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
-翡翠台(华丽台),P2p://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
-TVBS亚洲台,P2p://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
-HITS Movies,P2p://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa
-HITS,P2p://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
-HITS,P2p://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
-TVBS亚洲,P2p://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
-CNN,P2p://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
-BBC World News,P2p://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
-HITS,P2p://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
-东森新闻台,P2p://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
-中天新闻台,P2p://generationnexxxt.com:19806/dbb6973962204567b4719e3746a957e1
-TVBS新闻台,P2p://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
-TVBS,P2p://generationnexxxt.com:19806/7410b94b7d2045839bc4c2b269f4fb9e
-TVB J2,P2p://generationnexxxt.com:19806/c4df08a1f2914a8da93691bfc04bb3ef.ts
-有线新闻台,P2p://generationnexxxt.com:19806/6444e319000ca2d60eebf08159b06a25.ts
-ViuTV,P2p://generationnexxxt.com:19806/28d586e84f3f4ec8ba30d9339238a43d.ts
-ViuTVsix,P2p://generationnexxxt.com:19806/f5edbdea0bb74f19af4e0ff83d466ab2.ts
-RTHK31,P2p://generationnexxxt.com:19806/5c7ff8bb2e0349cdab492d5aea25ff3c.ts
-RTHK32,P2p://generationnexxxt.com:19806/afa315c3220e4a3898e3e2b3beca6ac7.ts
-Thrill,P2p://generationnexxxt.com:19806/14f535a7ec5a4939a67e7165f94ca38e.ts
-台视,P2p://generationnexxxt.com:19806/f626fb605d794173a2ed2319abc23788.ts
-台视,P2p://generationnexxxt.com:19806/f7826ceb93174d1f95c677cb053290d8.ts
-中视,P2p://generationnexxxt.com:19806/f1f4f77c21e2470e9c29111c9370bf08.ts
-中视,P2p://generationnexxxt.com:19806/4c53fced68824bc1b4e35dbd375e532a.ts
-民视,P2p://generationnexxxt.com:19806/d0c5de227ca34210a2a3222c76e80fd4.ts
-民视,P2p://generationnexxxt.com:19806/07b465de830f4fb7a7e9b3f826401578.ts
-华视,P2p://generationnexxxt.com:19806/4ce3296b98794b2ca8e1f040657e327b.ts
-华视,P2p://generationnexxxt.com:19806/8a4bfdfe9e844addb903a90141d2fad5.ts
-公视,P2p://generationnexxxt.com:19806/882cb7ba11384ac2874452400d6d0020.ts
-公视,P2p://generationnexxxt.com:19806/04efa7fef50b40afa265050107d00bd8.ts
-客家电视台,P2p://generationnexxxt.com:19806/4e013b4f51924d289c248b45b4d74f58.ts
-BBC World News,P2p://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1.ts
-CNN,P2p://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275.ts
-CNBC,P2p://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd.ts
-Bloomberg TV,P2p://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608.ts
-HITS,P2p://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204.ts
-壹电视新闻台,P2p://generationnexxxt.com:19806/6448e5fd0004b44d1e97391d4d2c0333.ts
-年代新闻台,P2p://generationnexxxt.com:19806/c1ae01ebfb874789956a7d6753b14c4c.ts
-东森新闻台,P2p://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715.ts
-东森新闻台,P2p://generationnexxxt.com:19806/d55a0683cbe84a1fb910d10c5e26db2b.ts
-中天新闻台,P2p://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c.ts
-民视新闻台,P2p://generationnexxxt.com:19806/d476f3c5b56647bf872237ce4c9fff5d.ts
-三立新闻台,P2p://generationnexxxt.com:19806/d0e6a89f1b7d42ae96f75f679e8da0f3.ts
-TVBS,P2p://generationnexxxt.com:19806/644d1a13000e2f842f02b17e6e9f6cae.ts
-TVBS新闻台,P2p://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60.ts
-LUXE TV,P2p://generationnexxxt.com:19806/c02d3bf53e8f4021947feb28aeb0c496.ts
-Lifetime,P2p://generationnexxxt.com:19806/d0da12938b6545828917832ad283dfce.ts
-民视第一台,P2p://generationnexxxt.com:19806/b82e864a876e4a99adf62a0f7a797714.ts
-民视台湾台,P2p://generationnexxxt.com:19806/742c1ff14b4b47d49007cd12204c8483.ts
-中视新闻台,P2p://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1.ts
-寰宇新闻台,P2p://generationnexxxt.com:19806/644caa69000a86d02d4e808470d2023f.ts
-华视新闻,P2p://generationnexxxt.com:19806/ab85a40ff8754fe58c6aec3a9768925d.ts
-台视新闻台,P2p://generationnexxxt.com:19806/3a402f366afa4a42bd0b16b432ebbdff.ts
-寰宇新闻台湾台,P2p://generationnexxxt.com:19806/9fb791a3f94e4716b62136ce3babc027.ts
-三立台湾台,P2p://generationnexxxt.com:19806/f2040a67eec34cb4a65705be966c7f01.ts
-天映频道,P2p://generationnexxxt.com:19806/644b68b3000a7c162865d184572c1ff0
-天映经典,P2p://generationnexxxt.com:19806/644b663d000a432e285c34846b9e74d6
-tvN Movies HD,P2p://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
-HKC电影台,P2p://generationnexxxt.com:19806/f64b49e3829e4fe2bf948a18b19c5a98
-凤凰电影台,P2p://generationnexxxt.com:19806/2df8c6787b0a4f08bee3dcccd49aef8b
-卫视电影台,P2p://generationnexxxt.com:19806/e6614f107c924a868360f724bf10f9d8
-东森电影台,P2p://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
-纬来电影台,P2p://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a
-龙祥电影,P2p://generationnexxxt.com:19806/644b663d0002f2fe285c32b00e0f46ef
-HBO,P2p://generationnexxxt.com:19806/dc01bf43a9fd4c0594f0a73ee31ab4a5
-东森洋片台,P2p://generationnexxxt.com:19806/cbe8fad92b7e4497bce416a75eae4708
-AXN,P2p://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a
-好莱坞电影台,P2p://generationnexxxt.com:19806/86c7f4066b9c49f3808094bd356b8b33
-CINEMAX,P2p://generationnexxxt.com:19806/1d1c586a05ef4c13b029464c6d4644a1
-HBO强档巨献,P2p://generationnexxxt.com:19806/f33628c42a3645dba83d317e70abf28c
-HBO原创巨献,P2p://generationnexxxt.com:19806/8987f1bb3c9740e980bce7d787cfba0d
-美亚电影台HD,P2p://generationnexxxt.com:19806/c4cf7dc18295472595398d0ad757ccf1
-龙华电影,P2p://generationnexxxt.com:19806/cede451738ef405fbb9fd50f010c6e69
-星卫HD电影台,P2p://generationnexxxt.com:19806/e241d240f66a45adb8be67c8c5cb7edc
-HBO Family,P2p://generationnexxxt.com:19806/ac77e78ed9ea4ff384eaa0de73b75df0
-CatchPlay电影台,P2p://generationnexxxt.com:19806/7e53298e858e453d8cd89a4f09de4f12
-CinemaWorld,P2p://generationnexxxt.com:19806/82a4e1f9268245ed93f38fcb17732c8f
-壹电视电影台,P2p://generationnexxxt.com:19806/c4d7d3c0d08941afa5b11dfa41a74576
-NBA,P2p://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
-ESPN,P2p://generationnexxxt.com:19806/eb2c51ee510841a9b7845b6d13309e9c
-爱尔达体育1,P2p://generationnexxxt.com:19806/8fc9a408fa54413e8757df91344c805d
-纬来体育,P2p://generationnexxxt.com:19806/801a9a12c10d4d04953332771aee0dba
-ELEVEN体育1台,P2p://generationnexxxt.com:19806/61a3473768ec4860bf9c5cc9911f71d6
-ELEVEN体育2台,P2p://generationnexxxt.com:19806/e3aeaea58e574957a3ce60d7e2d1081d
-爱尔达体育1,P2p://generationnexxxt.com:19806/7ee39f66b9f448979335e4067812760f
-爱尔达体育1,P2p://generationnexxxt.com:19806/694aae01164f482eae2be66c1255171c
-爱尔达体育2,P2p://generationnexxxt.com:19806/d833228c98a04547a6005f206d71117d
-爱尔达体育3,P2p://generationnexxxt.com:19806/bed0a4b629d149bc90aee0522c633b43
-智林体育台,P2p://generationnexxxt.com:19806/e32d399935b14711ad1b193cd5841274
-博斯高球,P2p://generationnexxxt.com:19806/a6c1103f5d4541fe87a2fe2617bf5b90
-博斯高球二台,P2p://generationnexxxt.com:19806/5469d36a29bd428bbd60342fe7db2471
-博斯网球台,P2p://generationnexxxt.com:19806/1256ea58cc9c447b9c33d2b68e518d25
-博斯魅力网,P2p://generationnexxxt.com:19806/d2e51a0dea8e4698945f956bd8e13ad9
-博斯无限台,P2p://generationnexxxt.com:19806/e60a3e57adf64439a0b6bc85e9e2a7c1
-博斯无限二台,P2p://generationnexxxt.com:19806/4e3ed72f4150435d90bf020a74ea1bc5
-博斯运动,P2p://generationnexxxt.com:19806/47d28929d004474cab9819e0f6436759
-博斯运动二台,P2p://generationnexxxt.com:19806/5faa98e5bbc442e4bd72b544651dd1be
-AAstro SuperSport,P2p://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0
-Astro SuperSport 2,P2p://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
-Astro SuperSport 3,P2p://generationnexxxt.com:19806/644a3bac000c472123cdeea90ef57521
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8
-Astro SuperSport 5,P2p://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756
-beIN Sports,P2p://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9
-beIN Sports 2,P2p://generationnexxxt.com:19806/1aa64e5459b04b32a0618b7226e0a3c0
-beIN Sports 3,,P2p://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61
-SPOTV,P2p://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7
-Eurosport HD,P2p://generationnexxxt.com:19806/aa9706fa55c84772a56fd959f7abdd45
-Skynet Sports HD,P2p://generationnexxxt.com:19806/a058e07556204a1ab4287b441eb54e05
-Skynet Sports 2,P2p://generationnexxxt.com:19806/fb0b368a0dce4d7c8b9002a3180d8d2f
-Skynet Sports 5,P2p://generationnexxxt.com:19806/cfb47a7ba5d2491ebe8b354e58c1cc43
-Skynet Sports 6,P2p://generationnexxxt.com:19806/b5ee6b4f6bb543cd8a1f426faa16821a
-Hub Sports 1,P2p://generationnexxxt.com:19806/5b7034df7dcd4ccabcb0137f0991a274
-Hub Sports 2,P2p://generationnexxxt.com:19806/2d881919b62242f4930fda32837eb7df
-Hub Sports 3,P2p://generationnexxxt.com:19806/6101d0aff0654f73812cb15c57df9f59
-Hub Sports 4,P2p://generationnexxxt.com:19806/6324a78a0d4549fc859b68804438bbe6
-Hub Sports 5,P2p://generationnexxxt.com:19806/58395e1ea80a40069a5e30c9917d1a97
-壹电视新闻台,P2p://generationnexxxt.com:19806/6448e5fd0004b44d1e97391d4d2c0333
-年代新闻台,P2p://generationnexxxt.com:19806/c1ae01ebfb874789956a7d6753b14c4c
-东森新闻台,P2p://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
-中天新闻台,P2p://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
-民视新闻台,P2p://generationnexxxt.com:19806/d476f3c5b56647bf872237ce4c9fff5d
-三立新闻台,P2p://generationnexxxt.com:19806/d0e6a89f1b7d42ae96f75f679e8da0f3
-TVBS新闻台,P2p://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
-东森财经新闻台,P2p://generationnexxxt.com:19806/644bc6970002cc0e29d4923028d9436e
-非凡新闻台,P2p://generationnexxxt.com:19806/b0b56f5fa2894372a0573751d819e46a
-中视新闻台,P2p://generationnexxxt.com:19806/8817421e14dd462f8deede53ce057af1
-寰宇新闻台,P2p://generationnexxxt.com:19806/644caa69000a86d02d4e808470d2023f
-华视新闻台,P2p://generationnexxxt.com:19806/ab85a40ff8754fe58c6aec3a9768925d
-台视新闻台,P2p://generationnexxxt.com:19806/3a402f366afa4a42bd0b16b432ebbdff
-寰宇新闻台湾台,P2p://generationnexxxt.com:19806/9fb791a3f94e4716b62136ce3babc027
-台视财经台,P2p://generationnexxxt.com:19806/89ceac38febb4d29aaba883ff9484a9b
-国家地理高画质野生频道,P2p://generationnexxxt.com:19806/faccdb1e8d4a48c4a2eb75b6fb436c05
-BBC Earth,P2p://generationnexxxt.com:19806/34f24f8ef6214f94a7e8d5981eb9cde2
-Discovery Asia,P2p://generationnexxxt.com:19806/0cb2bcf330534b429a8e008ccdc8886c
-Discovery科学频道,P2p://generationnexxxt.com:19806/862c9ba288c44277925b51c391df263b
-DMAX,P2p://generationnexxxt.com:19806/4e57d52ff07841a082749c96aa813f7b
-EVE,P2p://generationnexxxt.com:19806/2adb8e78858a455a84520253425057f3
-滚动力rollor,P2p://generationnexxxt.com:19806/136a99af59514db0994eccafd13c926f
-历史频道,P2p://generationnexxxt.com:19806/8641f6fb752d427db9a8df1625f88d22
-罪案侦缉频道,P2p://generationnexxxt.com:19806/ac8e4a1c6d944d28a3d281d65f6892a2
-BBC Lifestyle,P2p://generationnexxxt.com:19806/99d72fa5a5e94df7a3d961690ee09785
-Now新闻,P2p://generationnexxxt.com:19806/66cd85842cdd40e2b93d2b06afcc0fe6
-有线新闻台,https://epg.pw/stream/8584a47f94d73cd9b7dbd5b92007e0199e8ae78ef98ae6fff97110bf8fd18c74.m3u8#https://epg.pw/stream/c2dbab1c571e7f985ebdd78379ade415ab41962d93d020f6717ee4d0cd6cac9c.m3u8#http://107.151.203.111:2209/135/hk.php?id=cable37h#http://2022.stream-link.org/live/970235901#http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8#http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8#http://61.10.2.140/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8#http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8#P2p://generationnexxxt.com:19806/6444e319000ca2d60eebf08159b06a25
-HKC体育台,P2p://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99
-有线綜合娛樂台,P2p://generationnexxxt.com:19806/f4815802ef204971b9820b0d6e0bd096
-TVB娛樂新聞台,P2p://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
-有线新闻直播台,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
-HKC财经资讯台,http://61.10.2.141/live_freedirect/freehd208_h.live/playlist.m3u8
-HOY資訊台,P2p://generationnexxxt.com:19806/a3a0249bb5254e00bd624176ea5d8059
-HOY TV,P2p://generationnexxxt.com:19806/888310b67d4145d38881b7aff412bc4e
-ViuTVsix,P2p://generationnexxxt.com:19806/f5edbdea0bb74f19af4e0ff83d466ab2
-ViuTV,https://pull-l3-cny.douyincdn.com/live/stream-19632852023043013455.m3u8?by=yeslivetv_com#http://r.jdshipin.com/vSJvl#P2p://generationnexxxt.com:19806/28d586e84f3f4ec8ba30d9339238a43d
-J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8#http://r.jdshipin.com/Nr5jq#P2p://generationnexxxt.com:19806/c4df08a1f2914a8da93691bfc04bb3ef
-无线新闻,https://epg.pw/stream/8a901f8dbc93b286fc53ceceda0a7198f41dfd91a2ca2a528e314aea87eb806b.m3u8#http://162.19.247.76:22222/live/tvbnews/index.m3u8#P2p://generationnexxxt.com:19806/31eb1cf3f36f4188a77f4260af2b50d9#P2p://generationnexxxt.com:19806/6444e1d5000f2f020ee6ff8c79467f63#P2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
-无线财经资讯,http://120.84.96.89:808/hls/86/index.m3u8#http://120.84.96.73:808/hls/86/index.m3u8#http://107.151.203.111:2209/135/hk.php?id=tvbcjtyt#http://120.84.96.87:808/hls/86/index.m3u8#P2p://generationnexxxt.com:19806/9d875aca4a794a2aab8f1c34de8fb34e
-翡翠台,https://epg.pw/stream/0d703d8da7d92dc4f0fc2e4fd3321e11939fcea63e40b1616c81c2a6240c9379.ctv#http://162.19.247.76:22222/live/tvbfc/index.m3u8#P2p://generationnexxxt.com:19806/6445f746000d42cc1322c07777266ac1
-TVB华丽台,http://23.237.10.66:16410#P2p://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a#http://r.jdshipin.com/thuYX
-明珠台,P2p://generationnexxxt.com:19806/8c7997f50b844e5089ecec0cf54dd187#http://r.jdshipin.com/ZQ4kN
-凤凰资讯台,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967#http://flv.mp4cdn.live/gt-key=00569874.php?id=183#http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8#http://107.151.203.111:2209/135/hk.php?id=fhzx#https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv#http://123.51.230.108:18580/.m3u8#P2p://generationnexxxt.com:19806/9601e432db8346318bc3f53bd6342b77
-凤凰中文台,http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487#http://flv.mp4cdn.live/gt-key=00569874.php?id=182#http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8#http://107.151.203.111:2209/135/hk.php?id=fhzw#https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv#http://123.51.230.108:18581/.m3u8#P2p://generationnexxxt.com:19806/64427dd0000bf3770590424067f82843
-纪实科教8K,http://159.75.85.63:6798/
-国家地理频道,P2p://generationnexxxt.com:19806/f2a7763353c242b788b34f33aa478527
-探索频道,P2p://generationnexxxt.com:19806/7f6d6983b5cd47339d993860bc8f00e9
-动物星球,P2p://generationnexxxt.com:19806/14fd9d119d4b4f0391652fa16930fbe2
-国家地理高画质野生频道,P2p://generationnexxxt.com:19806/3b9bf42549604a2ab036b392b5108cf7
-Nat Geo Wild,P2p://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
-BBC Earth,P2p://generationnexxxt.com:19806/3c2c6ac179f448f5ae5d9cc8abc5efb4
-Discovery Asia,P2p://generationnexxxt.com:19806/63ec7853effa4011a77569913c8fe5e7
-Discovery科学频道,P2p://generationnexxxt.com:19806/7157f2127328417daedb7083ac5e7ea2
-历史频道,P2p://generationnexxxt.com:19806/64401a2b0005f4f6fc3b04224ca13025
-罪案侦缉频道,P2p://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
-军事评论,http://39.135.138.58:18890/PLTV/88888888/224/3221225757/index.m3u8
-CCTV-兵器科技,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8#http://111.20.40.170/PLTV/88888893/224/3221226975/index.m3u8#http://116.136.12.141/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8
-Love Nature 4K,P2p://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4#https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8#http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8#http://bamus-eng-roku.amagi.tv/playlist.m3u8
-东森电影台,http://162.19.247.76:22222/live/dsdyt/index.m3u8#http://120.84.96.87:808/hls/32/index.m3u8#P2p://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
-东森洋片台,http://162.19.247.76:22222/live/dsypt/index.m3u8#http://120.84.96.82:808/hls/33/index.m3u8#http://120.84.96.87:808/hls/33/index.m3u8#P2p://generationnexxxt.com:19806/cbe8fad92b7e4497bce416a75eae4708
-有线电影台,P2p://generationnexxxt.com:19806/f64b49e3829e4fe2bf948a18b19c5a98
-美亚电影台(粤语),P2p://generationnexxxt.com:19806/67e1956f4a0842a0a5352f0aabaa54b3
-Hands Up,P2p://generationnexxxt.com:19806/f9c41983d502432f87f550e6af471efe
-AXN,P2p://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a
-HBO,P2p://generationnexxxt.com:19806/dc01bf43a9fd4c0594f0a73ee31ab4a5
-HBO Family,http://flv.mp4cdn.live/gt-key=00569874.php?id=99#P2p://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d
-HBO HiTS,P2p://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
-HBO signature,P2p://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
-WARNER TV,P2p://generationnexxxt.com:19806/d4639fbf11424dcf8f2614071d57b567
-镜新闻,P2p://generationnexxxt.com:19806/3cada11582784405b35fe1d3bed65c7
-壹电视新闻台,P2p://generationnexxxt.com:19806/a84b87402809424bb947aea015bd6f34
-年代新闻,http://61.221.81.93:8532/hls/65/807/ch843.m3u8#P2p://generationnexxxt.com:19806/f721025fa5eb4938925ffd40f311b413
-东森新闻台,http://61.221.81.93:8527/hls/65/807/ch843.m3u8#P2p://generationnexxxt.com:19806/d55a0683cbe84a1fb910d10c5e26db2b#P2p://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715#P2p://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
-中天新闻台,P2p://generationnexxxt.com:19806/c88a7e7e25334800becd67d8aca62756
-民视新闻台,http://123.51.230.108:18663/.m3u8#P2p://generationnexxxt.com:19806/d476f3c5b56647bf872237ce4c9fff5d#P2p://generationnexxxt.com:19806/64ef45a872254806bc04be427324fa36
-三立新闻台,P2p://generationnexxxt.com:19806/d0e6a89f1b7d42ae96f75f679e8da0f3
-TVBS新闻台,P2p://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
-TVBS,P2p://generationnexxxt.com:19806/7410b94b7d2045839bc4c2b269f4fb9e
-东森财经新闻台,P2p://generationnexxxt.com:19806/d4722320436f46d79f866e57b261ac79
-非凡新闻台,P2p://generationnexxxt.com:19806/b0b56f5fa2894372a0573751d819e46a
-中视新闻台,P2p://generationnexxxt.com:19806/b752f0eeba5e4e4783d89f99a7b64053
-台视新闻台,P2p://generationnexxxt.com:19806/ef8ee9e7a5f54528b1016a192376681e
-寰宇新闻台湾台,P2p://generationnexxxt.com:19806/9fb791a3f94e4716b62136ce3babc027#P2p://generationnexxxt.com:19806/c6ca3ab80f4245f18380f98b9519d17a
-三立新闻台,http://123.51.230.64:18543/http/192.168.1.9:8081/hls/65/807/ch18.m3u8#P2p://generationnexxxt.com:19806/b49d0e6e622a4caa9b860020af7721b5
-镜电视新闻台,P2p://generationnexxxt.com:19806/3cada11582784405b35fe1d3bed65c7d
-寰宇新闻台,http://61.221.81.93:8513/hls/65/807/ch843.m3u8#P2p://generationnexxxt.com:19806/c026ff52334f43e09d98ad3280db22ef
-华视新闻,P2p://generationnexxxt.com:19806/2eef3a29a07741bf81c9564ea7478fc0
-三立iNEWS,P2p://generationnexxxt.com:19806/485326d984014d0fb87e9ac6ae03e137
-TVBS新闻台,P2p://generationnexxxt.com:19806/7a5456aca1f84d208f9b1ab1a614b537
-TVBS HD,P2p://generationnexxxt.com:19806/ffc03d3db4c74e529ceaa98f3ab0fc60
-TVBS欢乐台,P2p://generationnexxxt.com:19806/a821cda61eec4693bceec6cb79d88a34
-中天综合,http://23.237.10.66:16372#P2p://generationnexxxt.com:19806/59eea32b3a2d49019c32b066bbbb92d0
-中天娱乐台,http://162.19.247.76:22222/live/ztyl/index.m3u8#P2p://generationnexxxt.com:19806/97163a966a4a49ac888dbd606b965cf4
-靖天资讯台,P2p://generationnexxxt.com:19806/4d45f882077f4cf58806f16046b37ec8
-靖天综合台,P2p://generationnexxxt.com:19806/baa8ea1bb88b4d1ea9e45d3bff27c45b
-靖天育乐台,P2p://generationnexxxt.com:19806/00c434244d354297a2db52f458de84e9
-三立综合台,P2p://generationnexxxt.com:19806/ee47ad1ea78049ac8577929b4cef18f6
-东森综合台,P2p://generationnexxxt.com:19806/88fe82e39e1b409294c51f5b346de0e1
-纬来综合台,P2p://generationnexxxt.com:19806/981e6dbbc3e34265817d09731e3db241
-八大第一台,P2p://generationnexxxt.com:19806/1217464bff6c46d180ff30cb4cff310f
-八大综合台,P2p://generationnexxxt.com:19806/7f8ed6b6d4234d93ac0b4b6b506ee360
-三立台湾台,P2p://generationnexxxt.com:19806/2ce32382905140d0b309d9ac853c2c0a
-三立都会台,P2p://generationnexxxt.com:19806/f9f1b6bc8bd943f09b7a17bc481294da
-i-Fun动漫台,P2p://generationnexxxt.com:19806/0ce8bdb1044647af9bd397e05c57cb73
-Animax,P2p://generationnexxxt.com:19806/09993190594140d3a87996691fdea68c
-中视HD,rtmp://119.81.124.89/sat/tv091
-纬来育乐HD,rtmp://119.81.124.89/sat/tv701#P2p://generationnexxxt.com:19806/dd458fff62614481a7e9d65da897af75
-纬来日本HD,rtmp://119.81.124.89/sat/tv771
-纬来体育HD,http://123.51.230.108:18509/.m3u8#rtmp://219.80.97.77/sat/tv721#P2p://generationnexxxt.com:19806/801a9a12c10d4d04953332771aee0dba
-NBA,P2p://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
-ELEVEN1,http://61.221.81.93:8534/hls/65/807/ch843.m3u8#P2p://generationnexxxt.com:19806/6bf06553dc9942d389fbdee89bb3670a
-ELEVEN2,http://61.221.81.93:8539/hls/65/807/ch843.m3u8#P2p://generationnexxxt.com:19806/e3aeaea58e574957a3ce60d7e2d1081d
-爱尔达体育1台,P2p://generationnexxxt.com:19806/694aae01164f482eae2be66c1255171c#P2p://generationnexxxt.com:19806/7ee39f66b9f448979335e4067812760f
-爱尔达体育2台,P2p://generationnexxxt.com:19806/d833228c98a04547a6005f206d71117d
-J2,P2p://generationnexxxt.com:19806/c4df08a1f2914a8da93691bfc04bb3ef
-无线新闻台,P2p://generationnexxxt.com:19806/31eb1cf3f36f4188a77f4260af2b50d9
-爱奇艺,P2p://generationnexxxt.com:19806/206defdef43a42fb8ee50238e76ac32c
-翡翠台(华丽台),P2p://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
-TVBS亚洲台,P2p://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
-HITS Movies,P2p://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa
-HITS,P2p://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
-翡翠台(华丽台),P2p://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a
-HITS,P2p://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
-TVBS亚洲,P2p://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85
-港台电视31,P2p://generationnexxxt.com:19806/74fc0c2698d7473993bf38cc305005d8 
-港台电视32,P2p://generationnexxxt.com:19806/2c0081f46ec34d938526a4840a8d77db 
-HOY TV,P2p://generationnexxxt.com:19806/888310b67d4145d38881b7aff412bc4e 
-明珠台,P2p://generationnexxxt.com:19806/257d9994803542a794790504c2cd0a8e 
-翡翠台,P2p://generationnexxxt.com:19806/9e33aa15fae14d189885cd8c7775f019 
-翡翠台(备),P2p://generationnexxxt.com:19806/222f28eff08c40c2a2f10773500188be 
-J2,P2p://generationnexxxt.com:19806/9e4c0f8b5d8f45018367cccbf443bd61 
-无线新闻台(备),P2p://generationnexxxt.com:19806/bd60966852d044a194e8136c596219fb 
-无线新闻台,P2p://generationnexxxt.com:19806/a532a9bc47be4ea7892f61843eeaf4fd 
-无线财经资讯台,P2p://generationnexxxt.com:19806/a730755fb80b4e5aa7923bdd52e88f22 
-ViuTVsix,P2p://generationnexxxt.com:19806/302b10a7330f425495094fddf4ae9ea1 
-ViuTV,P2p://generationnexxxt.com:19806/71de5ab34dc24e0585d3d518c011d45b 
-TVB星河(粤),P2p://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707 
-阳光卫视,P2p://generationnexxxt.com:19806/260fcd7bb0bf4607b5ba6e3156c92995 
-澳门-MACAU,P2p://generationnexxxt.com:19806/2df34f6afc8c4ca583776ce95f685e31 
-澳门莲花,P2p://generationnexxxt.com:19806/47c068088f364f139bbee06bc68b6bf3 
-now新闻台,P2p://generationnexxxt.com:19806/422a5adf1ee24ca49327e0ef45efd5a8 
-HKC电影台,P2p://generationnexxxt.com:19806/dd45accdb93f42b8ae129d7b4bcc1ba5 
-HKC新闻台,P2p://generationnexxxt.com:19806/38f9d5c8ce3d48a683ba8cfa9c1ff867 
-HKC财经资讯台,P2p://generationnexxxt.com:19806/2cc83cd67533439b8ba04a904d819b73 
-HKC 18,P2p://generationnexxxt.com:19806/2ea5b3599fc94ffbaf94bcec0b1a436d 
-HKC 603,P2p://generationnexxxt.com:19806/2141e79414314275a21c96d6b9a74933 
-HKC體育台,P2p://generationnexxxt.com:19806/edd0e12a6a464363a6bf754f4ecc0b99 
-HKC Sports1,P2p://generationnexxxt.com:19806/82f71e9986084c86a85807f6fa9ab8a5 
-HKC综合娱乐台,P2p://generationnexxxt.com:19806/f4815802ef204971b9820b0d6e0bd096 
-TVB娱乐新闻台,P2p://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273 
-TVB经典台,P2p://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268 
-Thrill,P2p://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471 
-18台,P2p://generationnexxxt.com:19806/e4667b3da6a54f32a48cc60d1157b195 
-HKC Sports,P2p://generationnexxxt.com:19806/a27709fdfa574a5f9ca52c490a37435b 
-功夫台(华语),P2p://generationnexxxt.com:19806/651ac61abc284f0598508227494861df 
-美亚电影台(粤语),P2p://generationnexxxt.com:19806/ffc2cb77727a4ae19ad234de76c840fd 
-Hands Up,P2p://generationnexxxt.com:19806/71c595ca79444d38bb75c51ed6af947d 
-粤语片台,P2p://generationnexxxt.com:19806/8df4123dc70e4963ba8e3c70114c1ab9 
-亚洲剧台,P2p://generationnexxxt.com:19806/33c1ad8276a34a8e8c46965da4f44e19 
-功夫台,P2p://generationnexxxt.com:19806/0ea9a02ea04e4773a1f3a34ae43f117f 
-民视 HD,zlive://173.208.209.114:7719/77b7ad91443422cdadb18fd72f0a4507 
-台视 HD,zlive://173.208.209.114:7719/97e93f1b428135bfaabbdbb3902818df 
-中视 HD,zlive://173.208.209.114:7719/6c33a5e6d8558cdb439cd0e06297bf2c 
-华视CTS,zlive://173.208.209.114:7719/4346ccaa631e8418dff04298482e9318 
-民视第一台,P2p://generationnexxxt.com:19806/84704bfa7f8b4d1eb95acb7433154350 
-民视台湾台,P2p://generationnexxxt.com:19806/2dcdc14377b4498e8dcdcbec05599964 
-台视新闻台,P2p://generationnexxxt.com:19806/ef8ee9e7a5f54528b1016a192376681e 
-三立综合台,P2p://generationnexxxt.com:19806/ee47ad1ea78049ac8577929b4cef18f6 
-台视财经台,P2p://generationnexxxt.com:19806/ec9247281c984a6e980b1d0b1db98002 
-镜新闻,P2p://generationnexxxt.com:19806/3cada11582784405b35fe1d3bed65c7d 
-Taiwan+,P2p://generationnexxxt.com:19806/a6fe65aa9b664c099ede9276cdc529fb 
-中视新闻台,P2p://generationnexxxt.com:19806/b752f0eeba5e4e4783d89f99a7b64053 
-华视新闻,P2p://generationnexxxt.com:19806/2eef3a29a07741bf81c9564ea7478fc0 
-NHK新闻资讯台,P2p://generationnexxxt.com:19806/92867b4fe30b4dd491a01d448afc8062 
-壹电视综合,P2p://generationnexxxt.com:19806/164313f61c904a32913b338b5318ef33 
-博斯高球二台,P2p://generationnexxxt.com:19806/9ad2e789a1f24414b5ba3bce8225638f 
-博斯网球台,P2p://generationnexxxt.com:19806/eabbb39b2df84ec7b180dd07d003e801 
-博斯魅力网,P2p://generationnexxxt.com:19806/79e1743aa91c4a3f9b356d3e623aaa1e 
-博斯无限台,P2p://generationnexxxt.com:19806/388b178d61794d16a7f53bbea14a1d82 
-博斯无限二台,P2p://generationnexxxt.com:19806/c72f3545e44c43ada003f77cb4fbfcad 
-博斯运动,P2p://generationnexxxt.com:19806/69f6752a9d7b43d4b82c649b645a6028 
-ELEVEN体育2台,P2p://generationnexxxt.com:19806/917e17cbb4d34bcba80691ab6c3a59be 
-智林体育台,P2p://generationnexxxt.com:19806/8aec43ce170d42ee8168f04aad54ba6d 
-博斯运动二台,P2p://generationnexxxt.com:19806/13330f2946b14921ac4ba04f38403f80 
-OUTDOOR,P2p://generationnexxxt.com:19806/2f3dd1dbfd0247238860ea5d958e5ebe 
-HBO强档巨献,P2p://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0 
-HBO原创巨献,P2p://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf 
-动物星球,zlive://173.208.209.114:7719/299df0bb81dbe78d0c7853a63f6f2210 
-国家地理野生频道,P2p://generationnexxxt.com:19806/3b9bf42549604a2ab036b392b5108cf7 
-BBC Earth,P2p://generationnexxxt.com:19806/3c2c6ac179f448f5ae5d9cc8abc5efb4 
-Discovery Asia,P2p://generationnexxxt.com:19806/63ec7853effa4011a77569913c8fe5e7 
-Discovery科学频道,P2p://generationnexxxt.com:19806/7157f2127328417daedb7083ac5e7ea2 
-DMAX,P2p://generationnexxxt.com:19806/40a2d5922fb24a5f96900536dc212cbf 
-EVE,P2p://generationnexxxt.com:19806/cb003e49d5224ce09856f1c1770c32e5 
-滚动力rollor,P2p://generationnexxxt.com:19806/7d325479411f41c49a945e80c7bdaf97 
-历史频道,P2p://generationnexxxt.com:19806/de642a93cfae4af18c8e47af38c796ce 
-罪案侦缉频道,P2p://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a 
-BBC Lifestyle,P2p://generationnexxxt.com:19806/f030035e810744eebe54fb9a30b6497b 
-LUXE TV,P2p://generationnexxxt.com:19806/63c2fe237e75428eaaea2ae9fd1750ab 
-Lifetime,P2p://generationnexxxt.com:19806/adde7c4d8aaa48638f0ec9d36f5c2c93 
-KLT-靖天国际台,P2p://generationnexxxt.com:19806/e4a17f356b044d28b014797d13fd9d58 
-HGTV居家乐活频道,P2p://generationnexxxt.com:19806/61c2aee42c734f499d74af79bb820207 
-Love Nature,P2p://generationnexxxt.com:19806/e847a5ed513f4f7d84611b80996078f4 
-美食星球,P2p://generationnexxxt.com:19806/48a5325e74354deaa422edba7a4a75b6 
-亚洲美食频道,P2p://generationnexxxt.com:19806/1ba5704443ec4f0aa32e9eb079008758 
-亚洲旅游台,P2p://generationnexxxt.com:19806/b560014689fa4f339bf68f059ca51255 
-EYE TV旅游台,P2p://generationnexxxt.com:19806/0b1bdbbf73a5429ead599b28ba908e94 
-时尚频道,P2p://generationnexxxt.com:19806/f6d54ea8fafc433ab2c56d4929cbdd75 
-好消息2台,P2p://generationnexxxt.com:19806/32c4c96869ef458d858d03ca4109879a 
-靖天资讯台,P2p://generationnexxxt.com:19806/4d45f882077f4cf58806f16046b37ec8 
-靖天综合台,P2p://generationnexxxt.com:19806/baa8ea1bb88b4d1ea9e45d3bff27c45b 
-靖天育乐台,P2p://generationnexxxt.com:19806/00c434244d354297a2db52f458de84e9 
-中视经典台,P2p://generationnexxxt.com:19806/d935dbde5fd7412d8b281a8659f66615 
-中视菁采台,P2p://generationnexxxt.com:19806/e19d3560171b4984a7e470c4ca40d029 
-TVBS精采台,P2p://generationnexxxt.com:19806/8885be3c87964472ae56321dd619461a 
-纬来精采,P2p://generationnexxxt.com:19806/451eee0a7ab64c58a0970d95b1031437 
-ETtoday综合台,P2p://generationnexxxt.com:19806/9667fbc558a84e76baf883b01086eee4 
-靖天欢乐台,P2p://generationnexxxt.com:19806/f72a2966a20946ae9446690a226fa518 
-八大优频道,P2p://generationnexxxt.com:19806/0c7965c191034d84b149b69d9534c4d2 
-三立戏剧台,P2p://generationnexxxt.com:19806/410a9eec5c1d4c5191ee06a59b828a58 
-龙华戏剧,P2p://generationnexxxt.com:19806/62a2bca1f9f844688a5c1bb78a163e13 
-靖天戏剧台,P2p://generationnexxxt.com:19806/e2737ea759454aa78156c25d861a9de9 
-靖洋戏剧台,P2p://generationnexxxt.com:19806/146f03a272894fdd97a4b57059c139e3 
-靖天日本台,P2p://generationnexxxt.com:19806/84edd72117684284839491064cc9e91a 
-i-Fun动漫台,P2p://generationnexxxt.com:19806/0ce8bdb1044647af9bd397e05c57cb73 
-韩国娱乐台,P2p://generationnexxxt.com:19806/61d204e7391b48b78c77df72c70335e9 
-星卫娱乐台,P2p://generationnexxxt.com:19806/2667ca546c8f49c4a81504e11a8650e8 
-ROCK Extreme,P2p://generationnexxxt.com:19806/b5403c77b1a74fbeba7dc94d583b6a96 
-WARNER TV,P2p://generationnexxxt.com:19806/d4639fbf11424dcf8f2614071d57b567 
-Star Movies HD,P2p://generationnexxxt.com:19806/3fbe4196c67f45ff9312d1617df03ac4 
-AMC最爱电影,P2p://generationnexxxt.com:19806/596bc566f5024110b7a9832f4a4e1f86 
-HBO Family,P2p://generationnexxxt.com:19806/0f5c08c72c364df8b0a97c837e81802d 
-CatchPlay电影台,P2p://generationnexxxt.com:19806/a1b6fd58115c4a7392ff9b43d5fa1461 
-CinemaWorld,P2p://generationnexxxt.com:19806/51cabd19f61f4d0797a9950573c68c33 
-壹电视电影台,P2p://generationnexxxt.com:19806/0c547d4f29db4bef9790f259ee669818 
-采昌影剧台,P2p://generationnexxxt.com:19806/31c35d1e653f48a6a1ef0ae3afc21216 
-佛卫慈悲台,P2p://generationnexxxt.com:19806/14c26fc0ab914b06a33cf526929395cb 
-TV5Monde,P2p://generationnexxxt.com:19806/2734d86c3cba4b42b372f394138fe160 
-Cbeebies,P2p://generationnexxxt.com:19806/1e06e59d527c47709205564b212b884a 
-EYE TV戏剧台,P2p://generationnexxxt.com:19806/d95a1bbfe35f4b9ba69f50ce0d2e4618 
-纬来日本,P2p://generationnexxxt.com:19806/b22bbd1becc24e79bcf7b2725e0abff6 
-爱尔达影剧台,P2p://generationnexxxt.com:19806/3ead6bd41aaa4df2be79322afa7a3841 
-ROCK Entertainment,P2p://generationnexxxt.com:19806/351101be2d9747ba94612c4b93c3bebd 
-Dreamworks,P2p://generationnexxxt.com:19806/f64a7bd5c5ae46f498899bf8f79a721c 
-TV5MONDE生活时尚,P2p://generationnexxxt.com:19806/50a3974dcf7e431c91e8f212d708cd0f 
-Travel Channel,P2p://generationnexxxt.com:19806/15369bd05a294d3087377848d53a0a98 
-影迷数位电影台,P2p://generationnexxxt.com:19806/ff075ec54a154e2bb7d95b92c89dff59 
-NHK-G综合,P2p://generationnexxxt.com:19806/b5bda0c5078d430c942c13681802be15 
-NHK-E教育,P2p://generationnexxxt.com:19806/58fb2dd485204529b771b2d8acae096e 
-日本テレビ,P2p://generationnexxxt.com:19806/6ad6d0d970294894b751bb9be6714fb1 
-TBSテレビ,P2p://generationnexxxt.com:19806/209a9b54c5064c2fbbd0b9836a28ad6e 
-テレビ東京,P2p://generationnexxxt.com:19806/51bbd32c263f406d85a05cacd01f062f 
-フジテレビ,P2p://generationnexxxt.com:19806/17331df7df384a93840003f270f99b43 
-読売テレビ,P2p://generationnexxxt.com:19806/df1027136d3b4ccb8399435896f10c77 
-関西テレビ,P2p://generationnexxxt.com:19806/4e41469b0a4848bdbcc0a670412f0df2 
-KBS京都,P2p://generationnexxxt.com:19806/fb929986f9004ade9ae0d010eb7c0d46 
-毎日放送,P2p://generationnexxxt.com:19806/643479c21af04293ad48ccf48ea9eee1 
-朝日放送,P2p://generationnexxxt.com:19806/ef7250cb2aa5496d91d45ad06f2fb1d5 
-テレビ大阪,P2p://generationnexxxt.com:19806/a56ecb4b782d452286964d9a863b17e5 
-テレビ朝日,P2p://generationnexxxt.com:19806/4a60e75cead54877bc7d0e2f3afc1727 
-BS-1,P2p://generationnexxxt.com:19806/dc55be8e1f7649ac9ff0b762c56846aa 
-BS釣りビジョン,P2p://generationnexxxt.com:19806/65cc4b331feb43ec975cd6626743d2fc 
-BS日テレ,P2p://generationnexxxt.com:19806/ec48c7c85632469cae7b000167942622 
-BS朝日,P2p://generationnexxxt.com:19806/23b79683a7b74c6baf1f643bbb782123 
-BS-TBS,P2p://generationnexxxt.com:19806/19cee2f930cf46c88ee80eda11c9bb7b 
-BS11,P2p://generationnexxxt.com:19806/0f1b7b82d6574192a644f43e101c5e29 
-BSフジ,P2p://generationnexxxt.com:19806/302d55abd58f4f8fb79146cf6d177c13 
-WOWOWプライム,P2p://generationnexxxt.com:19806/5c2d5bb35c284c6bbee94fb0568fd4ae 
-WOWOWライブ,P2p://generationnexxxt.com:19806/7cc73c16476a40e4b4b10e9172b9ff9f 
-WOWOWシネマ,P2p://generationnexxxt.com:19806/50a55d71db5b41ba8dfbf1e49fafd739 
-スター?チャンネル1,P2p://generationnexxxt.com:19806/31599351174a4ef9ab8309f567c38e38 
-スター?チャンネル2,P2p://generationnexxxt.com:19806/f3da7df8f3f14bbe96ba4b931f2b48aa 
-スター?チャンネル3,P2p://generationnexxxt.com:19806/3d8b400d2dd44c2a9ff39add631ba83d 
-BSアニマックス,P2p://generationnexxxt.com:19806/ec8934590f9f43a9977b4c615763f05d 
-J Sports 1,P2p://generationnexxxt.com:19806/ec9e8e130dc8450f9ab54033ec0838cb 
-J Sports 2,P2p://generationnexxxt.com:19806/61de10ba994a49ebaedf836962f9065a 
-J Sports 3,P2p://generationnexxxt.com:19806/00003bb75b5044739df061845fc5ddce 
-J Sports 4,P2p://generationnexxxt.com:19806/8b6d39de46c7464297947f368e623270 
-BS12,P2p://generationnexxxt.com:19806/2b8209d5bdd44c2696d51bc158781e38 
-ゴルフネットワークHD,P2p://generationnexxxt.com:19806/6d430a8f344b4f2abad882e9350aac5a 
-時代劇専門チャンネル,P2p://generationnexxxt.com:19806/78ea3f42a8104730930a93ac5a5a869b 
-Music Japan TV,P2p://generationnexxxt.com:19806/f898f0324e99499296ee859f4eb8d3ea 
-キッズステーションHD,P2p://generationnexxxt.com:19806/80628310ccbf423b8b4a7eb4e1af2a05 
-ディスカバリーチャンネル,P2p://generationnexxxt.com:19806/ab98b0888ba14ad68180456db43a48bd 
-ナショナルジオグラフィック,P2p://generationnexxxt.com:19806/0e1814dec67c48adbfe97a6f9a0df2d8 
-日テレNEWS 24,P2p://generationnexxxt.com:19806/01af57ffc3354d66a320ebb2edd87262 
-旅チャンネル,P2p://generationnexxxt.com:19806/9d587c6310714b42bad0eba86ca501c4 
-チャンネル銀河,P2p://generationnexxxt.com:19806/708c0b0d85dd45acba478d21c0ace2f6
-Arirang,P2p://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e 
-KBS1,P2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39 
-KBS2,P2p://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148 
-KBS Drama,P2p://generationnexxxt.com:19806/b87ff391346d41adabdff2557eb1b468 
-KBS Joy,P2p://generationnexxxt.com:19806/61eb591517014f02b627a6fa4479b45d 
-SBS,P2p://generationnexxxt.com:19806/6751677afd4345bfac27cfff31713854 
-SBS Biz,P2p://generationnexxxt.com:19806/01dbd835b88940cd91eb45190a71c1de 
-JTBC,P2p://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea 
-EBS,P2p://generationnexxxt.com:19806/c74fd79cd39a4ce382c1fe22090ffb73 
-YTN,P2p://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b 
-Mnet,P2p://generationnexxxt.com:19806/4d5973be862e438f909863fcfc0a7e62 
-tvN,P2p://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485 
-OCN,P2p://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7 
-OCN Movies,P2p://generationnexxxt.com:19806/bf871edfcc0f476caa7d98d1b9b01cae 
-TV Chosun,P2p://generationnexxxt.com:19806/113336cc563149d598fad5b95277a955 
-MBC,P2p://generationnexxxt.com:19806/bf799ab550fc4a24805351d49d5b61a2 
-MBN,P2p://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6 
-Tooniverse,P2p://generationnexxxt.com:19806/90c2674d219745d5b32cfc5053a01016 
-SPOTV,P2p://generationnexxxt.com:19806/441089d1c6864877a82d8dbde582d645 
-SPOTV 2,P2p://generationnexxxt.com:19806/d33cf3ddad0444cfaf5118ccc834c1e7 
-JTBC GOLF,P2p://generationnexxxt.com:19806/02b7cdb589a64a05850e5eda673b041d 
-tvN Movies HD,P2p://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952 
-八度空间,P2p://generationnexxxt.com:19806/b2b142fed73d4cfc8abd8c7cdb555c47 
-八度空间(备),P2p://generationnexxxt.com:19806/b8b8b2f48f8e4b398b7d5ecdbcfd8c43 
-Astro小太阳,P2p://generationnexxxt.com:19806/783861d0aade442c87f4e0dafaf6eb2a 
-Astro双星,P2p://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06 
-Astro全佳,P2p://generationnexxxt.com:19806/ab5ed8a042624947ac6c011ffe041143 
-Astro欢喜台,P2p://generationnexxxt.com:19806/2988f7d8c6d547118cab3b3495d38ced 
-Astro Warna HD,P2p://generationnexxxt.com:19806/73e3901d55ae402298caf8aa483d964a 
-Astro Tutor TV SPM,P2p://generationnexxxt.com:19806/2e9fecb7adec4c9fa49b5c939087983c 
-Astro Tutor TV SK,P2p://generationnexxxt.com:19806/9e3a1cdae41e4336be38d2cf55b11e8d 
-Astro Oasis HD,P2p://generationnexxxt.com:19806/fee21299c7d74489bf67bfa890758417 
-Astro Citra HD,P2p://generationnexxxt.com:19806/5273802423dc4cde8f927ae264920381 
-Astro Ceria,P2p://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c 
-Astro Awani,P2p://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880 
-Astro Arena,P2p://generationnexxxt.com:19806/8be35ecb77f54e479652bf42d737f3db 
-Astro AOD HD 311,P2p://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701 
-Astro AOD 354,P2p://generationnexxxt.com:19806/8ccb8c35ce9f425ebcd93bc3839c8b0e 
-Astro AOD 352,P2p://generationnexxxt.com:19806/44f1c9066e6c49578f1f23e8d6b157f0 
-Astro AEC,P2p://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8 
-Astro AEC,P2p://generationnexxxt.com:19806/c2d63292987547978c50a2bf2b2f9dc7 
-ABC Australia,P2p://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a 
-8TV,P2p://generationnexxxt.com:19806/119678a4b6e54d1bac8b215c21d5ad13 
-中天亚洲台,P2p://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100 
-天映频道,P2p://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813 
-天映经典,P2p://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7 
-翡翠台,P2p://generationnexxxt.com:19806/974ebe5dd60845139a9c03ef78cc7b6b 
-爱奇艺,P2p://generationnexxxt.com:19806/206defdef43a42fb8ee50238e76ac32c 
-Zee Tamil,P2p://generationnexxxt.com:19806/04dc8d8f3b2c43c296c0063b0abff6a5 
-TVS,P2p://generationnexxxt.com:19806/f18623649662466cbee0369d21d349d1 
-TVB娱乐新闻台,P2p://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273 
-TVB星河频道,P2p://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707 
-TVB经典台,P2p://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268 
-TVBS亚洲,P2p://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85 
-TV9,P2p://generationnexxxt.com:19806/1a3204cd337e4665b3631df72c634b9e 
-TV3,P2p://generationnexxxt.com:19806/eef54c66f51a4b8a9bbaf1d2be04278c 
-TV2,P2p://generationnexxxt.com:19806/754fe8f4eb60450296609087187ce26e 
-TV1,P2p://generationnexxxt.com:19806/fa69f5b8060e419d9d2680a5337b4c51 
-TA-DAA!,P2p://generationnexxxt.com:19806/3389d62b2e274f3386c6e0fafca66092 
-SUN TV,P2p://generationnexxxt.com:19806/cc04c278e4f2419988eba8f369d7c91e 
-Star Vijay,P2p://generationnexxxt.com:19806/095d1394491848eea3c0a6b9e8423565 
-SPOTV,P2p://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7 
-Sky News,P2p://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052 
-SHOWCASE MOVIES,P2p://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816 
-ONE,P2p://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585 
-NTV7,P2p://generationnexxxt.com:19806/3f3572418f954594986f2d067364eba2 
-Nickelodeon,P2p://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f 
-NickJr.,P2p://generationnexxxt.com:19806/f839c2a621404b8f9b1351b156081046 
-KIX,P2p://generationnexxxt.com:19806/04533ea3664e43579573b50db8988450 
-KBS World,P2p://generationnexxxt.com:19806/26152f8d16224d09bca6368ae2db3e36 
-France24,P2p://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4 
-DW,P2p://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6 
-Drama Sangat,P2p://generationnexxxt.com:19806/2e8c6091964b41229d14af54c6badc7a 
-Colors Tamil,P2p://generationnexxxt.com:19806/d8e64c8b9af44b1ebfe4b043e2652618 
-Colors Hindi,P2p://generationnexxxt.com:19806/267280f6702c4ea199fa0d652b944bff 
-CNN,P2p://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275 
-CNBCHongKong,P2p://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd 
-CGTN,P2p://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643 
-Cartoon Network,P2p://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6 
-Boomerang,P2p://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a 
-BOO,P2p://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9 
-BloombergTV,P2p://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608 
-Berita RTM,P2p://generationnexxxt.com:19806/0425a3d913b04d29a63d5b21dd07ae65 
-AXN,P2p://generationnexxxt.com:19806/14fad2e990aa427f9db8a9080bf03d0c 
-Awesome TV,P2p://generationnexxxt.com:19806/000288b00ff64a59bec86da8239f5cff 
-HOY资讯台,P2p://generationnexxxt.com:19806/6e6b83a7ae204666bad78a2300b8ea73 
-CNN,P2p://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275 
-TV1,P2p://generationnexxxt.com:19806/d55366e554e64b8b819d06b86019edfc 
-TV2,P2p://generationnexxxt.com:19806/a932b8b3484c4126954b799b8346422e 
-TV3,P2p://generationnexxxt.com:19806/468e643a3ec34d139b83f691f5571655 
-NTV7,P2p://generationnexxxt.com:19806/85ad24391c6045e2aa60fff6271db53c 
-八度空间,P2p://generationnexxxt.com:19806/5ed75671b2a040ee8df135209f74ec5a 
-TV9,P2p://generationnexxxt.com:19806/69040523973b44f2893d07a0f702d604 
-Astro Oasis HD,P2p://generationnexxxt.com:19806/10be3305747747f58710e4d80b1dec47 
-Astro Warna HD,P2p://generationnexxxt.com:19806/7a9cba7b296849fda48254d544626baf 
-Astro Citra HD,P2p://generationnexxxt.com:19806/2b3a16935c854dae9adfa591e1ee8c7f 
-Al-Hijrah,P2p://generationnexxxt.com:19806/0f21aca0c15f4098b1a41dddc6c5ad8b 
-SUN TV,P2p://generationnexxxt.com:19806/3965050cdd024ece995563ff7ecb8b0b 
-爱奇艺,P2p://generationnexxxt.com:19806/206defdef43a42fb8ee50238e76ac32c 
-Astro小太阳,P2p://generationnexxxt.com:19806/783861d0aade442c87f4e0dafaf6eb2a 
-Astro AEC(备),P2p://generationnexxxt.com:19806/c2d63292987547978c50a2bf2b2f9dc7 
-Astro双星,P2p://generationnexxxt.com:19806/013a1d56a616457492220b460d7f3b06 
-Astro全佳,P2p://generationnexxxt.com:19806/ab5ed8a042624947ac6c011ffe041143 
-天映频道,P2p://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813 
-翡翠台(华丽台),P2p://generationnexxxt.com:19806/273abed884a24011a410ddb0ea81cb1a 
-Astro AOD HD 311,P2p://generationnexxxt.com:19806/8efee211ca7247078c8ab2db528bb701 
-中天亚洲台,P2p://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100 
-TVB星河(粤),P2p://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707 
-天映经典,P2p://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7 
-Astro欢喜台,P2p://generationnexxxt.com:19806/2988f7d8c6d547118cab3b3495d38ced 
-KBS World,P2p://generationnexxxt.com:19806/26152f8d16224d09bca6368ae2db3e36 
-ONE,P2p://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585 
-Colors Hindi,P2p://generationnexxxt.com:19806/2a976a37b59f41cd825b33c77b2d6bfe 
-TVS,P2p://generationnexxxt.com:19806/ff4e8804209b44a99446a5ee00da6d60 
-tvN Movies HD,P2p://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952 
-Astro Awani,P2p://generationnexxxt.com:19806/975e906650de41bcbafead57cbf0d880 
-CGTN,P2p://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643 
-BBC World News,P2p://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1 
-Al Jazeera English,P2p://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b 
-CNBC,P2p://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd 
-Bloomberg TV,P2p://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608 
-Astro Ceria,P2p://generationnexxxt.com:19806/91018054446042e183ac5f3bdc296f7c 
-Cartoon Network,P2p://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6 
-Nickelodeon,P2p://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f 
-Nick Jr.,P2p://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3 
-Boomerang,P2p://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a 
-AXN亚洲,P2p://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef 
-KIX,P2p://generationnexxxt.com:19806/04533ea3664e43579573b50db8988450 
-HITS,P2p://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204 
-Astro Arena,P2p://generationnexxxt.com:19806/8be35ecb77f54e479652bf42d737f3db 
-Astro SuperSport,P2p://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0 
-Astro SuperSport 2,P2p://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9 
-Astro SuperSport 3,P2p://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42 
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8 
-beIN Sports 3,P2p://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61 
-WWE,P2p://generationnexxxt.com:19806/157d295b0933470ab2c880d58a7f14ce 
-Sky News,P2p://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052 
-八度空间(备),P2p://generationnexxxt.com:19806/29cfea797cb74df1a9cb0cc59238a95c 
-Nat Geo Wild,P2p://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b 
-tvN,P2p://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485 
-Drama Sangat,P2p://generationnexxxt.com:19806/fb01d76e86f44cc383851203c964b56d 
-Berita RTM,P2p://generationnexxxt.com:19806/0425a3d913b04d29a63d5b21dd07ae65 
-DW,P2p://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6 
-France24,P2p://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4 
-SPOTV,P2p://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7 
-beIN Sports,P2p://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9 
-TVB娱乐新闻台,P2p://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273 
-Astro AEC,P2p://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8 
-Awesome TV,P2p://generationnexxxt.com:19806/55af036e3c7047cfaea0945f744c3887 
-Colors Tamil,P2p://generationnexxxt.com:19806/25b451517624493a97f6a96e6a035002 
-BOO,P2p://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9 
-TVB经典台,P2p://generationnexxxt.com:19806/d63e2f53bfab45a5ab38e79430862268 
-ABC Australia,P2p://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a 
-Eurosport HD,P2p://generationnexxxt.com:19806/aa9706fa55c84772a56fd959f7abdd45 
-Astro SuperSport 5,P2p://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756 
-Star Vijay,P2p://generationnexxxt.com:19806/7db9b7f4c8da4e389ede543f1365ea30 
-Zee Tamil,P2p://generationnexxxt.com:19806/04dc8d8f3b2c43c296c0063b0abff6a5 
-TVBS亚洲,P2p://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85 
-Astro AOD 352,P2p://generationnexxxt.com:19806/44f1c9066e6c49578f1f23e8d6b157f0 
-Astro AOD 354,P2p://generationnexxxt.com:19806/8ccb8c35ce9f425ebcd93bc3839c8b0e 
-Astro Tutor TV SK,P2p://generationnexxxt.com:19806/9e3a1cdae41e4336be38d2cf55b11e8d 
-Astro Tutor TV SPM,P2p://generationnexxxt.com:19806/2e9fecb7adec4c9fa49b5c939087983c 
-TA-DAA!,P2p://generationnexxxt.com:19806/3389d62b2e274f3386c6e0fafca66092 
-eGG Network,P2p://generationnexxxt.com:19806/afc9e147576d41eda59da886563a3d1c 
-HITS Movies,P2p://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa 
-SHOWCASE MOVIES,P2p://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816 
-beIN Sports 2,P2p://generationnexxxt.com:19806/1aa64e5459b04b32a0618b7226e0a3c0 
-Golf Channel,P2p://generationnexxxt.com:19806/69981dfb0eb64aea9b1216f81dd80909 
-天映频道,P2p://generationnexxxt.com:19806/92386b47be6544dca5c536204bddc813 
-中天亚洲台,P2p://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100 
-TVB星河(粤),P2p://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707 
-天映经典,P2p://generationnexxxt.com:19806/0229760baf0a441bba169ee12d860fb7 
-KBS World,P2p://generationnexxxt.com:19806/26152f8d16224d09bca6368ae2db3e36 
-ONE,P2p://generationnexxxt.com:19806/952368f8f4cf42339c651edcb6267585 
-Colors Hindi,P2p://generationnexxxt.com:19806/2a976a37b59f41cd825b33c77b2d6bfe 
-CGTN,P2p://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643 
-BBC World News,P2p://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1 
-CNBC,P2p://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd 
-Bloomberg TV,P2p://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608 
-Cartoon Network,P2p://generationnexxxt.com:19806/41375bcbd5094f538f132d3ebb9b2ea6 
-Nickelodeon,P2p://generationnexxxt.com:19806/f2783df879aa424b9402999698bcd55f 
-Nick Jr.,P2p://generationnexxxt.com:19806/05c5813e22bf4475b416ec1b35280aa3 
-Boomerang,P2p://generationnexxxt.com:19806/317cf636b2d448d0867cc1f976064d8a 
-AXN亚洲,P2p://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef 
-HITS,P2p://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204 
-beIN Sports 3,P2p://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61 
-Mediacorp 5,P2p://generationnexxxt.com:19806/b0798f0bb62f440a92ee49d38967b6d1 
-Mediacorp 8,P2p://generationnexxxt.com:19806/847cb3132dbe4d2897e276a271c04ec7 
-Suria,P2p://generationnexxxt.com:19806/0f5728d5794a47dfba667f8c528c006e 
-Vasantham,P2p://generationnexxxt.com:19806/2e41fd0e25664a4cb5e6debd59ea5d27 
-CNA,P2p://generationnexxxt.com:19806/7d55ade47df54e3497f9e0fce031943b 
-Mediacorp U,P2p://generationnexxxt.com:19806/c0adca0b6eff436090ff94baf3238705 
-Nat Geo Wild,P2p://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b 
-Arirang,P2p://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e 
-Euronews,P2p://generationnexxxt.com:19806/3169ef1a720442cd91af30a39cc13822 
-Fight Sports,P2p://generationnexxxt.com:19806/78bd0cc13a8840fcb8af0440258a8357 
-GEM,P2p://generationnexxxt.com:19806/3f6fedbbb9a24f55bb349e7c75d109c4 
-Fox News,P2p://generationnexxxt.com:19806/bc919a2d3c4f4a7a9633ded99e69d801 
-beIN Sports,P2p://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9 
-HGTV居家乐活频道,P2p://generationnexxxt.com:19806/61c2aee42c734f499d74af79bb820207 
-TV5Monde,P2p://generationnexxxt.com:19806/2734d86c3cba4b42b372f394138fe160 
-东森亚洲卫视,P2p://generationnexxxt.com:19806/4314e2707d7141b78dd0fde4fbf5eae1 
-Thrill,P2p://generationnexxxt.com:19806/20093cc9ef3e4571ae35a29f08682471 
-Hub Premier 1,P2p://generationnexxxt.com:19806/4b83405f738042d084055fee7295f311 
-Hub都会台,P2p://generationnexxxt.com:19806/feb243790576418ea12aa65f7421bb12 
-TVBS亚洲,P2p://generationnexxxt.com:19806/7389e1ced8184a84aa22aeec29be6f85 
-Hub娱家,P2p://generationnexxxt.com:19806/4488ebccc495473986b193dab33b7527 
-NBA,P2p://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623 
-beIN Sports 2,P2p://generationnexxxt.com:19806/1aa64e5459b04b32a0618b7226e0a3c0 
-Hub Sports 1,P2p://generationnexxxt.com:19806/5b7034df7dcd4ccabcb0137f0991a274 
-Hub Sports 2,P2p://generationnexxxt.com:19806/2d881919b62242f4930fda32837eb7df 
-Hub Sports 3,P2p://generationnexxxt.com:19806/6101d0aff0654f73812cb15c57df9f59 
-Hub Sports 4,P2p://generationnexxxt.com:19806/6324a78a0d4549fc859b68804438bbe6 
-Hub Sports 5,P2p://generationnexxxt.com:19806/58395e1ea80a40069a5e30c9917d1a97 
-Hub Premier 2,P2p://generationnexxxt.com:19806/a52cc083e7324b2dbd8090feecc66033 
-Hub Premier 3,P2p://generationnexxxt.com:19806/758cc0162ca14f8fa7c343d94a60bbaa 
-Hub Premier 4,P2p://generationnexxxt.com:19806/63c113c5000c33e60c09bddc378b7580 
-Hub Premier 5,P2p://generationnexxxt.com:19806/8e3b8175500b492484df4112711ca978 
-5,P2p://generationnexxxt.com:19806/1045ae1287b44480b9d6f511acb6a7b1 
-NBT,P2p://generationnexxxt.com:19806/960f748e986045cea386b0c70e63b423 
-TNN 16,P2p://generationnexxxt.com:19806/714715de5cfd4051a54105cc4ef30af6 
-JKN 18,P2p://generationnexxxt.com:19806/0df418fddf7446a5869f69f1418415d6 
-Voice TV,P2p://generationnexxxt.com:19806/08721ce1643b41fba96c063b57a1f8f3 
-Nation TV,P2p://generationnexxxt.com:19806/7d87284193a64a7f9f518849c02d7441 
-Workpoint TV,P2p://generationnexxxt.com:19806/68f16fa3c8b34dc89e2134261293b583 
-true4U,P2p://generationnexxxt.com:19806/20a3f56a870340c49b40ce4a1bc5c5eb 
-GMM 25,P2p://generationnexxxt.com:19806/f4228beab2744d07a67571c5e28f084e 
-Channel 8,P2p://generationnexxxt.com:19806/119678a4b6e54d1bac8b215c21d5ad13 
-Mono 29,P2p://generationnexxxt.com:19806/01a45cae5b314975b90bb3cfba296f17 
-MCOT,P2p://generationnexxxt.com:19806/73b0a7b586af42f39db7fcdb646e89d8 
-ONE,P2p://generationnexxxt.com:19806/46709f19c5a2466f9ae889037f66615a 
-Thairath TV,P2p://generationnexxxt.com:19806/fac4fd9a35664af5aab7d56c45d3233c 
-Channel 3,P2p://generationnexxxt.com:19806/e8cd7262c3bb49c8bb75662c3163f597 
-Amarin TV,P2p://generationnexxxt.com:19806/939a7081305144509ddc2f35b05d61e6 
-Channel 7,P2p://generationnexxxt.com:19806/4fd125eb5c9f4a95aa81eca2a8cec808 
-PPTV,P2p://generationnexxxt.com:19806/5a975bc858f84e7eb8cf78286c3461d9 
-Boomerang,P2p://generationnexxxt.com:19806/9bca576c3c2e4b5cb3fbb69a462588e1 
-Thai Parliament TV,P2p://generationnexxxt.com:19806/00d7be2109344cf3a3cabc8f345c4408 
-Thai PBS,P2p://generationnexxxt.com:19806/69da05f9164b4d4a9b7027539578b5ec 
-News 1,P2p://generationnexxxt.com:19806/e78a0690ad344c95946fd8ad988de2e0 
-Channel 4050,P2p://generationnexxxt.com:19806/33cd96332eef4ef0b781716e9ca4e2a6 
-TVB Thai,P2p://generationnexxxt.com:19806/e9d8980dfdea4d059b62fe6dfd2de092 
-Bluesky,P2p://generationnexxxt.com:19806/a4d121356b034c7f95ed7b55aee8b9bb 
-Top News,P2p://generationnexxxt.com:19806/845fb3c3c97a44aeab8fb8d227636c7b 
+CCTV6,p2p://generationnexxxt.com:19806/6504139100071ab6f9c1943b6b866db0
+天映频道,p2p://generationnexxxt.com:19806/4b5e8ec28cf24208baa663599d6cc1f5
+天映经典,p2p://generationnexxxt.com:19806/c7cf6992ae514b7e9a92164e4cac30e2
+tvN Movies HD,p2p://generationnexxxt.com:19806/e44fe8b971a04543a11e412959693f7a
+私人影院,p2p://generationnexxxt.com:19806/2f87c74949904bf5b59b0090ea24a86b
+卫视电影台,p2p://generationnexxxt.com:19806/7caf8e26ae87407baac900f7d0895397
+东森电影台,p2p://generationnexxxt.com:19806/5d89062fdd644e54930ba7a924e587a2
+纬来电影台,p2p://generationnexxxt.com:19806/e3e23dac0aa247bc99b086dca9421832
+龙祥电影,p2p://generationnexxxt.com:19806/e796c82d6c1a490791fe1199144f5a2f
+HBO,p2p://generationnexxxt.com:19806/75471b978f834023861a7d9cdbbd7ae3
+东森洋片台,p2p://generationnexxxt.com:19806/0255c1e6952344f98f6bdf52779cee14
+AXN,p2p://generationnexxxt.com:19806/cf3cb2e9fc6e4d53b4ae52cf2a686e72
+好莱坞电影台,p2p://generationnexxxt.com:19806/99468997c2604a98be4751d4064fb498
+CINEMAX,p2p://generationnexxxt.com:19806/40c0e2c415e5435e9ee04fccfba51cc2
+纬来育乐台,p2p://generationnexxxt.com:19806/139050baa2a647dfae6a81641c2708c7
+HBO强档巨献,p2p://generationnexxxt.com:19806/8605cd40b7eb47fea356c3a400e292ae
+HBO原创巨献,p2p://generationnexxxt.com:19806/30effc0e95f7495eb7288ecb76593586
+美亚电影台HD,p2p://generationnexxxt.com:19806/675e0fe8a3774f5bbaf20de4231db82a
+龙华电影,p2p://generationnexxxt.com:19806/4cf167ce356c45629e4c875f43cafb7f
+星卫HD电影台,p2p://generationnexxxt.com:19806/bff0654037ad4bbca9f80de6b786d10e
+靖天映画,p2p://generationnexxxt.com:19806/48c24c38ac8747fc845617e556995d75
+靖天电影台,p2p://generationnexxxt.com:19806/8c504b55f34840b3a5c624d87c0cf6c7
+WARNER TV,p2p://generationnexxxt.com:19806/9a8e53a38fe149238568062ffcb11a9c
+Star Movies HD,p2p://generationnexxxt.com:19806/5536db09078447aa9eac5d11ee8a9a8f
+AMC最爱电影,p2p://generationnexxxt.com:19806/23ef79034fd44961a96cc34b434bc69d
+HBO Family,p2p://generationnexxxt.com:19806/097292c9b6d747a7a5592d8db6cf3fa9
+CatchPlay电影台,p2p://generationnexxxt.com:19806/98757530c9c24881b0757d31530ed337
+CinemaWorld,p2p://generationnexxxt.com:19806/cfbf5eb8012a44bb92ae6ce31b1f36f8
+壹电视电影台,p2p://generationnexxxt.com:19806/26ceb9cf6ff04bee8a35b29696fc4786
+采昌影剧台,p2p://generationnexxxt.com:19806/4dbecb73c9444cc0872ff280a2e8b844
+BOO,p2p://generationnexxxt.com:19806/bae5e94ab17846f09ab44d39ce6b162d
+Thrill,p2p://generationnexxxt.com:19806/7570e39d31c84a1ba9472fa57c762358
+HITS Movies,p2p://generationnexxxt.com:19806/64dc6670000006135ec53c3042776c65
+影迷数位电影台,p2p://generationnexxxt.com:19806/0a55f82165db4e4bb0282c9ef34ab0ff
+美亚电影台(粤语),p2p://generationnexxxt.com:19806/858627003b014ecdade101446a5b0972
+CHC动作电影,p2p://generationnexxxt.com:19806/855bc155c26d489698a02a890f1684a2
+CHC高清电影,p2p://generationnexxxt.com:19806/78626ad4571f474fa6b5044c0d003d4e
+CHC家庭影院,p2p://generationnexxxt.com:19806/b08b5054487b4685b7ceb7d237154047
+东森戏剧台,p2p://generationnexxxt.com:19806/fa5a99ce2b254342a699a6eeda5f5e1c
+八大戏剧台,p2p://generationnexxxt.com:19806/4cb3e45fe0c54aa4bcdff1496ec09f9e
+纬来戏剧台,p2p://generationnexxxt.com:19806/3cc7984dd2f240c4bf049c13274b9040
+三立戏剧台,p2p://generationnexxxt.com:19806/c77a0e6ca27840a88f1d4e562eb709e4
+龙华戏剧,p2p://generationnexxxt.com:19806/57e2b4cd2a6641ec8a5913ca51f886c6
+靖天戏剧台,p2p://generationnexxxt.com:19806/15ccf183209648e9966c294c10350dc2
+靖洋戏剧台,p2p://generationnexxxt.com:19806/639f3481b4c445e3ab1398547c694300
+EYE TV戏剧台,p2p://generationnexxxt.com:19806/b85365b9033d4b02b546fd5faa0b5add
+爱尔达影剧台,p2p://generationnexxxt.com:19806/a33b011f03a34cf2a165932db31100db
+亚洲剧台,p2p://generationnexxxt.com:19806/ddd1f7ef6ccc486eb861a1215115d7d2
+无线新闻台(备),p2p://generationnexxxt.com:19806/0a28185ffdf44e17b3e42be27c114d3f
+无线新闻台,p2p://generationnexxxt.com:19806/269bee3aed04481aaadee12881860733
+无线财经体育资讯台,p2p://generationnexxxt.com:19806/a2a378dcf0c14f3c9640b58f1c237ecb
+CGTN,p2p://generationnexxxt.com:19806/ab925b53dccb41ed850b9797e4b8732c
+BBC World News,p2p://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
+CNBC,p2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+Bloomberg TV,p2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+CNA,p2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
+壹电视新闻台,p2p://generationnexxxt.com:19806/69bc3f48acbe43e1b65d928484493bf6
+年代新闻,p2p://generationnexxxt.com:19806/0bf2d916da0d417da403b3ad8b443207
+now新闻台,p2p://generationnexxxt.com:19806/4aec31272c864003a04259d4bd405f20
+东森新闻台,p2p://generationnexxxt.com:19806/434f406290f4487ba856102b81e44930
+中天新闻台,p2p://generationnexxxt.com:19806/95e0fd8e10fc45f2bf22b5ad01dab744
+民视新闻台,p2p://generationnexxxt.com:19806/fa380c90b64a447b820240abc23adaea
+三立新闻台,p2p://generationnexxxt.com:19806/6d2efbadfee2444a888f5803120b1306
+TVBS新闻台,p2p://generationnexxxt.com:19806/fa4f9e56359342278c55f9c11c143a8a
+东森财经新闻台,p2p://generationnexxxt.com:19806/8c73f47217ca44ceb4990ca148a420b4
+非凡新闻台,p2p://generationnexxxt.com:19806/6739a31d1a014cfd91c19b6fc1921fa5
+TNN 16,p2p://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
+JKN 18,p2p://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
+三立iNEWS,p2p://generationnexxxt.com:19806/7a2b7637f49644ceb9e5264324d41a17
+Sky News,p2p://generationnexxxt.com:19806/004e34fc27b949339dc56c7dfc272f76
+Euronews,p2p://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
+France24,p2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
+600TV,p2p://generationnexxxt.com:19806/64c36a1900089f29fd2b824d6b4b65c1
+非凡商业台,p2p://generationnexxxt.com:19806/b5785187b95c4e4c857bdd4abbbcf3c0
+CBSN,p2p://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
+Fox News,p2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
+中视新闻台,p2p://generationnexxxt.com:19806/e818fabdf6a344db8b951a879b4abadb
+寰宇新闻台,p2p://generationnexxxt.com:19806/483744a6454645038b6c2026506619ef
+华视新闻,p2p://generationnexxxt.com:19806/2d1f9196df08492e846824cf4eee8afa
+NHK新闻资讯台,p2p://generationnexxxt.com:19806/e76fa51c7d5a4d66a42c533a05e130f5
+NDTV,p2p://generationnexxxt.com:19806/3cfc82296d36480c90b721984f6f0e43
+ABC Australia,p2p://generationnexxxt.com:19806/94fa84e314d745669761bf70b2bac7e5
+台视新闻台,p2p://generationnexxxt.com:19806/ce2a02e5d89c4ea39cfbf3dd9875a271
+寰宇新闻台湾台,p2p://generationnexxxt.com:19806/c279e0e5985c41e99e970bc5f9d42c9a
+台视财经台,p2p://generationnexxxt.com:19806/d6f07de96d934e7aa3086bedb9553bba
+香港国际财经台,p2p://generationnexxxt.com:19806/2051591a639c49eab0cb32f0e559c4e9
+CNN,p2p://generationnexxxt.com:19806/64e312b4000a495878d628702a9c2b2e
+now财经台,p2p://generationnexxxt.com:19806/fb6cb4940d924709aaeac5ecb71e8b76
+东森新闻台(备),p2p://generationnexxxt.com:19806/1d20c7785feb4780acf8e3530280e8a4
+镜新闻,p2p://generationnexxxt.com:19806/6b81258434064738b956e4103cb9b222
+Fox News,p2p://generationnexxxt.com:19806/5cdbb62f542843da8d140520a0a966bc
+BBC World News,p2p://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
+CNN USA,p2p://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
+CBC News,p2p://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
+MSNBC,p2p://generationnexxxt.com:19806/27c4d56058c44a4e9c41a98a99a7bc13
+CTV News,p2p://generationnexxxt.com:19806/c48d5139ac954dbaa49a8b0e23af6e16
+Business News Network,p2p://generationnexxxt.com:19806/dc5be6cec9ba4284900e5670cbcae0bb
+CP24,p2p://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
+The Weather Network,p2p://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
+The Weather Channel,p2p://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
+CCTV5,p2p://generationnexxxt.com:19806/98957b0750c14f18abda694462ab9904
+CCTV5+,p2p://generationnexxxt.com:19806/7b1fada6a2d74be0a549cc767b1f6d90
+魅力足球,p2p://generationnexxxt.com:19806/ecd44a5fe8c94d12abd14d0762d6b838
+五星体育,p2p://generationnexxxt.com:19806/fcd8a30806df44ebb0e501596976da1d
+广东体育,p2p://generationnexxxt.com:19806/4fac79491b7842dabd3c86af4c10d110
+Sky Sports Golf,p2p://generationnexxxt.com:19806/502e2c431333474a9bda98a37b5152f0
+Hub Sports 1,p2p://generationnexxxt.com:19806/64e44da9000b7d207da475c66db01a76
+Sky Sports Premier League,p2p://generationnexxxt.com:19806/89decf25269a434db9dd2d273ec8ce20
+Astro Arena,p2p://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
+Astro SuperSport,p2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+Astro SuperSport 2,p2p://generationnexxxt.com:19806/6edae31caab6475cad76175fca389922
+Astro SuperSport 3,p2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
+Astro SuperSport 4,p2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
+beIN Sports 3,p2p://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
+WWE,p2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
+纬来育乐台,p2p://generationnexxxt.com:19806/139050baa2a647dfae6a81641c2708c7
+纬来体育台,p2p://generationnexxxt.com:19806/236ec7ecbdff462abe3adff0f1836a26
+ELEVEN体育1台,p2p://generationnexxxt.com:19806/3699a7eb134b4efda43537a803962b95
+Z频道,p2p://generationnexxxt.com:19806/3c23e0954c914305acabb49e4c5db1df
+J Sports 1,p2p://generationnexxxt.com:19806/3bf47ad3b3514230bd24efe7178aee5e
+J Sports 2,p2p://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
+J Sports 3,p2p://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
+J Sports 4,p2p://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
+Skynet Sports HD,p2p://generationnexxxt.com:19806/64f03b7d000cf732ac3d879228791c70
+Skynet Sports 2,p2p://generationnexxxt.com:19806/64f03b7e0004ca5cac3d89676c3c51df
+Skynet Sports 5,p2p://generationnexxxt.com:19806/64f03b7f0003688dac3d8cf1521c6e9f
+Skynet Sports 6,p2p://generationnexxxt.com:19806/64f03b7e000b23c7ac3d8b0d775b55a1
+Fight Sports,p2p://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
+ESPN,p2p://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
+HKC 18,p2p://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
+爱尔达体育1台(备),p2p://generationnexxxt.com:19806/7d7382daa7cd481189aacc68b9d76302
+爱尔达体育2台,p2p://generationnexxxt.com:19806/4d8e782ddbed4df6819465b886fcb5e7
+TRACE Sport Stars,p2p://generationnexxxt.com:19806/10fc3e84b53348ea99e96dda2c4ade34
+博斯高球,p2p://generationnexxxt.com:19806/5af1e41a9b4040e3bdc6841fdd1aecc9
+博斯高球二台,p2p://generationnexxxt.com:19806/7ceb84986359400a919e6aa7d59e0198
+博斯网球台,p2p://generationnexxxt.com:19806/92f431ed19d14d08a7cfd121b1afe66d
+博斯魅力网,p2p://generationnexxxt.com:19806/e9ce1ddd8cf64a69afccf4207d705112
+博斯无限台,p2p://generationnexxxt.com:19806/8ff7ca5ab14f40469f26cc6d7b8b26c7
+博斯无限二台,p2p://generationnexxxt.com:19806/86a9de91aafd4d9baa6044d72701d566
+SPOTV,p2p://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
+博斯运动,p2p://generationnexxxt.com:19806/f5165fc231ec4d89bde0546f9805dcf2
+ELEVEN体育2台,p2p://generationnexxxt.com:19806/0f5f588789e541edae33d3cbe3985cb7
+智林体育台,p2p://generationnexxxt.com:19806/6a77b2945dcd4ec088fd7c80e430a21d
+博斯运动二台,p2p://generationnexxxt.com:19806/4d5e9daeaa6f49d8b64cb03de8adbe85
+beIN Sports,p2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
+TechStorm,p2p://generationnexxxt.com:19806/0f262ca280ff4e8b850e13492ec0dafe
+Eurosport HD,p2p://generationnexxxt.com:19806/e76ddd61163e48bf8eda214d7d7ee91c
+Astro SuperSport 5,p2p://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
+NBA,p2p://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
+beIN Sports 2,p2p://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
+爱尔达体育1台,p2p://generationnexxxt.com:19806/f12089b3cd714fbc9dbd9dc056b47a67
+爱尔达体育3台,p2p://generationnexxxt.com:19806/538cd13ca5c9471a9e06f42c08dca746
+Sky Sports F1,p2p://generationnexxxt.com:19806/5c3a147369fb49bdb0a97859aef87b78
+Sky Sports Arena,p2p://generationnexxxt.com:19806/8519ae1db7da40149a83069cbfd48d23
+Sky Sports Main Event,p2p://generationnexxxt.com:19806/d80cfc5272f14b4bb675b1c8644ad4c7
+Sky Sports Cricket,p2p://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4ae8
+Sky Sports Action,p2p://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
+Golf Channel,p2p://generationnexxxt.com:19806/64c9fed20006029d16e0744a41d351cd
+Hub Sports 2,p2p://generationnexxxt.com:19806/64e44da90003af9c7da473c3237f3c1b
+Hub Sports 3,p2p://generationnexxxt.com:19806/64e44da8000bb15c7da471ee63963595
+Hub Premier 1,p2p://generationnexxxt.com:19806/64e452dd0004f5797db8c74074175650
+Hub Premier 2,p2p://generationnexxxt.com:19806/64e45a1800023c177dd504fd12b4749f
+Hub Premier 3,p2p://generationnexxxt.com:19806/64e45a0e000dcd087dd4e0eb0d3e42a1
+民视,p2p://generationnexxxt.com:19806/2923338a99ed4f3a8a926f991db63f91
+台视,p2p://generationnexxxt.com:19806/cfe8fbcc016c43f0a13a14e99590b830
+大爱,p2p://generationnexxxt.com:19806/58578ac6e259476f9a6cbaea925ec44e
+中视,p2p://generationnexxxt.com:19806/d8a4444e9e8243f2bacda6e83e5b3360
+霹雳台湾台,p2p://generationnexxxt.com:19806/e93cba8fb3f2480d8a82f5f1ca6d80eb
+华视,p2p://generationnexxxt.com:19806/d643aa6dda144eecb59010ebafed5158
+公视,p2p://generationnexxxt.com:19806/6b4c144ae0ff4771b16379ce24eb617c
+好消息,p2p://generationnexxxt.com:19806/1ff84307c91e49c6bb5c9b5833db2be9
+原住民电视台,p2p://generationnexxxt.com:19806/455dfba7fd454c77a88a1794febe2164
+客家电视台,p2p://generationnexxxt.com:19806/df2f5036b8c147b5b19a37c6f93d6ab6
+国家地理频道,p2p://generationnexxxt.com:19806/1541f6debae4419590c31769811b764f
+探索频道,p2p://generationnexxxt.com:19806/1f03da80d9574039b9ac81bc5497e78b
+TLC旅游生活,p2p://generationnexxxt.com:19806/dbe35fc0a80f460292e8601a8fba02ad
+动物星球,p2p://generationnexxxt.com:19806/26b8644c54494279a8eec4369cd7ae19
+CN卡通频道,p2p://generationnexxxt.com:19806/e75775e9c9164f46ad622f63420b3e46
+MOMO亲子台,p2p://generationnexxxt.com:19806/7fccb4d015e748dca6d82f9180edffc3
+东森幼幼台,p2p://generationnexxxt.com:19806/8d1be71b1dc94c7fa33e817cb0ca7645
+纬来综合台,p2p://generationnexxxt.com:19806/cb765981c434400ea432b1e14e78a39f
+八大第一台,p2p://generationnexxxt.com:19806/63e01aef9c9649ea87b175632412068c
+八大综合台,p2p://generationnexxxt.com:19806/40c09841361a4ac2907f03619803446e
+三立台湾台,p2p://generationnexxxt.com:19806/0a7563dbd43a45c18fe99da032d17498
+三立都会台,p2p://generationnexxxt.com:19806/518e7477d8714a868b77217bba6de3ae
+东森综合台,p2p://generationnexxxt.com:19806/24d7784189624842be781bf0ceed0dc7
+超视,p2p://generationnexxxt.com:19806/7ac734cd28074dad96aed9e6de2569e7
+中天综合台,p2p://generationnexxxt.com:19806/66e4a424d9b64d82956321dc2b7aad13
+中天娱乐台,p2p://generationnexxxt.com:19806/a8068708c0784ef0a559f24ab850bc59
+东森戏剧台,p2p://generationnexxxt.com:19806/fa5a99ce2b254342a699a6eeda5f5e1c
+八大戏剧台,p2p://generationnexxxt.com:19806/4cb3e45fe0c54aa4bcdff1496ec09f9e
+TVBS欢乐台,p2p://generationnexxxt.com:19806/d5966c03c6c74d349e4f47817b7cf518
+纬来戏剧台,p2p://generationnexxxt.com:19806/3cc7984dd2f240c4bf049c13274b9040
+高点综合台,p2p://generationnexxxt.com:19806/3f2590bd2c5647cd95b001fb6a5fe7fd
+BBC World News,p2p://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
+CNBC,p2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+Bloomberg TV,p2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+HITS,p2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
+壹电视新闻台,p2p://generationnexxxt.com:19806/69bc3f48acbe43e1b65d928484493bf6
+年代新闻,p2p://generationnexxxt.com:19806/0bf2d916da0d417da403b3ad8b443207
+东森新闻台,p2p://generationnexxxt.com:19806/434f406290f4487ba856102b81e44930
+中天新闻台,p2p://generationnexxxt.com:19806/95e0fd8e10fc45f2bf22b5ad01dab744
+民视新闻台,p2p://generationnexxxt.com:19806/fa380c90b64a447b820240abc23adaea
+三立新闻台,p2p://generationnexxxt.com:19806/6d2efbadfee2444a888f5803120b1306
+TVBS新闻台,p2p://generationnexxxt.com:19806/fa4f9e56359342278c55f9c11c143a8a
+TVBS,p2p://generationnexxxt.com:19806/dddbab0921ec4c208e9ea6e1465be102
+东森财经新闻台,p2p://generationnexxxt.com:19806/8c73f47217ca44ceb4990ca148a420b4
+非凡新闻台,p2p://generationnexxxt.com:19806/6739a31d1a014cfd91c19b6fc1921fa5
+卫视电影台,p2p://generationnexxxt.com:19806/7caf8e26ae87407baac900f7d0895397
+东森电影台,p2p://generationnexxxt.com:19806/5d89062fdd644e54930ba7a924e587a2
+纬来电影台,p2p://generationnexxxt.com:19806/e3e23dac0aa247bc99b086dca9421832
+龙祥电影,p2p://generationnexxxt.com:19806/e796c82d6c1a490791fe1199144f5a2f
+HBO,p2p://generationnexxxt.com:19806/75471b978f834023861a7d9cdbbd7ae3
+东森洋片台,p2p://generationnexxxt.com:19806/0255c1e6952344f98f6bdf52779cee14
+AXN,p2p://generationnexxxt.com:19806/cf3cb2e9fc6e4d53b4ae52cf2a686e72
+好莱坞电影台,p2p://generationnexxxt.com:19806/99468997c2604a98be4751d4064fb498
+CINEMAX,p2p://generationnexxxt.com:19806/40c0e2c415e5435e9ee04fccfba51cc2
+纬来育乐台,p2p://generationnexxxt.com:19806/139050baa2a647dfae6a81641c2708c7
+纬来体育台,p2p://generationnexxxt.com:19806/236ec7ecbdff462abe3adff0f1836a26
+ELEVEN体育1台,p2p://generationnexxxt.com:19806/3699a7eb134b4efda43537a803962b95
+JET综合台,p2p://generationnexxxt.com:19806/6b95385500d54cc088d4dcc1381b5e09
+国兴卫视,p2p://generationnexxxt.com:19806/95a7ba4c14ef4d12ae582319b7cfffcd
+STAR World,p2p://generationnexxxt.com:19806/f688ccf1858f450082458a711af1df50
+Z频道,p2p://generationnexxxt.com:19806/3c23e0954c914305acabb49e4c5db1df
+Animax,p2p://generationnexxxt.com:19806/28f217c762214322ac9ce7addb19e50a
+尼克儿童频道,p2p://generationnexxxt.com:19806/b33867c4c4c24f1f8fd483c7f7da1ef1
+八大娱乐台,p2p://generationnexxxt.com:19806/0d08f16f03aa48ceafaf59c4893ae5de
+三立iNEWS,p2p://generationnexxxt.com:19806/7a2b7637f49644ceb9e5264324d41a17
+龙华偶像,p2p://generationnexxxt.com:19806/4ab1024a798240e2a9fc5d82c733bb77
+tvN,p2p://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+France24,p2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
+非凡商业台,p2p://generationnexxxt.com:19806/b5785187b95c4e4c857bdd4abbbcf3c0
+公视3台,p2p://generationnexxxt.com:19806/138d9035b7bb4110a6fc13c3942ecd7e
+大爱2台,p2p://generationnexxxt.com:19806/e519f9f39e4046fca05e50dedf239dd9
+ELTV生活英语台,p2p://generationnexxxt.com:19806/a446907b23244a499f918d4d24c9bda1
+靖洋卡通Nice Bingo,p2p://generationnexxxt.com:19806/57c540e4877a490db1dffd0adbf2d0ee
+靖天卡通台,p2p://generationnexxxt.com:19806/c646eff6171a43fb90ada4ec284ad151
+Nick Jr.,p2p://generationnexxxt.com:19806/6b70fe65c5de42518652f0f20dd7b8e6
+Mezzo Live,p2p://generationnexxxt.com:19806/5b9fcbcad32e44b29b975bc6b78b0fcd
+CLASSICA 古典乐,p2p://generationnexxxt.com:19806/6934287c40ae4d818847cf39dd67e6cc
+爱尔达体育1台(备),p2p://generationnexxxt.com:19806/7d7382daa7cd481189aacc68b9d76302
+爱尔达体育2台,p2p://generationnexxxt.com:19806/4d8e782ddbed4df6819465b886fcb5e7
+TRACE Sport Stars,p2p://generationnexxxt.com:19806/10fc3e84b53348ea99e96dda2c4ade34
+博斯高球,p2p://generationnexxxt.com:19806/5af1e41a9b4040e3bdc6841fdd1aecc9
+博斯高球二台,p2p://generationnexxxt.com:19806/7ceb84986359400a919e6aa7d59e0198
+博斯网球台,p2p://generationnexxxt.com:19806/92f431ed19d14d08a7cfd121b1afe66d
+博斯魅力网,p2p://generationnexxxt.com:19806/e9ce1ddd8cf64a69afccf4207d705112
+博斯无限台,p2p://generationnexxxt.com:19806/8ff7ca5ab14f40469f26cc6d7b8b26c7
+博斯无限二台,p2p://generationnexxxt.com:19806/86a9de91aafd4d9baa6044d72701d566
+博斯运动,p2p://generationnexxxt.com:19806/f5165fc231ec4d89bde0546f9805dcf2
+ELEVEN体育2台,p2p://generationnexxxt.com:19806/0f5f588789e541edae33d3cbe3985cb7
+智林体育台,p2p://generationnexxxt.com:19806/6a77b2945dcd4ec088fd7c80e430a21d
+博斯运动二台,p2p://generationnexxxt.com:19806/4d5e9daeaa6f49d8b64cb03de8adbe85
+HBO强档巨献,p2p://generationnexxxt.com:19806/8605cd40b7eb47fea356c3a400e292ae
+HBO原创巨献,p2p://generationnexxxt.com:19806/30effc0e95f7495eb7288ecb76593586
+国家地理高画质野生频道,p2p://generationnexxxt.com:19806/e7886cc0096a4edfbf92cfef8f41fc94
+BBC Earth,p2p://generationnexxxt.com:19806/c4c5bf4910ad42fb9858b977123779aa
+Discovery Asia,p2p://generationnexxxt.com:19806/fd353a020397443a8391d5adbafc9b6f
+Discovery科学频道,p2p://generationnexxxt.com:19806/7e4fa7a5b39d4ae2865fb0804eb64827
+DMAX,p2p://generationnexxxt.com:19806/eeb4cfd7655842648684167473d5233d
+EVE,p2p://generationnexxxt.com:19806/0b9eee8bfc714bdbaf917563e86e4502
+历史频道,p2p://generationnexxxt.com:19806/19217b5fbe3a4c3c851f79d9ab0288a2
+罪案侦缉频道,p2p://generationnexxxt.com:19806/31919e5126554a2e8d251132cd6cfea0
+BBC Lifestyle,p2p://generationnexxxt.com:19806/aa7ab413e59844fdbdbeb398363be433
+Lifetime,p2p://generationnexxxt.com:19806/0dd2e9ea0c4146a7983f9e2265a154c4
+KLT-靖天国际台,p2p://generationnexxxt.com:19806/4f54cddae4234593ad2f1caf1195989e
+HGTV居家乐活频道,p2p://generationnexxxt.com:19806/bc37dee8abb44ec791a19e254c424f47
+Love Nature->食交子,p2p://generationnexxxt.com:19806/012c746b57154292a2bfe3ccca68544a
+美食星球,p2p://generationnexxxt.com:19806/922faac845fe4837946f8c7f4e997ed3
+亚洲美食频道,p2p://generationnexxxt.com:19806/b11da64148aa4fa8ae21a735bf557450
+亚洲旅游台,p2p://generationnexxxt.com:19806/f854e8450e864d9a93d7ac6124adbbaf
+EYE TV旅游台,p2p://generationnexxxt.com:19806/b92f69d253cd42adbf69dc547b68538e
+好消息2台,p2p://generationnexxxt.com:19806/a86bde38e8f240ca83a5e3d4a2a56024
+三立综合台,p2p://generationnexxxt.com:19806/7bc7b496a9394b239d8808ea7abeb3b0
+靖天资讯台,p2p://generationnexxxt.com:19806/67a3773603ba4386a6c6f7045c486793
+靖天综合台,p2p://generationnexxxt.com:19806/699b6f2e2d694a4f883f60331212e791
+靖天育乐台,p2p://generationnexxxt.com:19806/6c9b73697d5c4d3296e4d08f0e2fa789
+中视经典台,p2p://generationnexxxt.com:19806/83eea6e81f7a46f590760897b6cbf513
+中视菁采台,p2p://generationnexxxt.com:19806/b260facc3bbf4b61ad789b66b535508e
+TVBS精采台,p2p://generationnexxxt.com:19806/b96beef9fc8e46d78d7aef86c35a7fd9
+壹电视综合,p2p://generationnexxxt.com:19806/974b982945b4409aab3f0064ec3a9a52
+纬来精采,p2p://generationnexxxt.com:19806/d8a03f42e93a47f18bfe3dd2d4e605f0
+ETtoday综合台,p2p://generationnexxxt.com:19806/01c268cb84384830bf24220136e58fed
+民视第一台,p2p://generationnexxxt.com:19806/d8e8a1bf327f48769b2eb0c3b0ffece3
+民视台湾台,p2p://generationnexxxt.com:19806/1229fc8a814445d89acc58c5e7eea7b0
+Nice TV靖天欢乐台,p2p://generationnexxxt.com:19806/a4b43c0d1de54f1199d3e4f310186539
+八大优频道,p2p://generationnexxxt.com:19806/aaee1218734e4111b4976a1b15d43fc4
+三立戏剧台,p2p://generationnexxxt.com:19806/c77a0e6ca27840a88f1d4e562eb709e4
+龙华戏剧,p2p://generationnexxxt.com:19806/57e2b4cd2a6641ec8a5913ca51f886c6
+靖天戏剧台,p2p://generationnexxxt.com:19806/15ccf183209648e9966c294c10350dc2
+靖洋戏剧台,p2p://generationnexxxt.com:19806/639f3481b4c445e3ab1398547c694300
+靖天日本台,p2p://generationnexxxt.com:19806/6e4ecd5186d149b0bd7a2070df95d4b7
+i-Fun动漫台,p2p://generationnexxxt.com:19806/89f7fb21600146a3855f2f79045a5af4
+韩国娱乐台,p2p://generationnexxxt.com:19806/8f8472f7014f4c9aa1473333f00bc568
+星卫娱乐台,p2p://generationnexxxt.com:19806/bfadb155b8e94c3e85058cff95aff137
+ROCK Extreme,p2p://generationnexxxt.com:19806/5a16166321274a629d0ee3d1e23ba995
+中视新闻台,p2p://generationnexxxt.com:19806/e818fabdf6a344db8b951a879b4abadb
+寰宇新闻台,p2p://generationnexxxt.com:19806/483744a6454645038b6c2026506619ef
+华视新闻,p2p://generationnexxxt.com:19806/2d1f9196df08492e846824cf4eee8afa
+NHK新闻资讯台,p2p://generationnexxxt.com:19806/e76fa51c7d5a4d66a42c533a05e130f5
+美亚电影台HD,p2p://generationnexxxt.com:19806/675e0fe8a3774f5bbaf20de4231db82a
+龙华电影,p2p://generationnexxxt.com:19806/4cf167ce356c45629e4c875f43cafb7f
+星卫HD电影台,p2p://generationnexxxt.com:19806/bff0654037ad4bbca9f80de6b786d10e
+靖天映画,p2p://generationnexxxt.com:19806/48c24c38ac8747fc845617e556995d75
+靖天电影台,p2p://generationnexxxt.com:19806/8c504b55f34840b3a5c624d87c0cf6c7
+WARNER TV,p2p://generationnexxxt.com:19806/9a8e53a38fe149238568062ffcb11a9c
+Star Movies HD,p2p://generationnexxxt.com:19806/5536db09078447aa9eac5d11ee8a9a8f
+AMC最爱电影,p2p://generationnexxxt.com:19806/23ef79034fd44961a96cc34b434bc69d
+HBO Family,p2p://generationnexxxt.com:19806/097292c9b6d747a7a5592d8db6cf3fa9
+CatchPlay电影台,p2p://generationnexxxt.com:19806/98757530c9c24881b0757d31530ed337
+CinemaWorld,p2p://generationnexxxt.com:19806/cfbf5eb8012a44bb92ae6ce31b1f36f8
+壹电视电影台,p2p://generationnexxxt.com:19806/26ceb9cf6ff04bee8a35b29696fc4786
+采昌影剧台,p2p://generationnexxxt.com:19806/4dbecb73c9444cc0872ff280a2e8b844
+佛卫慈悲台,p2p://generationnexxxt.com:19806/d6e97e5f95934c9caf08b5d0790da52e
+TechStorm,p2p://generationnexxxt.com:19806/0f262ca280ff4e8b850e13492ec0dafe
+EYE TV戏剧台,p2p://generationnexxxt.com:19806/b85365b9033d4b02b546fd5faa0b5add
+台视新闻台,p2p://generationnexxxt.com:19806/ce2a02e5d89c4ea39cfbf3dd9875a271
+寰宇新闻台湾台,p2p://generationnexxxt.com:19806/c279e0e5985c41e99e970bc5f9d42c9a
+台视财经台,p2p://generationnexxxt.com:19806/d6f07de96d934e7aa3086bedb9553bba
+纬来日本,p2p://generationnexxxt.com:19806/53dedc642b62461e91cdf9fc68eb1470
+爱尔达影剧台,p2p://generationnexxxt.com:19806/a33b011f03a34cf2a165932db31100db
+民视(备),p2p://generationnexxxt.com:19806/3e335ff1107c4352ad769bebfe0044d5
+三立台湾台(备),p2p://generationnexxxt.com:19806/965d233b037744a89a77fc5d29892ee8
+影迷数位电影台,p2p://generationnexxxt.com:19806/0a55f82165db4e4bb0282c9ef34ab0ff
+卫视中文台,p2p://generationnexxxt.com:19806/7ec27c67c5ab461891c01491b1720355
+爱尔达体育1台,p2p://generationnexxxt.com:19806/f12089b3cd714fbc9dbd9dc056b47a67
+爱尔达体育3台,p2p://generationnexxxt.com:19806/538cd13ca5c9471a9e06f42c08dca746
+台视(备),p2p://generationnexxxt.com:19806/757811f5340648e99a848cc2ccc24b00
+大爱(备),p2p://generationnexxxt.com:19806/cc16143911c84b2d952b64efea2d188e
+中视(备),p2p://generationnexxxt.com:19806/d4863b9dcaa84a20aadbdbdbe9b2eca9
+华视(备),p2p://generationnexxxt.com:19806/5919ab431eca4a6d9627748b98367605
+东森新闻台(备),p2p://generationnexxxt.com:19806/1d20c7785feb4780acf8e3530280e8a4
+镜新闻,p2p://generationnexxxt.com:19806/6b81258434064738b956e4103cb9b222
+MTV,p2p://generationnexxxt.com:19806/8e03ea5ba41b467d95bd0f0192872e15
+东森购物1台,p2p://generationnexxxt.com:19806/e90a434694984fd2bae59422e6e9c7bc
+东森购物2台,p2p://generationnexxxt.com:19806/549376d182724806b34f0e4392612058
+CCTV1,p2p://generationnexxxt.com:19806/f774c5f8f72d4e209390429188acd251
+CCTV2,p2p://generationnexxxt.com:19806/6504138f000eb7f3f9c18e5f4d15078e
+CCTV3,p2p://generationnexxxt.com:19806/650413900008b35df9c190b16be745a4
+CCTV4,p2p://generationnexxxt.com:19806/6504139100002c77f9c1927603c84b5d
+CCTV5,p2p://generationnexxxt.com:19806/98957b0750c14f18abda694462ab9904
+CCTV5+,p2p://generationnexxxt.com:19806/7b1fada6a2d74be0a549cc767b1f6d90
+CCTV6,p2p://generationnexxxt.com:19806/6504139100071ab6f9c1943b6b866db0
+CCTV7,p2p://generationnexxxt.com:19806/65041391000e66f7f9c1961044aa03e9
+CCTV8,p2p://generationnexxxt.com:19806/866876ac8def4fde915a51670ac9627d
+CCTV9,p2p://generationnexxxt.com:19806/285ffc4f61df4970a30856868692a805
+CCTV10,p2p://generationnexxxt.com:19806/33ae75f9da124cbe8fc7176887f81f5a
+CCTV11,p2p://generationnexxxt.com:19806/864f5b32dc894d4a9041b638f38a8c31
+CCTV12,p2p://generationnexxxt.com:19806/d7374afa2116482993d11ff156545963
+CCTV13,p2p://generationnexxxt.com:19806/63f9c5b21d58458895cdf6edb6011f27
+CCTV14,p2p://generationnexxxt.com:19806/b35180f2513844d6931ddd63f9a4da74
+CCTV15,p2p://generationnexxxt.com:19806/690dbc03c28d4e20a52e1999cdb44f76
+北京卫视,p2p://generationnexxxt.com:19806/7150bcd07913426b8af394262341bb68
+天津卫视,p2p://generationnexxxt.com:19806/29b2eae7132b4df8ae6d99d3fcb5a5af
+河北卫视,p2p://generationnexxxt.com:19806/7b7c9f60693b406293ed5ea3e8effbca
+黑龙江卫视,p2p://generationnexxxt.com:19806/aa707c237a8b488e9438372488afd20b
+辽宁卫视,p2p://generationnexxxt.com:19806/cbfed3dbc3e14198858677adce8aa522
+东方卫视,p2p://generationnexxxt.com:19806/9f2f68784ddd4998b723bce328f15499
+江苏卫视,p2p://generationnexxxt.com:19806/adbfc9d8a24a4d03b5a6aed2d051f16b
+浙江卫视,p2p://generationnexxxt.com:19806/603f7c6b86ee4048b4da0f8e99577c1c
+江西卫视,p2p://generationnexxxt.com:19806/412f4a29691b4980be5e10e2e0283528
+山东卫视,p2p://generationnexxxt.com:19806/de05b55401f7441c8a41f613fc202a2e
+东南卫视,p2p://generationnexxxt.com:19806/1ca66ef76c0e4f9c9b98d078c45cbf54
+湖北卫视,p2p://generationnexxxt.com:19806/7f2eccb10f79493e80ff9f4c68bef7c9
+湖南卫视,p2p://generationnexxxt.com:19806/64c9fbff0002e89116d56b4678fc7d1b
+深圳卫视,p2p://generationnexxxt.com:19806/a470da00510647bc8dc078be8a331693
+广东卫视,p2p://generationnexxxt.com:19806/314b4032afbe4911b55b94235e7b1f25
+广西卫视,p2p://generationnexxxt.com:19806/373a6fcf00444cfaa4644a3c4f5bd927
+重庆卫视,p2p://generationnexxxt.com:19806/fc5528b603de46ef8f88e59b352e64ed
+云南卫视,p2p://generationnexxxt.com:19806/b6d23302db664d50b16534639b529791
+星空卫视,p2p://generationnexxxt.com:19806/28563539dfd04ac3b0bd7f138c645232
+大湾区卫视,p2p://generationnexxxt.com:19806/2628d73a5ff14038916ee8fc412164c9
+珠江台,p2p://generationnexxxt.com:19806/34cda0dbf79541d0baf49294fc93588b
+动漫秀场,p2p://generationnexxxt.com:19806/1b00c8eba9624626852599a2a8383aa4
+魅力足球,p2p://generationnexxxt.com:19806/ecd44a5fe8c94d12abd14d0762d6b838
+五星体育,p2p://generationnexxxt.com:19806/fcd8a30806df44ebb0e501596976da1d
+广东体育,p2p://generationnexxxt.com:19806/4fac79491b7842dabd3c86af4c10d110
+私人影院,p2p://generationnexxxt.com:19806/2f87c74949904bf5b59b0090ea24a86b
+CHC动作电影,p2p://generationnexxxt.com:19806/855bc155c26d489698a02a890f1684a2
+广东影视,p2p://generationnexxxt.com:19806/4af60a88d62b4943b25cf1ea65d40ca8
+CHC高清电影,p2p://generationnexxxt.com:19806/78626ad4571f474fa6b5044c0d003d4e
+CHC家庭影院,p2p://generationnexxxt.com:19806/b08b5054487b4685b7ceb7d237154047
+港台電視31,p2p://generationnexxxt.com:19806/12b5eea072e34abbaf7adfd950404b67
+港台电视32,p2p://generationnexxxt.com:19806/8ab3331324eb460789c1dfb4ccd904eb
+HOY TV,p2p://generationnexxxt.com:19806/fa4b14cab6fc46babb93f8a07499f9fa
+﻿翡翠台(备),p2p://generationnexxxt.com:19806/a2dc5d7f049c49e7bccc56ec1b7dd5cd
+J2,p2p://generationnexxxt.com:19806/fd81ce98b0c042d3a02e02915f067009
+无线新闻台(备),p2p://generationnexxxt.com:19806/0a28185ffdf44e17b3e42be27c114d3f
+无线新闻台,p2p://generationnexxxt.com:19806/269bee3aed04481aaadee12881860733
+无线财经体育资讯台,p2p://generationnexxxt.com:19806/a2a378dcf0c14f3c9640b58f1c237ecb
+ViuTVsix,p2p://generationnexxxt.com:19806/d03a7bc7192b438d819cccb87e57c241
+ViuTV,p2p://generationnexxxt.com:19806/de010e8c970248058b86f475476cf6cd
+凤凰中文台,p2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f	
+凤凰资讯台,p2p://generationnexxxt.com:19806/09e4cacca57e465e8bdd47481f842b83
+凤凰香港台,p2p://generationnexxxt.com:19806/1229628cd9d1442ca81ee8e3148dbbf6
+TVB星河(粤),p2p://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
+澳门-MACAU,p2p://generationnexxxt.com:19806/499492b27bc2498a866bdf625c54a84b
+澳门莲花,p2p://generationnexxxt.com:19806/d2fd5d20e9574d008a6d863deeb82c25
+now新闻台,p2p://generationnexxxt.com:19806/4aec31272c864003a04259d4bd405f20
+HKC 18,p2p://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
+戏曲台,p2p://generationnexxxt.com:19806/64e1e6030000081f743f926825ac558c
+TVB娱乐新闻台,p2p://generationnexxxt.com:19806/86fe6741d7da4c59919680e5d9857450
+翡翠台,p2p://generationnexxxt.com:19806/1b03d72fd3854026b21904e939b8446a
+千禧经典台,p2p://generationnexxxt.com:19806/82237250e487405d87030dd69457ddd8
+Thrill,p2p://generationnexxxt.com:19806/7570e39d31c84a1ba9472fa57c762358
+明珠台,p2p://generationnexxxt.com:19806/49f04baa4ea94bf6a60e7c2062c175e4
+香港国际财经台,p2p://generationnexxxt.com:19806/2051591a639c49eab0cb32f0e559c4e9
+18台,p2p://generationnexxxt.com:19806/3fb4bcf94b124e15961f49dcde926da9
+now财经台,p2p://generationnexxxt.com:19806/fb6cb4940d924709aaeac5ecb71e8b76
+美亚电影台(粤语),p2p://generationnexxxt.com:19806/858627003b014ecdade101446a5b0972
+Hands Up,p2p://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
+粤语片台,p2p://generationnexxxt.com:19806/887df0bf0d8d492d95b9c2fdf6cc9694
+亚洲剧台,p2p://generationnexxxt.com:19806/ddd1f7ef6ccc486eb861a1215115d7d2
+功夫台,p2p://generationnexxxt.com:19806/4c3f27dd7eb44be289557ccfb7c410b3
+HOY资讯台,p2p://generationnexxxt.com:19806/175efe3d1ab64b21ad55a51bc57a2078
+黄金翡翠台,p2p://generationnexxxt.com:19806/deb48b262c694a84b63cd3aa96d95347
+TV1,p2p://generationnexxxt.com:19806/6ed0226aee704cb6ba7b0faf1088407f
+TV2,p2p://generationnexxxt.com:19806/69d668a50a2c4d55bc1adfbdf2f29bf7
+TV3,p2p://generationnexxxt.com:19806/fa74ead583154a9692291aeb75eb5bb2
+NTV7,p2p://generationnexxxt.com:19806/e8957c5d3f8845cb939db883be072101
+八度空间,p2p://generationnexxxt.com:19806/2e2b2c26f8e54bbbb79581b30bb9816e
+TV9,p2p://generationnexxxt.com:19806/c941b205cbac44c093ccb803f4a3e41a
+Astro Oasis HD,p2p://generationnexxxt.com:19806/a95390cc70a94c80bbfdd92bbc4242a2
+Astro Citra HD,p2p://generationnexxxt.com:19806/62384e6e37cc4794a98c563e0632b568
+Al-Hijrah,p2p://generationnexxxt.com:19806/60bd24b215194e9da92d1351e8fd8d87
+SUN TV,p2p://generationnexxxt.com:19806/3ed2665a56e145ddb274a80554eb9424
+爱奇艺,p2p://generationnexxxt.com:19806/5aef0df8fc5b4e56b185158d8833951f
+Astro小太阳,p2p://generationnexxxt.com:19806/42484e48715c4d92a6b98afa3e640f42
+Astro AEC(备),p2p://generationnexxxt.com:19806/cd1cf3c664a44822898e14d8025f2fc1
+Astro双星,p2p://generationnexxxt.com:19806/7203f95771fc422e91a0b1385d90918b
+天映频道,p2p://generationnexxxt.com:19806/4b5e8ec28cf24208baa663599d6cc1f5
+翡翠台(华丽台),p2p://generationnexxxt.com:19806/441f455bd3c04c628bf607b2e35f538e
+Astro AOD HD 311,p2p://generationnexxxt.com:19806/9050c1d0fefc4576aa6339fc2f338385
+中天亚洲台,p2p://generationnexxxt.com:19806/0ca9f16b087d4fe8bd97852c47a222b7
+TVB星河(粤),p2p://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
+天映经典,p2p://generationnexxxt.com:19806/c7cf6992ae514b7e9a92164e4cac30e2
+Astro欢喜台,p2p://generationnexxxt.com:19806/808f3ef554f34e559f91e005ef819803
+KBS World,p2p://generationnexxxt.com:19806/64c365ec000c405afd1b337051f04b9d
+TVS,p2p://generationnexxxt.com:19806/fc5a120a8cc0426d8d5c6bd316b8eed7
+tvN Movies HD,p2p://generationnexxxt.com:19806/e44fe8b971a04543a11e412959693f7a
+Astro Awani,p2p://generationnexxxt.com:19806/3a1a9a23587140a7bbc5734b00c03f52
+CGTN,p2p://generationnexxxt.com:19806/ab925b53dccb41ed850b9797e4b8732c
+BBC World News,p2p://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
+CNBC,p2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+Bloomberg TV,p2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+Astro Ceria,p2p://generationnexxxt.com:19806/b3f53402401e49ff886522b1ca81179d
+Boomerang,p2p://generationnexxxt.com:19806/a7d1c6858f5845589fe59fea2e3a61a2
+KIX,p2p://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
+HITS,p2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
+Astro Arena,p2p://generationnexxxt.com:19806/c046c74b43184a9bac5b0e402944aca5
+Astro SuperSport,p2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+Astro SuperSport 2,p2p://generationnexxxt.com:19806/6edae31caab6475cad76175fca389922
+Astro SuperSport 3,p2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
+Astro SuperSport 4,p2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
+beIN Sports 3,p2p://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
+WWE,p2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
+Sky News,p2p://generationnexxxt.com:19806/004e34fc27b949339dc56c7dfc272f76
+八度空间(备),p2p://generationnexxxt.com:19806/daa79ab2d5c64092b7868388c9fe3d2d
+Nat Geo Wild,p2p://generationnexxxt.com:19806/0b98cfecbfe84fbf97566be470554831
+tvN,p2p://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+Drama Sangat,p2p://generationnexxxt.com:19806/62fe800319224400936810eafea81f2d
+Berita RTM,p2p://generationnexxxt.com:19806/d32a93840f444bd28b48f63b86f1a863
+France24,p2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
+SPOTV,p2p://generationnexxxt.com:19806/60ad67b765414b32882a24ce6c63808a
+beIN Sports,p2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
+TVB娱乐新闻台,p2p://generationnexxxt.com:19806/86fe6741d7da4c59919680e5d9857450
+Astro AEC,p2p://generationnexxxt.com:19806/42b050d4e8534ad0b1b3ede5b2aab501
+Awesome TV,p2p://generationnexxxt.com:19806/e19a1abfd23241e8b7c6a2f2bb55283b
+BOO,p2p://generationnexxxt.com:19806/bae5e94ab17846f09ab44d39ce6b162d
+千禧经典台,p2p://generationnexxxt.com:19806/82237250e487405d87030dd69457ddd8
+ABC Australia,p2p://generationnexxxt.com:19806/94fa84e314d745669761bf70b2bac7e5
+Eurosport HD,p2p://generationnexxxt.com:19806/e76ddd61163e48bf8eda214d7d7ee91c
+Astro SuperSport 5,p2p://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
+Star Vijay,p2p://generationnexxxt.com:19806/ea27ce5e4bfa4cb68f563ed400d3fe36
+Zee Tamil,p2p://generationnexxxt.com:19806/289039bf3e9a41088eb85329d603dc17
+TVBS亚洲,p2p://generationnexxxt.com:19806/3ee34cdd82744fb39ef758059e7d2704
+Astro AOD 352,p2p://generationnexxxt.com:19806/44c2369ea99a4be599c77f77d421d12c
+Astro AOD 354,p2p://generationnexxxt.com:19806/a4ecc595c3894c5bacfe3b7ae937f8c1
+Astro Tutor TV SK,p2p://generationnexxxt.com:19806/6491b419e7d24800b24e26538504db28
+Astro Tutor TV SPM,p2p://generationnexxxt.com:19806/f7ec2dd165db439f92d38fedb7bb3b37
+HITS Movies,p2p://generationnexxxt.com:19806/64dc6670000006135ec53c3042776c65
+beIN Sports 2,p2p://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
+Golf Channel,p2p://generationnexxxt.com:19806/64c9fed20006029d16e0744a41d351cd
+Hub Sports 1,p2p://generationnexxxt.com:19806/64e44da9000b7d207da475c66db01a76
+天映频道,p2p://generationnexxxt.com:19806/4b5e8ec28cf24208baa663599d6cc1f5
+中天亚洲台,p2p://generationnexxxt.com:19806/0ca9f16b087d4fe8bd97852c47a222b7
+TVB星河(粤),p2p://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
+天映经典,p2p://generationnexxxt.com:19806/c7cf6992ae514b7e9a92164e4cac30e2
+KBS World,p2p://generationnexxxt.com:19806/64c365ec000c405afd1b337051f04b9d
+CGTN,p2p://generationnexxxt.com:19806/ab925b53dccb41ed850b9797e4b8732c
+BBC World News,p2p://generationnexxxt.com:19806/c15f2b05ec7a4dadb3dcec0a2176c2c3
+CNBC,p2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+Bloomberg TV,p2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+Boomerang,p2p://generationnexxxt.com:19806/a7d1c6858f5845589fe59fea2e3a61a2
+HITS,p2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
+beIN Sports 3,p2p://generationnexxxt.com:19806/83bd4463c62048dea6aafba5e1a81b23
+Mediacorp 5,p2p://generationnexxxt.com:19806/7ecf2b27c2554eef87bb4b3603e82a4f
+Mediacorp 8,p2p://generationnexxxt.com:19806/02b0b2bfe7974369b811f418dcd4eddf
+Suria,p2p://generationnexxxt.com:19806/9ea5cf9604c545c88d5a634f5450204b
+Vasantham,p2p://generationnexxxt.com:19806/c59b3a242b644ec2ba2d3398ad14189b
+CNA,p2p://generationnexxxt.com:19806/52b67f21b37b4764a87c33dd46844fdb
+Mediacorp U,p2p://generationnexxxt.com:19806/1c7cdb0005764374ab173154f8418848
+Nat Geo Wild,p2p://generationnexxxt.com:19806/0b98cfecbfe84fbf97566be470554831
+Euronews,p2p://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
+Fight Sports,p2p://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
+GEM,p2p://generationnexxxt.com:19806/76f6e10887894d07bd5b225cc895e2a5
+Fox News,p2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
+beIN Sports,p2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
+HGTV居家乐活频道,p2p://generationnexxxt.com:19806/bc37dee8abb44ec791a19e254c424f47
+东森亚洲卫视,p2p://generationnexxxt.com:19806/8a43d9cb067b47aaa8fd5f550930be0c
+Thrill,p2p://generationnexxxt.com:19806/7570e39d31c84a1ba9472fa57c762358
+TVBS亚洲,p2p://generationnexxxt.com:19806/3ee34cdd82744fb39ef758059e7d2704
+NBA,p2p://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
+beIN Sports 2,p2p://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
+Hub Sports 2,p2p://generationnexxxt.com:19806/64e44da90003af9c7da473c3237f3c1b
+Hub Sports 3,p2p://generationnexxxt.com:19806/64e44da8000bb15c7da471ee63963595
+Hub Premier 1,p2p://generationnexxxt.com:19806/64e452dd0004f5797db8c74074175650
+Hub Premier 2,p2p://generationnexxxt.com:19806/64e45a1800023c177dd504fd12b4749f
+Hub Premier 3,p2p://generationnexxxt.com:19806/64e45a0e000dcd087dd4e0eb0d3e42a1
+NHK-G综合,p2p://generationnexxxt.com:19806/810050ee3b224cffbff84c07e53c499a
+NHK-E教育,p2p://generationnexxxt.com:19806/797e091247a14ad2a918c9cb2e95cca3
+日本テレビ,p2p://generationnexxxt.com:19806/e83c93ef5c914ed3826fe7856b81acf0
+TBSテレビ,p2p://generationnexxxt.com:19806/9376bfbc1275463dadf7d89cf5eebf6c
+テレビ東京,p2p://generationnexxxt.com:19806/df391d094cf243bda2d71eea2543f6a3
+フジテレビ,p2p://generationnexxxt.com:19806/54dd404db8674941a08958b36acf24a7
+読売テレビ,p2p://generationnexxxt.com:19806/67e4cf369c3041ae9df1aca8b83fecf8
+関西テレビ,p2p://generationnexxxt.com:19806/bfb58a0f01504914883d882ee3082053
+KBS京都,p2p://generationnexxxt.com:19806/729ad31db2414a458905bbadb735bbae
+毎日放送,p2p://generationnexxxt.com:19806/ccac43e2944e468b91bcba848d34c3fd
+朝日放送,p2p://generationnexxxt.com:19806/b9fd3c1349444e5d8e73b51b2fd298f9
+テレビ大阪,p2p://generationnexxxt.com:19806/ad58b2a5a3554960a7cab3825097b6e6
+BS-1,p2p://generationnexxxt.com:19806/bb73b7a100954eb0a941586c172b75da
+BS日テレ,p2p://generationnexxxt.com:19806/15653a24109f412d8c13623fe3d8cbce
+BS朝日,p2p://generationnexxxt.com:19806/823835bf82b648b7b949cd6b10b9465f
+BS-TBS,p2p://generationnexxxt.com:19806/3158a94fbe3c43d0938fdbb5c727e3d7
+BS11,p2p://generationnexxxt.com:19806/a4be116db92743e1ac8dc4d6a86ebed1
+BSフジ,p2p://generationnexxxt.com:19806/ecd5225855164918853748cdf29fa61a
+WOWOWプライム,p2p://generationnexxxt.com:19806/b6120a213ab04f9f830e9435530eb905
+WOWOWライブ,p2p://generationnexxxt.com:19806/ff616330600e438d97cf03101ae7c3a1
+WOWOWシネマ,p2p://generationnexxxt.com:19806/e30a2709ee2c492495621bdd54db7294
+スター・チャンネル1,p2p://generationnexxxt.com:19806/8869813c1bfc46b3ba00e21e2cb35474
+スター・チャンネル2,p2p://generationnexxxt.com:19806/0293a4ec77f745f4be8700e6f3d8830f
+スター・チャンネル3,p2p://generationnexxxt.com:19806/0a8db2b6767948c1b4e1e7b86ac4c658
+BSアニマックス,p2p://generationnexxxt.com:19806/242df12175db458eaa4b56885dfe1ee3
+J Sports 1,p2p://generationnexxxt.com:19806/3bf47ad3b3514230bd24efe7178aee5e
+J Sports 2,p2p://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
+J Sports 3,p2p://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
+J Sports 4,p2p://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
+BS12,p2p://generationnexxxt.com:19806/9a0e8e3bc32341738cd921467307e93e
+ゴルフネットワークHD,p2p://generationnexxxt.com:19806/df0994ae49fd4d138304ebcd700a9d1c
+時代劇専門チャンネル,p2p://generationnexxxt.com:19806/aaa4c8da4b0f4146a58012b64a9d1c06
+Music Japan TV,p2p://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
+キッズステーションHD,p2p://generationnexxxt.com:19806/434d7c2079e341609cba49f816c81cf5
+ディスカバリーチャンネル,p2p://generationnexxxt.com:19806/c198ef50712d485d95ebf9c20935cfdb
+ナショナルジオグラフィック,p2p://generationnexxxt.com:19806/415d6f2939a74d34b80a151a959b1733
+日テレNEWS 24,p2p://generationnexxxt.com:19806/c7154b60dd934b43a1e42a0fc1b38734
+旅チャンネル,p2p://generationnexxxt.com:19806/bab71e3fb519479ea64543d006b8089f
+Arirang,p2p://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
+KBS1,p2p://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
+KBS2,p2p://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
+KBS Drama,p2p://generationnexxxt.com:19806/10263d570592484e864bf42334ba5a2f
+KBS Joy,p2p://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176
+SBS,p2p://generationnexxxt.com:19806/c8f25b3b0185407792640de06e8781df
+SBS Biz,p2p://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575
+JTBC,p2p://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
+EBS,p2p://generationnexxxt.com:19806/257252e5e0f749beb160af97e36d15d1
+YTN,p2p://generationnexxxt.com:19806/37e575278e574bc9a9fc598c733de125
+Mnet,p2p://generationnexxxt.com:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb
+tvN,p2p://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+OCN,p2p://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3
+OCN Movies,p2p://generationnexxxt.com:19806/328994e1d61946198d921e2fe2bbc1a0
+TV Chosun,p2p://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e
+MBC,p2p://generationnexxxt.com:19806/36faab63fc2e4983b559a7e8f2002e30
+MBN,p2p://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
+Tooniverse,p2p://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
+SPOTV,p2p://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1
+JTBC GOLF,p2p://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c
+Channel 5,p2p://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
+NBT,p2p://generationnexxxt.com:19806/4977f52edbae4d41b28fa28fb4bb8eb7
+TNN 16,p2p://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
+JKN 18,p2p://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
+Voice TV,p2p://generationnexxxt.com:19806/565ee6db091d4f5eb249d8cfd88ff392
+Nation TV,p2p://generationnexxxt.com:19806/9006192061234d3abc002c9df98617a3
+Workpoint TV,p2p://generationnexxxt.com:19806/e3dcbf98790f47a6ae10aa0e6b92d3a3
+true4U,p2p://generationnexxxt.com:19806/70d07d9bf1594d1aafa109803f097fd5
+GMM 25,p2p://generationnexxxt.com:19806/7202eeef804f4338bcd118210a39a66b
+Channel 8,p2p://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
+Mono 29,p2p://generationnexxxt.com:19806/a8da70ef841f4aa29be21f4123b1e0a6
+MCOT,p2p://generationnexxxt.com:19806/84419b9f1d144bd687913e3739c10011
+ONE,p2p://generationnexxxt.com:19806/bbed53ec33024bafae4696ba4d589e2c
+Thairath TV,p2p://generationnexxxt.com:19806/c1db5ee1e01048bc9f7319cda9a530c6
+Channel 3,p2p://generationnexxxt.com:19806/9f2ed619044e4208b64ba52f7a8c0a80
+Amarin TV,p2p://generationnexxxt.com:19806/74f013c77d3b43bf875702f7177dba68
+Channel 7,p2p://generationnexxxt.com:19806/377bbd391f744a86a07d3d46e28db730
+PPTV,p2p://generationnexxxt.com:19806/46ff90c62cbb4bdfbccd3033a9268dcb
+Boomerang,p2p://generationnexxxt.com:19806/98ded4efebe2480fa7538e6bec832b7a
+Thai Parliament TV,p2p://generationnexxxt.com:19806/139a4607a0d24095a17ff2745cb2141d
+Thai PBS,p2p://generationnexxxt.com:19806/aeb8c0b2981e4f0fb69383eea64f5deb
+News 1,p2p://generationnexxxt.com:19806/4d7a0f009ed44250b371cf1a3b10c4b3
+Channel 4050,p2p://generationnexxxt.com:19806/03f62b6c560745a69e3580aaa3a32294
+TVB Thai,p2p://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
+Bluesky,p2p://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
+Top News,p2p://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
+CNBC,p2p://generationnexxxt.com:19806/b24b9d83ab9d4ddb9cbd80a2b42ca461
+Bloomberg TV,p2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+ESPN,p2p://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
+600TV,p2p://generationnexxxt.com:19806/64c36a1900089f29fd2b824d6b4b65c1
+CBSN,p2p://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
+Fox News,p2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
+NBA,p2p://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
+新时代1(西部),p2p://generationnexxxt.com:19806/a3d06a9ecf30410582ad64ed15cdf6fd
+新时代2,p2p://generationnexxxt.com:19806/65013e4c0002afeaeeb07d8a59ff6121
+新时代1(东部),p2p://generationnexxxt.com:19806/28d014f7982c4041ab7197218b9c1284
+城市电视,p2p://generationnexxxt.com:19806/a18fbea7eddd4079b3e2e684d19df5c4
+Fox News,p2p://generationnexxxt.com:19806/5cdbb62f542843da8d140520a0a966bc
+BBC World News,p2p://generationnexxxt.com:19806/416eca57b45148398865fc4dabf40b72
+CNN USA,p2p://generationnexxxt.com:19806/e26f49dc14b34b1abe3e1fea84e1e5f4
+CBC News,p2p://generationnexxxt.com:19806/7fbe49af6e5a4041ad124362351e4b20
+MSNBC,p2p://generationnexxxt.com:19806/27c4d56058c44a4e9c41a98a99a7bc13
+CTV News,p2p://generationnexxxt.com:19806/c48d5139ac954dbaa49a8b0e23af6e16
+Business News Network,p2p://generationnexxxt.com:19806/dc5be6cec9ba4284900e5670cbcae0bb
+CP24,p2p://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
+The Weather Network,p2p://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
+The Weather Channel,p2p://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
+KOMO 4 TV,p2p://generationnexxxt.com:19806/d09839dc0ae84712bb24938c634626fe
+Music Japan TV,p2p://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
+Mezzo Live,p2p://generationnexxxt.com:19806/5b9fcbcad32e44b29b975bc6b78b0fcd
+CLASSICA 古典乐,p2p://generationnexxxt.com:19806/6934287c40ae4d818847cf39dd67e6cc
+MTV,p2p://generationnexxxt.com:19806/8e03ea5ba41b467d95bd0f0192872e15
+CCTV9,p2p://generationnexxxt.com:19806/285ffc4f61df4970a30856868692a805
+国家地理频道,p2p://generationnexxxt.com:19806/1541f6debae4419590c31769811b764f
+探索频道,p2p://generationnexxxt.com:19806/1f03da80d9574039b9ac81bc5497e78b
+TLC旅游生活,p2p://generationnexxxt.com:19806/dbe35fc0a80f460292e8601a8fba02ad
+动物星球,p2p://generationnexxxt.com:19806/26b8644c54494279a8eec4369cd7ae19
+Nat Geo Wild,p2p://generationnexxxt.com:19806/0b98cfecbfe84fbf97566be470554831
+ELTV生活英语台,p2p://generationnexxxt.com:19806/a446907b23244a499f918d4d24c9bda1
+国家地理高画质野生频道,p2p://generationnexxxt.com:19806/e7886cc0096a4edfbf92cfef8f41fc94
+BBC Earth,p2p://generationnexxxt.com:19806/c4c5bf4910ad42fb9858b977123779aa
+Discovery Asia,p2p://generationnexxxt.com:19806/fd353a020397443a8391d5adbafc9b6f
+Discovery科学频道,p2p://generationnexxxt.com:19806/7e4fa7a5b39d4ae2865fb0804eb64827
+DMAX,p2p://generationnexxxt.com:19806/eeb4cfd7655842648684167473d5233d
+EVE,p2p://generationnexxxt.com:19806/0b9eee8bfc714bdbaf917563e86e4502
+历史频道,p2p://generationnexxxt.com:19806/19217b5fbe3a4c3c851f79d9ab0288a2
+罪案侦缉频道,p2p://generationnexxxt.com:19806/31919e5126554a2e8d251132cd6cfea0
+BBC Lifestyle,p2p://generationnexxxt.com:19806/aa7ab413e59844fdbdbeb398363be433
+Lifetime,p2p://generationnexxxt.com:19806/0dd2e9ea0c4146a7983f9e2265a154c4
+KLT-靖天国际台,p2p://generationnexxxt.com:19806/4f54cddae4234593ad2f1caf1195989e
+HGTV居家乐活频道,p2p://generationnexxxt.com:19806/bc37dee8abb44ec791a19e254c424f47
+Love Nature->食交子,p2p://generationnexxxt.com:19806/012c746b57154292a2bfe3ccca68544a
+美食星球,p2p://generationnexxxt.com:19806/922faac845fe4837946f8c7f4e997ed3
+亚洲美食频道,p2p://generationnexxxt.com:19806/b11da64148aa4fa8ae21a735bf557450
+亚洲旅游台,p2p://generationnexxxt.com:19806/f854e8450e864d9a93d7ac6124adbbaf
+EYE TV旅游台,p2p://generationnexxxt.com:19806/b92f69d253cd42adbf69dc547b68538e
+CCTV14,p2p://generationnexxxt.com:19806/b35180f2513844d6931ddd63f9a4da74
+CN卡通频道,p2p://generationnexxxt.com:19806/e75775e9c9164f46ad622f63420b3e46
+星空卫视,p2p://generationnexxxt.com:19806/28563539dfd04ac3b0bd7f138c645232
+动漫秀场,p2p://generationnexxxt.com:19806/1b00c8eba9624626852599a2a8383aa4
+MOMO亲子台,p2p://generationnexxxt.com:19806/7fccb4d015e748dca6d82f9180edffc3
+Astro小太阳,p2p://generationnexxxt.com:19806/42484e48715c4d92a6b98afa3e640f42
+Astro Ceria,p2p://generationnexxxt.com:19806/b3f53402401e49ff886522b1ca81179d
+Boomerang,p2p://generationnexxxt.com:19806/a7d1c6858f5845589fe59fea2e3a61a2
+Animax,p2p://generationnexxxt.com:19806/28f217c762214322ac9ce7addb19e50a
+尼克儿童频道,p2p://generationnexxxt.com:19806/b33867c4c4c24f1f8fd483c7f7da1ef1
+靖洋卡通Nice Bingo,p2p://generationnexxxt.com:19806/57c540e4877a490db1dffd0adbf2d0ee
+靖天卡通台,p2p://generationnexxxt.com:19806/c646eff6171a43fb90ada4ec284ad151
+Nick Jr.,p2p://generationnexxxt.com:19806/6b70fe65c5de42518652f0f20dd7b8e6
+Hands Up,p2p://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
 广东组播,#genre#
 CCTV-1高清,http://zhaomeng.ddns.net:4000/udp/239.93.0.184:5140
 CCTV-2高清,http://zhaomeng.ddns.net:4000/udp/239.93.1.23:6000
