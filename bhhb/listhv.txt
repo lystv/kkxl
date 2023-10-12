@@ -479,6 +479,10 @@ CCTV12,http://113.117.74.26:8081/hls/134/index.m3u8
 CCTV9,http://113.117.74.26:8081/hls/136/index.m3u8
 TVB星河,http://113.117.74.26:8081/hls/137/index.m3u8
 TEST,,#genre#
+无线新闻,http://r.jdshipin.com/CkuBd
+J2,http://r.jdshipin.com/Nr5jq
+莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
+ViuTV,http://r.jdshipin.com/vSJvl
 广东珠江,http://113.86.204.98:808/hls/22/index.m3u8
 广东珠江,https://t.68l.cc/gudou.php?id=gdzhujiangHD_7500$gudou
 广东珠江,https://t.68l.cc/gd.php?id=gdzhujiangHD_7500$gd
