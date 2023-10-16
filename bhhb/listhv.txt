@@ -566,6 +566,9 @@ CCTV1百事通,http://cfss.cc/ds/bst/bst.php?cdn=122d6f6388173cbc5240f6d0036bc5b
 山东生活,http://60.217.189.200:3600/tsfile/live/1003_1.m3u8
 东方财经,http://60.217.189.200:3600/tsfile/live/1000_1.m3u8
 山东综艺,http://60.217.189.200:3600/tsfile/live/1004_1.m3u8
+嘉兴新闻综合,http://play-a2.quklive.com/live/1675942165226154.m3u8
+嘉兴文化影视,http://play-a2.quklive.com/live/1675149625220101.m3u8
+嘉兴公共频道,http://play-a2.quklive.com/live/1675149601192103.m3u8
 广东珠江,http://113.86.204.98:808/hls/22/index.m3u8
 广东珠江,https://t.68l.cc/gudou.php?id=gdzhujiangHD_7500$gudou
 广东珠江,https://t.68l.cc/gd.php?id=gdzhujiangHD_7500$gd
