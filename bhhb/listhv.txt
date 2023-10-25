@@ -684,6 +684,81 @@ CCTV17,http://angtv.cn/test/bestv.php?id=cctv17hd8m/8000000
 法治天地,http://angtv.cn/test/bestv.php?id=fztd8m/8000000
 金色学堂,http://angtv.cn/test/bestv.php?id=jingsepd8m/8000000
 魅力足球,http://angtv.cn/test/bestv.php?id=mlyyhd8m/8000000
+4K测试,#genre#
+广西|崇左综合,http://111.59.63.32:9901/tsfile/live/1002_1.m3u8
+求索动物,http://111.40.196.27:443/0000000000001000/2000000004000000009/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000009
+求索生活,http://111.40.196.27:443/0000000000001000/2000000004000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000008
+精彩影视,http://111.40.196.27:443/0000000000001000/2000000004000000063/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000063
+黑莓电影,http://111.40.196.32:443/PLTV/88888888/224/3221225610/1.m3u8
+黑莓动画,http://111.40.196.29:443/PLTV/88888888/224/3221225628/1.m3u8
+第一院线,http://angtv.cc/test/jsyh.php?id=GITV-JS-2
+影视剧场,http://angtv.cc/test/jsyh.php?id=GITV-JS-1
+置业频道,http://angtv.cc/test/jsyh.php?id=G_ZHIYE
+京视剧场,http://angtv.cc/test/jsyh.php?id=G_JINGJU
+爱情喜剧,http://111.40.196.38:443/PLTV/88888888/224/3221225616/1.m3u8
+潮妈辣婆,http://111.40.196.29:443/PLTV/88888888/224/3221225680/1.m3u8
+动作电影,http://111.40.196.37:443/PLTV/88888888/224/3221225620/1.m3u8
+古装剧场,http://111.40.196.39:443/PLTV/88888888/224/3221225618/1.m3u8
+热播精选,http://111.40.196.25:443/PLTV/88888888/224/3221225624/1.m3u8
+军旅剧场,http://111.40.196.35:443/PLTV/88888888/224/3221225622/1.m3u8
+精品纪录,http://111.40.196.29:443/PLTV/88888888/224/3221225630/1.m3u8
+精品体育,http://111.40.196.37:443/PLTV/88888888/224/3221225608/1.m3u8
+金牌综艺,http://111.40.196.29:443/PLTV/88888888/224/3221225650/1.m3u8
+军事评论,http://111.40.196.31:443/PLTV/88888888/224/3221225634/1.m3u8
+惊悚悬疑,http://111.40.196.32:443/PLTV/88888888/224/3221225638/1.m3u8
+家庭剧场,http://111.40.196.29:443/PLTV/88888888/224/3221225626/1.m3u8
+精品综合,http://111.40.196.29:443/PLTV/88888888/224/3221225632/1.m3u8
+农业致富,http://111.40.196.37:443/PLTV/88888888/224/3221225636/1.m3u8
+武搏世界,http://111.40.196.31:443/PLTV/88888888/224/3221225664/1.m3u8
+中国功夫,http://111.40.196.38:443/PLTV/88888888/224/3221225678/1.m3u8
+有线18,http://ddi.yj011.net:8080/sat/hk021.flv
+财经体育咨询,http://ddi.yj011.net:8080/sat/hk011.flv
+卫视音乐,http://vl15191373.imwork.net:8880/udp/239.93.0.157:2194
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视文旅,rtmp://ali-play.lezhibo.com/live/d803719995ab40df83fca5e638cac7f4
+東森電影 HD,http://162.19.247.76:22222/live/dsdyt/index.m3u8
+广西|广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
+广西|广西影视,http://www.51nas.top:4022/rtp/239.81.0.250:4056
+广西|广西都市,http://www.51nas.top:4022/rtp/239.81.0.247:4056
+广西|广西公共,http://www.51nas.top:4022/rtp/239.81.0.249:4056
+广西|广西综艺,http://www.51nas.top:4022/rtp/239.81.0.214:4056
+广西|广西新闻,http://111.59.63.32:9901/tsfile/live/1007_1.m3u8
+广西|南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+广西|南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+广西|南宁都市生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+广西|南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+江苏广电-4K宣传[3840*2160],http://122.97.211.220:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11688&Fsv_otype=0&Provider_id=&Pcontent_id=?$3840x2160
+CCTV8K,http://113.100.72.131:8899/udp/239.253.43.106:5146
+CCTV奥运4K-百视通,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv16hd4k/15000000
+CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8  
+CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+CCTV4K-百视通,http://jiandjh.51vip.biz:5678/bestv.php?id=cctv4k/15000000
+CCTV4K,http://china.733240.com/cqyx.php?id=CCTV4K
+CCTV16-4K,http://china.733240.com/cqyx.php?id=CCTV16_4k
+4K影视[3840*2160],http://lcx-olt.8866.org:8181/tsfile/live/1014_1.m3u8
+欢笑剧场4k,http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
+CCTV16-4K,http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+CCTV-4K,http://110.80.139.96/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
+CCTV16-4K[3840*2160],http://113.100.72.131:8899/udp/239.77.1.98:5146$广电4K
+CCTV16,http://223.87.160.11:55555/udp/239.11.0.67:5140
+CCTV16,http://223.87.160.11:55555/udp/239.10.0.187:5140
+欢笑剧场4K,http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
+CCTV4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV16-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+CCTV16-4K,http://58.20.202.43:808/hls/17/index.m3u8
+CCTV-16 奥林匹克,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+CCTV-16,http://113.100.72.131:8899/udp/239.77.0.165:5146
+爱体育高清,http://113.100.72.131:8899/udp/239.77.0.176:5146
+4k测试频道8,http://113.100.72.131:8899/udp/239.77.0.249:5146
+精选4k频道3,http://113.100.72.131:8899/udp/239.77.0.153:5146
+广东综艺 4K,http://113.100.72.131:8899/udp/239.77.1.236:5146
+广东综艺 4K,http://113.100.72.131:8899/udp/239.77.1.237:5146
+广东4K超高清,http://113.100.72.131:8899/udp/239.77.0.244:5146
+广东4K超高清 窄色域 30,http://113.100.72.131:8899/udp/239.77.0.245:5146
+广东4K超高清 宽色域,http://113.100.72.131:8899/udp/239.77.0.246:5146
+广东4K超高清 宽色域AVS2,http://113.100.72.131:8899/udp/239.77.0.252:5146
+CCTV4K-25P,http://113.100.72.131:8899/udp/239.77.0.194:5146
+CCTV4K-50P,http://113.100.72.131:8899/udp/239.77.0.174:5146
 TEST,#genre#
 爱上4K[3840*2160],http://live.cooltv.top/tv/aishang.php?id=as4k
 CCTV16-4K[3840*2160],http://live.cooltv.top/tv/aishang.php?id=cctv164k
