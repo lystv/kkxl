@@ -362,6 +362,7 @@ CEC国际教育,rtmp://play.cec-tv.com.cn/channel/cec-tv3
 CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
 无线新闻,P2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 PLTV,#genre#
+CCTV4K,http://angtv.cc/live/4k.php
 华数_1,http://49.235.110.121:9090/898/peda/zhhs.php?id=2
 华数_2,http://49.235.110.121:9090/898/peda/zhhs.php?id=3
 华数_3,http://49.235.110.121:9090/898/peda/zhhs.php?id=4
