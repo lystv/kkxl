@@ -590,6 +590,33 @@ CGTN西班牙语,http://39.136.18.86/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8#mitv://generationnexxxt.com:19806/e6c228aa225e4c1e8569523a17ba5168
 CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 CCTV16-4K,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240349_1/encoder/0/playlist.m3u8?CONTENTID=00000110240349_1
+CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8#http://live.gxrb.com.cn/tv/gxtvlive01/index.m3u8
+吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+黄河卫视,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+Now 新闻台,http://zeng0227.tk/xsj.php?id=now-news&proxy#mitv://generationnexxxt.com:19806/eba7374b4a7b4cd4919966b73ce97de9
+HOY资讯台,http://zeng0227.tk/xsj.php?id=hoy-info&proxy#http://feng163.com:9003/bysid/78#mitv://generationnexxxt.com:19806/b5b828b891614649bd1454de58a17f94
+HOYTV,http://zeng0227.tk/xsj.php?id=hoytv&proxy#http://r.jdshipin.com/ZKpTD#http://feng163.com:9003/bysid/77#mitv://generationnexxxt.com:19806/03b6be900ff14bb5aea73411491329d2
+ViuTV6,http://170.178.177.98:27347/livehttpplay?channel_id=20132#http://zeng0227.tk/xsj.php?id=viutv6&proxy#mitv://generationnexxxt.com:19806/5b2aed672ffe4bd0a650f9d95b0d88b2
+ViuTV,http://feng163.com:9000/bysid/99#http://r.jdshipin.com/vSJvl#mitv://generationnexxxt.com:19806/049b973d6628400fb445d0e31ce9316c
+J2,http://141.95.85.201:6666/livehttpplay?channel_id=20122&fbl=$GWXL#http://zeng0227.tk/xsj.php?id=j2&proxy#http://r.jdshipin.com/Nr5jq#mitv://generationnexxxt.com:19806/d625fbf0080b460fb569e90601d1fd96
+无线新闻台,http://170.178.177.98:27347/livehttpplay?channel_id=30024#http://170.178.177.98:27347/livehttpplay?channel_id=20123#http://r.jdshipin.com/CkuBd#mitv://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
+无线财经体育资讯,http://141.95.85.201:6666/livehttpplay?channel_id=30019&fbl=$GWXL#http://141.95.85.201:6666/livehttpplay?channel_id=30022&fbl=$GWXL#http://zeng0227.tk/xsj.php?id=tvb-finance&proxy#http://r.jdshipin.com/jUx8K
+翡翠台,http://zeng0227.tk/xsj.php?id=feicui&proxy#http://141.95.85.201:6666/livehttpplay?channel_id=20127&fbl=$GWXL#http://r.jdshipin.com/62WM7#http://r.jdshipin.com/n90gt
+TVB华丽台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8#http://r.jdshipin.com/thuYX
+明珠台,http://141.95.85.201:6666/livehttpplay?channel_id=30026&fbl=$GWXL#http://141.95.85.201:6666/livehttpplay?channel_id=20125&fbl=$GWXL#http://zeng0227.tk/gdyx.php?id=1351_4500#http://zeng0227.tk/xsj.php?id=pearl&proxy#http://r.jdshipin.com/ZQ4kN
+凤凰资讯台,http://113.117.74.59:8081/hls/36/index.m3u8#http://60.165.170.77:24333/hls/66/index.m3u8#http://113.117.74.24:8081/hls/36/index.m3u8#http://113.117.74.31:8081/hls/36/index.m3u8#http://r.jdshipin.com/0Rp07
+凤凰中文台,http://113.117.74.59:8081/hls/37/index.m3u8#http://60.165.170.77:24333/hls/65/index.m3u8#http://113.117.74.24:8081/hls/37/index.m3u8#http://r.jdshipin.com/cCCzW
+凤凰香港,http://113.117.74.59:8081/hls/38/index.m3u8#http://60.165.170.77:24333/hls/67/index.m3u8#http://113.117.74.24:8081/hls/38/index.m3u8#http://r.jdshipin.com/NfC0f
+
 CCTV5,http://live.aishang.ctlcdn.com/00000110240246_1/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV5+,http://live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV16,http://live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
