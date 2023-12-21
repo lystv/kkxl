@@ -5976,51 +5976,20 @@ CCTV15,http://223.95.111.98:5555/newlive/live/hls/15/live.m3u8
 顶级欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 北京组播新源,#genre#
-CCTV-1,http://111.13.111.242/000000001000PLTV/88888888/224/3221236219/1.m3u8?HlsProfileId=
-CCTV-2,http://111.13.111.242/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
-CCTV-4,http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
-CCTV-7,http://111.13.111.242/000000001000PLTV/88888888/224/3221235759/1.m3u8?HlsProfileId=
-CCTV-9,http://111.13.111.242/000000001000PLTV/88888888/224/3221235767/1.m3u8?HlsProfileId=
-CCTV-11,http://111.13.111.242/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=
-CCTV-12,http://111.13.111.242/000000001000PLTV/88888888/224/3221235735/1.m3u8?HlsProfileId=
-CCTV-13,http://111.13.111.242/000000001000PLTV/88888888/224/3221236187/1.m3u8?HlsProfileId=
-CCTV-14,http://111.13.111.242/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=
-CCTV-15,http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
-CCTV-17,http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId=
-超级综艺,http://111.13.111.242/000000001000PLTV/88888888/224/3221235747/1.m3u8?HlsProfileId=
-超级电影,http://111.13.111.242/000000001000PLTV/88888888/224/3221235755/1.m3u8?HlsProfileId=
-超级电视剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221235788/1.m3u8?HlsProfileId=
-炫舞未来,http://111.13.111.242/000000001000PLTV/88888888/224/3221235764/1.m3u8?HlsProfileId=
-潮妈辣婆,http://111.13.111.242/000000001000PLTV/88888888/224/3221236059/1.m3u8?HlsProfileId=
-农业致富,http://111.13.111.242/000000001000PLTV/88888888/224/3221236147/1.m3u8?HlsProfileId=
-精品纪录,http://111.13.111.242/000000001000PLTV/88888888/224/3221236204/1.m3u8?HlsProfileId=
-精品大剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221236205/1.m3u8?HlsProfileId=
-动作电影,http://111.13.111.242/000000001000PLTV/88888888/224/3221236207/1.m3u8?HlsProfileId=
-怡伴健康,http://111.13.111.242/000000001000PLTV/88888888/224/3221236209/1.m3u8?HlsProfileId=
-海外剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236211/1.m3u8?HlsProfileId=
-古装剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236213/1.m3u8?HlsProfileId=
-军事评论,http://111.13.111.242/000000001000PLTV/88888888/224/3221236210/1.m3u8?HlsProfileId=
-家庭剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236206/1.m3u8?HlsProfileId=
-军旅剧场,http://111.13.111.242/000000001000PLTV/88888888/224/3221236212/1.m3u8?HlsProfileId=
-中国功夫,http://111.13.111.242/000000001000PLTV/88888888/224/3221236214/1.m3u8?HlsProfileId=
-爱情喜剧,http://111.13.111.242/000000001000PLTV/88888888/224/3221236215/1.m3u8?HlsProfileId=
-武搏世界,http://111.13.111.242/000000001000PLTV/88888888/224/3221236216/1.m3u8?HlsProfileId=
-精品体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221236208/1.m3u8?HlsProfileId=
-超级体育,http://111.13.111.242/000000001000PLTV/88888888/224/3221235751/1.m3u8?HlsProfileId=
-北京国际频道,http://123.120.4.117:4022/udp/239.3.1.235:8000
-北京IPTV4K超清,http://123.120.4.117:4022/udp/239.3.1.249:8001
-北京IPTV萌宠TV,http://123.120.4.117:4022/udp/239.3.1.102:8001
-北京IPTV淘BABY,http://123.120.4.117:4022/udp/239.3.1.238:8001
-北京IPTV淘精彩,http://123.120.4.117:4022/udp/239.3.1.178:8001
-北京IPTV淘剧场,http://123.120.4.117:4022/udp/239.3.1.95:8001
-北京IPTV淘电影,http://123.120.4.117:4022/udp/239.3.1.250:8001
-北京IPTV淘娱乐,http://123.120.4.117:4022/udp/239.3.1.100:8001
-北京IPTV-淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
+北京国际频道,http://lay6.3322.org:4022/udp/239.3.1.235:8000
+北京IPTV4K超清,http://lay6.3322.org:4022/udp/239.3.1.249:8001
+北京IPTV萌宠TV,http://lay6.3322.org:4022/udp/239.3.1.102:8001
+北京IPTV淘BABY,http://lay6.3322.org:4022/udp/239.3.1.238:8001
+北京IPTV淘精彩,http://lay6.3322.org:4022/udp/239.3.1.178:8001
+北京IPTV淘剧场,http://lay6.3322.org:4022/udp/239.3.1.95:8001
+北京IPTV淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
+北京IPTV淘娱乐,http://lay6.3322.org:4022/udp/239.3.1.100:8001
+北京IPTV-淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 北京生活,http://49.235.110.121:9090/898/peda/bjtv.php?id=bjsh
-4K超清,http://www.youku.cf:4022/rtp/239.3.1.249:8001
+4K超清,http://lay6.3322.org:4022/udp/239.3.1.249:8001
 4K超清,http://webmail.axxe.top:4022/udp/239.3.1.249:8001
 4K超清,http://cn-north-1d.dnsfab.com:4022/udp/239.3.1.249:8001
-4K超清,http://beifeng.site:4000/rtp/239.3.1.249:8001
+4K超清,http://qnap.yjnhome.com:4000/udp/239.3.1.249:8001
 4K超清,http://111.196.130.165:4022/udp/239.3.1.249:8001
 北京卫视,http://49.235.110.121:9090/898/peda/bjtv.php?id=bjws
 北京文艺,http://49.235.110.121:9090/898/peda/bjtv.php?id=bjwy
@@ -6040,7 +6009,7 @@ CCTV-17,http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?Hl
 北京IPTV淘Baby,http://webmail.axxe.top:4022/udp/239.3.1.238:8001
 北京IPTV淘电影,http://111.196.130.165:4022/udp/239.3.1.250:8001
 北京IPTV淘电影,http://218.241.192.50:8808/udp/239.3.1.250:8001
-北京IPTV淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
+北京IPTV淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 北京IPTV淘电影,http://cn-north-1d.dnsfab.com:4022/udp/239.3.1.250:8001
 北京IPTV淘电影,http://cn-north-1d.dnsfab.com:4022/udp/239.3.1.250:8001
 北京IPTV淘电影,http://webmail.axxe.top:4022/udp/239.3.1.250:8001
@@ -6058,198 +6027,218 @@ CCTV-17,http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?Hl
 北京IPTV淘娱乐,http://218.241.192.50:8808/udp/239.3.1.100:8001
 北京IPTV淘娱乐,http://cn-north-1d.dnsfab.com:4022/udp/239.3.1.100:8001
 北京IPTV淘娱乐,http://webmail.axxe.top:4022/udp/239.3.1.100:8001
-淘剧场,http://www.youku.cf:4022/rtp/239.3.1.95:8001
-淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
-淘娱乐,http://www.youku.cf:4022/rtp/239.3.1.100:8001
-淘BABY,http://www.youku.cf:4022/rtp/239.3.1.238:8001
-4K超清,http://beifeng.site:4000/udp/239.3.1.249:8001
-星影,http://www.youku.cf:4022/rtp/239.3.1.94:4120
-动作影院,http://www.youku.cf:4022/rtp/239.3.1.92:4120
-光影,http://www.youku.cf:4022/rtp/239.3.1.84:4120
-喜剧影院,http://www.youku.cf:4022/rtp/239.3.1.91:4120
-家庭影院,http://www.youku.cf:4022/rtp/239.3.1.93:4120
-精选,http://www.youku.cf:4022/rtp/239.3.1.74:4120
-经 典,http://www.youku.cf:4022/rtp/239.3.1.195:9024
-萌宠TV,http://www.youku.cf:4022/rtp/239.3.1.102:8001
-CCTV1,http://www.youku.cf:4022/rtp/239.3.1.129:8008
-CCTV2,http://www.youku.cf:4022/rtp/239.3.1.60:8084
-CCTV3,http://www.youku.cf:4022/rtp/239.3.1.172:8001
-CCTV4,http://www.youku.cf:4022/rtp/239.3.1.105:8092
-CCTV5,http://www.youku.cf:4022/rtp/239.3.1.173:8001
-CCTV5+,http://www.youku.cf:4022/rtp/239.3.1.130:8004
-CCTV6,http://www.youku.cf:4022/rtp/239.3.1.174:8001
-CCTV7,http://www.youku.cf:4022/rtp/239.3.1.61:8104
-CCTV8,http://www.youku.cf:4022/rtp/239.3.1.175:8001
-CCTV9,http://www.youku.cf:4022/rtp/239.3.1.62:8112
-CCTV10,http://www.youku.cf:4022/rtp/239.3.1.63:8116
-CCTV11,http://www.youku.cf:4022/rtp/239.3.1.152:8120
-CCTV12,http://www.youku.cf:4022/rtp/239.3.1.64:8124
-CCTV13,http://www.youku.cf:4022/rtp/239.3.1.124:8128
-CCTV14,http://www.youku.cf:4022/rtp/239.3.1.65:8132
-CCTV15,http://www.youku.cf:4022/rtp/239.3.1.153:8136
-CCTV17,http://www.youku.cf:4022/rtp/239.3.1.151:8144
-北京卫视,http://www.youku.cf:4022/rtp/239.3.1.241:8000
-湖南卫视,http://www.youku.cf:4022/rtp/239.3.1.132:8012
-东方卫视,http://www.youku.cf:4022/rtp/239.3.1.136:8032
-浙江卫视,http://www.youku.cf:4022/rtp/239.3.1.137:8036
-江苏卫视,http://www.youku.cf:4022/rtp/239.3.1.135:8028
-深圳卫视,http://www.youku.cf:4022/rtp/239.3.1.134:8020
-广东卫视,http://www.youku.cf:4022/rtp/239.3.1.142:8048
-安徽卫视,http://www.youku.cf:4022/rtp/239.3.1.211:8064
-天津卫视,http://www.youku.cf:4022/rtp/239.3.1.141:1234
-重庆卫视,http://www.youku.cf:4022/rtp/239.3.1.122:8160
-山东卫视,http://www.youku.cf:4022/rtp/239.3.1.209:8052
-黑龙江卫视,http://www.youku.cf:4022/rtp/239.3.1.133:8016
-河北卫视,http://www.youku.cf:4022/rtp/239.3.1.148:8072
-辽宁卫视,http://www.youku.cf:4022/rtp/239.3.1.210:8056
-湖北卫视,http://www.youku.cf:4022/rtp/239.3.1.138:8044
-吉林卫视,http://www.youku.cf:4022/rtp/239.3.1.240:8172
-贵州卫视,http://www.youku.cf:4022/rtp/239.3.1.149:8076
-东南卫视,http://www.youku.cf:4022/rtp/239.3.1.156:8148
-江西卫视,http://www.youku.cf:4022/rtp/239.3.1.123:8164
-淘电影,http://beifeng.site:4000/udp/239.3.1.250:8001
+淘剧场,http://lay6.3322.org:4022/udp/239.3.1.95:8001
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
+淘娱乐,http://lay6.3322.org:4022/udp/239.3.1.100:8001
+淘BABY,http://lay6.3322.org:4022/udp/239.3.1.238:8001
+4K超清,http://lay6.3322.org:4022/udp/239.3.1.249:8001
+星影,http://lay6.3322.org:4022/udp/239.3.1.94:4120
+动作影院,http://lay6.3322.org:4022/udp/239.3.1.92:4120
+光影,http://lay6.3322.org:4022/udp/239.3.1.84:4120
+喜剧影院,http://lay6.3322.org:4022/udp/239.3.1.91:4120
+家庭影院,http://lay6.3322.org:4022/udp/239.3.1.93:4120
+精选,http://lay6.3322.org:4022/udp/239.3.1.74:4120
+经 典,http://lay6.3322.org:4022/udp/239.3.1.195:9024
+萌宠TV,http://lay6.3322.org:4022/udp/239.3.1.102:8001
+CCTV1,http://lay6.3322.org:4022/udp/239.3.1.129:8008
+CCTV2,http://lay6.3322.org:4022/udp/239.3.1.60:8084
+CCTV3,http://lay6.3322.org:4022/udp/239.3.1.172:8001
+CCTV4,http://lay6.3322.org:4022/udp/239.3.1.105:8092
+CCTV-4中文国际,http://123.117.52.226:8000/rtp/239.3.1.105:8092
+CCTV-4中文国际 欧洲,http://webmail.axxe.top:4022/udp/239.3.1.213:4220
+CCTV-4中文国际 美洲,http://qnap.yjnhome.com:4000/udp/239.3.1.214:4220
+CCTV-4中文国际 欧洲,http://webmail.axxe.top:4022/udp/239.3.1.213:4220
+CCTV-4中文国际 美洲,http://qnap.yjnhome.com:4000/udp/239.3.1.214:4220
+CCTV-4中文国际 欧洲,http://123.117.52.226:8000/rtp/239.3.1.213:4220
+CCTV-4中文国际 美洲,http://123.117.52.226:8000/rtp/239.3.1.214:4220
+CCTV5,http://lay6.3322.org:4022/udp/239.3.1.173:8001
+CCTV5+,http://lay6.3322.org:4022/udp/239.3.1.130:8004
+CCTV6,http://lay6.3322.org:4022/udp/239.3.1.174:8001
+CCTV7,http://lay6.3322.org:4022/udp/239.3.1.61:8104
+CCTV8,http://lay6.3322.org:4022/udp/239.3.1.175:8001
+CCTV9,http://lay6.3322.org:4022/udp/239.3.1.62:8112
+CCTV10,http://lay6.3322.org:4022/udp/239.3.1.63:8116
+CCTV11,http://lay6.3322.org:4022/udp/239.3.1.152:8120
+CCTV12,http://lay6.3322.org:4022/udp/239.3.1.64:8124
+CCTV13,http://lay6.3322.org:4022/udp/239.3.1.124:8128
+CCTV14,http://lay6.3322.org:4022/udp/239.3.1.65:8132
+CCTV15,http://lay6.3322.org:4022/udp/239.3.1.153:8136
+CCTV17,http://lay6.3322.org:4022/udp/239.3.1.151:8144
+北京卫视,http://lay6.3322.org:4022/udp/239.3.1.241:8000
+湖南卫视,http://lay6.3322.org:4022/udp/239.3.1.132:8012
+东方卫视,http://lay6.3322.org:4022/udp/239.3.1.136:8032
+浙江卫视,http://lay6.3322.org:4022/udp/239.3.1.137:8036
+江苏卫视,http://lay6.3322.org:4022/udp/239.3.1.135:8028
+深圳卫视,http://lay6.3322.org:4022/udp/239.3.1.134:8020
+广东卫视,http://lay6.3322.org:4022/udp/239.3.1.142:8048
+安徽卫视,http://lay6.3322.org:4022/udp/239.3.1.211:8064
+天津卫视,http://lay6.3322.org:4022/udp/239.3.1.141:1234
+重庆卫视,http://lay6.3322.org:4022/udp/239.3.1.122:8160
+山东卫视,http://lay6.3322.org:4022/udp/239.3.1.209:8052
+黑龙江卫视,http://lay6.3322.org:4022/udp/239.3.1.133:8016
+河北卫视,http://lay6.3322.org:4022/udp/239.3.1.148:8072
+辽宁卫视,http://lay6.3322.org:4022/udp/239.3.1.210:8056
+湖北卫视,http://lay6.3322.org:4022/udp/239.3.1.138:8044
+吉林卫视,http://lay6.3322.org:4022/udp/239.3.1.240:8172
+贵州卫视,http://lay6.3322.org:4022/udp/239.3.1.149:8076
+东南卫视,http://lay6.3322.org:4022/udp/239.3.1.156:8148
+江西卫视,http://lay6.3322.org:4022/udp/239.3.1.123:8164
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 淘电影,http://happy2015.synology.me:4000/udp/239.3.1.250:8001
 淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
 淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 淘电影,http://router.tonyliangli.cn:4022/udp/239.3.1.250:8001
-淘电影,http://beifeng.site:4000/udp/239.3.1.250:8001
-淘剧场,http://beifeng.site:4000/udp/239.3.1.95:8001
-淘娱乐,http://beifeng.site:4000/udp/239.3.1.100:8001
-淘BABY,http://beifeng.site:4000/udp/239.3.1.238:8001
-4K超清[3840*2160],http://beifeng.site:4000/udp/239.3.1.249:8001
-淘电影,http://beifeng.site:4000/udp/239.3.1.250:8001
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
+淘剧场,http://lay6.3322.org:4022/udp/239.3.1.95:8001
+淘娱乐,http://lay6.3322.org:4022/udp/239.3.1.100:8001
+淘BABY,http://lay6.3322.org:4022/udp/239.3.1.238:8001
+4K超清[3840*2160],http://lay6.3322.org:4022/udp/239.3.1.249:8001
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 淘电影,http://happy2015.synology.me:4000/udp/239.3.1.250:8001
-淘剧场,http://www.youku.cf:4022/rtp/239.3.1.95:8001
-淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
-淘娱乐,http://www.youku.cf:4022/rtp/239.3.1.100:8001
-淘BABY,http://www.youku.cf:4022/rtp/239.3.1.238:8001
+淘剧场,http://lay6.3322.org:4022/udp/239.3.1.95:8001
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
+淘娱乐,http://lay6.3322.org:4022/udp/239.3.1.100:8001
+淘BABY,http://lay6.3322.org:4022/udp/239.3.1.238:8001
 IPTV淘剧场,http://222.128.98.255:4000/rtp/239.3.1.95:8001
 IPTV淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
 IPTV淘娱乐,http://222.128.98.255:4000/rtp/239.3.1.100:8001
 IPTV淘BABY,http://222.128.98.255:4000/rtp/239.3.1.238:8001
-星影,http://www.youku.cf:4022/rtp/239.3.1.94:4120
-动作影院,http://www.youku.cf:4022/rtp/239.3.1.92:4120
-光影,http://www.youku.cf:4022/rtp/239.3.1.84:4120
-喜剧影院,http://www.youku.cf:4022/rtp/239.3.1.91:4120
-家庭影院,http://www.youku.cf:4022/rtp/239.3.1.93:4120
-精选,http://www.youku.cf:4022/rtp/239.3.1.74:4120
-经 典,http://www.youku.cf:4022/rtp/239.3.1.195:9024
-萌宠TV,http://www.youku.cf:4022/rtp/239.3.1.102:8001
-CCTV1,http://www.youku.cf:4022/rtp/239.3.1.129:8008
-CCTV2,http://www.youku.cf:4022/rtp/239.3.1.60:8084
-CCTV3,http://www.youku.cf:4022/rtp/239.3.1.172:8001
-CCTV4,http://www.youku.cf:4022/rtp/239.3.1.105:8092
-CCTV5,http://www.youku.cf:4022/rtp/239.3.1.173:8001
-CCTV5+,http://www.youku.cf:4022/rtp/239.3.1.130:8004
-CCTV6,http://www.youku.cf:4022/rtp/239.3.1.174:8001
-CCTV7,http://www.youku.cf:4022/rtp/239.3.1.61:8104
-CCTV8,http://www.youku.cf:4022/rtp/239.3.1.175:8001
-CCTV9,http://www.youku.cf:4022/rtp/239.3.1.62:8112
-CCTV10,http://www.youku.cf:4022/rtp/239.3.1.63:8116
-CCTV11,http://www.youku.cf:4022/rtp/239.3.1.152:8120
-CCTV12,http://www.youku.cf:4022/rtp/239.3.1.64:8124
-CCTV13,http://www.youku.cf:4022/rtp/239.3.1.124:8128
-CCTV14,http://www.youku.cf:4022/rtp/239.3.1.65:8132
-CCTV15,http://www.youku.cf:4022/rtp/239.3.1.153:8136
-CCTV17,http://www.youku.cf:4022/rtp/239.3.1.151:8144
-北京卫视,http://www.youku.cf:4022/rtp/239.3.1.241:8000
-湖南卫视,http://www.youku.cf:4022/rtp/239.3.1.132:8012
-东方卫视,http://www.youku.cf:4022/rtp/239.3.1.136:8032
-浙江卫视,http://www.youku.cf:4022/rtp/239.3.1.137:8036
-江苏卫视,http://www.youku.cf:4022/rtp/239.3.1.135:8028
-深圳卫视,http://www.youku.cf:4022/rtp/239.3.1.134:8020
-广东卫视,http://www.youku.cf:4022/rtp/239.3.1.142:8048
-安徽卫视,http://www.youku.cf:4022/rtp/239.3.1.211:8064
-天津卫视,http://www.youku.cf:4022/rtp/239.3.1.141:1234
-重庆卫视,http://www.youku.cf:4022/rtp/239.3.1.122:8160
-山东卫视,http://www.youku.cf:4022/rtp/239.3.1.209:8052
-黑龙江卫视,http://www.youku.cf:4022/rtp/239.3.1.133:8016
-河北卫视,http://www.youku.cf:4022/rtp/239.3.1.148:8072
-辽宁卫视,http://www.youku.cf:4022/rtp/239.3.1.210:8056
-湖北卫视,http://www.youku.cf:4022/rtp/239.3.1.138:8044
-吉林卫视,http://www.youku.cf:4022/rtp/239.3.1.240:8172
-贵州卫视,http://www.youku.cf:4022/rtp/239.3.1.149:8076
-东南卫视,http://www.youku.cf:4022/rtp/239.3.1.156:8148
-江西卫视,http://www.youku.cf:4022/rtp/239.3.1.123:8164
-淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
+星影,http://lay6.3322.org:4022/udp/239.3.1.94:4120
+动作影院,http://lay6.3322.org:4022/udp/239.3.1.92:4120
+光影,http://lay6.3322.org:4022/udp/239.3.1.84:4120
+喜剧影院,http://lay6.3322.org:4022/udp/239.3.1.91:4120
+家庭影院,http://lay6.3322.org:4022/udp/239.3.1.93:4120
+精选,http://lay6.3322.org:4022/udp/239.3.1.74:4120
+经 典,http://lay6.3322.org:4022/udp/239.3.1.195:9024
+萌宠TV,http://lay6.3322.org:4022/udp/239.3.1.102:8001
+CCTV1,http://lay6.3322.org:4022/udp/239.3.1.129:8008
+CCTV2,http://lay6.3322.org:4022/udp/239.3.1.60:8084
+CCTV3,http://lay6.3322.org:4022/udp/239.3.1.172:8001
+CCTV4,http://lay6.3322.org:4022/udp/239.3.1.105:8092
+CCTV-4中文国际,http://123.117.52.226:8000/rtp/239.3.1.105:8092
+CCTV-4中文国际 欧洲,http://123.117.52.226:8000/rtp/239.3.1.213:4220
+CCTV-4中文国际 美洲,http://123.117.52.226:8000/rtp/239.3.1.214:4220
+CCTV5,http://lay6.3322.org:4022/udp/239.3.1.173:8001
+CCTV5+,http://lay6.3322.org:4022/udp/239.3.1.130:8004
+CCTV6,http://lay6.3322.org:4022/udp/239.3.1.174:8001
+CCTV7,http://lay6.3322.org:4022/udp/239.3.1.61:8104
+CCTV8,http://lay6.3322.org:4022/udp/239.3.1.175:8001
+CCTV9,http://lay6.3322.org:4022/udp/239.3.1.62:8112
+CCTV10,http://lay6.3322.org:4022/udp/239.3.1.63:8116
+CCTV11,http://lay6.3322.org:4022/udp/239.3.1.152:8120
+CCTV12,http://lay6.3322.org:4022/udp/239.3.1.64:8124
+CCTV13,http://lay6.3322.org:4022/udp/239.3.1.124:8128
+CCTV14,http://lay6.3322.org:4022/udp/239.3.1.65:8132
+CCTV15,http://lay6.3322.org:4022/udp/239.3.1.153:8136
+CCTV-16奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV17,http://lay6.3322.org:4022/udp/239.3.1.151:8144
+北京卫视,http://lay6.3322.org:4022/udp/239.3.1.241:8000
+湖南卫视,http://lay6.3322.org:4022/udp/239.3.1.132:8012
+东方卫视,http://lay6.3322.org:4022/udp/239.3.1.136:8032
+浙江卫视,http://lay6.3322.org:4022/udp/239.3.1.137:8036
+江苏卫视,http://lay6.3322.org:4022/udp/239.3.1.135:8028
+深圳卫视,http://lay6.3322.org:4022/udp/239.3.1.134:8020
+广东卫视,http://lay6.3322.org:4022/udp/239.3.1.142:8048
+安徽卫视,http://lay6.3322.org:4022/udp/239.3.1.211:8064
+天津卫视,http://lay6.3322.org:4022/udp/239.3.1.141:1234
+重庆卫视,http://lay6.3322.org:4022/udp/239.3.1.122:8160
+山东卫视,http://lay6.3322.org:4022/udp/239.3.1.209:8052
+黑龙江卫视,http://lay6.3322.org:4022/udp/239.3.1.133:8016
+河北卫视,http://lay6.3322.org:4022/udp/239.3.1.148:8072
+辽宁卫视,http://lay6.3322.org:4022/udp/239.3.1.210:8056
+湖北卫视,http://lay6.3322.org:4022/udp/239.3.1.138:8044
+吉林卫视,http://lay6.3322.org:4022/udp/239.3.1.240:8172
+贵州卫视,http://lay6.3322.org:4022/udp/239.3.1.149:8076
+东南卫视,http://lay6.3322.org:4022/udp/239.3.1.156:8148
+江西卫视,http://lay6.3322.org:4022/udp/239.3.1.123:8164
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 淘电影,http://happy2015.synology.me:4000/udp/239.3.1.250:8001
 淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
 淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 淘电影,http://router.tonyliangli.cn:4022/udp/239.3.1.250:8001
-淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
-淘剧场,http://www.youku.cf:4022/rtp/239.3.1.95:8001
-淘娱乐,http://www.youku.cf:4022/rtp/239.3.1.100:8001
-淘BABY,http://www.youku.cf:4022/rtp/239.3.1.238:8001
-4K超清[3840*2160],http://www.youku.cf:4022/rtp/239.3.1.249:8001
-淘电影,http://www.youku.cf:4022/rtp/239.3.1.250:8001
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
+淘剧场,http://lay6.3322.org:4022/udp/239.3.1.95:8001
+淘娱乐,http://lay6.3322.org:4022/udp/239.3.1.100:8001
+淘BABY,http://lay6.3322.org:4022/udp/239.3.1.238:8001
+4K超清[3840*2160],http://lay6.3322.org:4022/udp/239.3.1.249:8001
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 淘电影,http://happy2015.synology.me:4000/udp/239.3.1.250:8001
-淘剧场,http://beifeng.site:4000/rtp/239.3.1.95:8001
-淘电影,http://beifeng.site:4000/rtp/239.3.1.250:8001
-淘娱乐,http://beifeng.site:4000/rtp/239.3.1.100:8001
-淘BABY,http://beifeng.site:4000/rtp/239.3.1.238:8001
-4K超清,http://beifeng.site:4000/udp/239.3.1.249:8001
-星影,http://beifeng.site:4000/rtp/239.3.1.94:4120
-动作影院,http://beifeng.site:4000/rtp/239.3.1.92:4120
-光影,http://beifeng.site:4000/rtp/239.3.1.84:4120
-喜剧影院,http://beifeng.site:4000/rtp/239.3.1.91:4120
-家庭影院,http://beifeng.site:4000/rtp/239.3.1.93:4120
-精选,http://beifeng.site:4000/rtp/239.3.1.74:4120
-经 典,http://beifeng.site:4000/rtp/239.3.1.195:9024
-萌宠TV,http://beifeng.site:4000/rtp/239.3.1.102:8001
-CCTV1 ,http://beifeng.site:4000/rtp/239.3.1.129:8008
-CCTV2 ,http://beifeng.site:4000/rtp/239.3.1.60:8084
-CCTV3 ,http://beifeng.site:4000/rtp/239.3.1.172:8001
-CCTV4 ,http://beifeng.site:4000/rtp/239.3.1.105:8092
-CCTV5 ,http://beifeng.site:4000/rtp/239.3.1.173:8001
-CCTV5+,http://beifeng.site:4000/rtp/239.3.1.130:8004
-CCTV6 ,http://beifeng.site:4000/rtp/239.3.1.174:8001
-CCTV7 ,http://beifeng.site:4000/rtp/239.3.1.61:8104
-CCTV8 ,http://beifeng.site:4000/rtp/239.3.1.175:8001
-CCTV9 ,http://beifeng.site:4000/rtp/239.3.1.62:8112
-CCTV10,http://beifeng.site:4000/rtp/239.3.1.63:8116
-CCTV11 ,http://beifeng.site:4000/rtp/239.3.1.152:8120
-CCTV12 ,http://beifeng.site:4000/rtp/239.3.1.64:8124
-CCTV13 ,http://beifeng.site:4000/rtp/239.3.1.124:8128
-CCTV14 ,http://beifeng.site:4000/rtp/239.3.1.65:8132
-CCTV15 ,http://beifeng.site:4000/rtp/239.3.1.153:8136
-CCTV17 ,http://beifeng.site:4000/rtp/239.3.1.151:8144
-北京卫视,http://beifeng.site:4000/rtp/239.3.1.241:8000
-湖南卫视,http://beifeng.site:4000/rtp/239.3.1.132:8012
-东方卫视,http://beifeng.site:4000/rtp/239.3.1.136:8032
-浙江卫视,http://beifeng.site:4000/rtp/239.3.1.137:8036
-江苏卫视,http://beifeng.site:4000/rtp/239.3.1.135:8028
-深圳卫视,http://beifeng.site:4000/rtp/239.3.1.134:8020
-广东卫视,http://beifeng.site:4000/rtp/239.3.1.142:8048
-安徽卫视,http://beifeng.site:4000/rtp/239.3.1.211:8064
-天津卫视,http://beifeng.site:4000/rtp/239.3.1.141:1234
-重庆卫视,http://beifeng.site:4000/rtp/239.3.1.122:8160
-山东卫视,http://beifeng.site:4000/rtp/239.3.1.209:8052
-黑龙江卫视,http://beifeng.site:4000/rtp/239.3.1.133:8016
-河北卫视,http://beifeng.site:4000/rtp/239.3.1.148:8072
-辽宁卫视,http://beifeng.site:4000/rtp/239.3.1.210:8056
-湖北卫视,http://beifeng.site:4000/rtp/239.3.1.138:8044
-吉林卫视,http://beifeng.site:4000/rtp/239.3.1.240:8172
-贵州卫视,http://beifeng.site:4000/rtp/239.3.1.149:8076
-东南卫视,http://beifeng.site:4000/rtp/239.3.1.156:8148
-江西卫视,http://beifeng.site:4000/rtp/239.3.1.123:8164
-淘电影,http://beifeng.site:4000/udp/239.3.1.250:8001
+淘剧场,http://qnap.yjnhome.com:4000/udp/239.3.1.95:8001
+淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
+淘娱乐,http://qnap.yjnhome.com:4000/udp/239.3.1.100:8001
+淘BABY,http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
+4K超清,http://lay6.3322.org:4022/udp/239.3.1.249:8001
+星影,http://qnap.yjnhome.com:4000/udp/239.3.1.94:4120
+动作影院,http://qnap.yjnhome.com:4000/udp/239.3.1.92:4120
+光影,http://qnap.yjnhome.com:4000/udp/239.3.1.84:4120
+喜剧影院,http://qnap.yjnhome.com:4000/udp/239.3.1.91:4120
+家庭影院,http://qnap.yjnhome.com:4000/udp/239.3.1.93:4120
+精选,http://qnap.yjnhome.com:4000/udp/239.3.1.74:4120
+经 典,http://qnap.yjnhome.com:4000/udp/239.3.1.195:9024
+萌宠TV,http://qnap.yjnhome.com:4000/udp/239.3.1.102:8001
+CCTV1 ,http://qnap.yjnhome.com:4000/udp/239.3.1.129:8008
+CCTV2 ,http://qnap.yjnhome.com:4000/udp/239.3.1.60:8084
+CCTV3 ,http://qnap.yjnhome.com:4000/udp/239.3.1.172:8001
+CCTV4 ,http://qnap.yjnhome.com:4000/udp/239.3.1.105:8092
+CCTV5 ,http://qnap.yjnhome.com:4000/udp/239.3.1.173:8001
+CCTV5+,http://qnap.yjnhome.com:4000/udp/239.3.1.130:8004
+CCTV6 ,http://qnap.yjnhome.com:4000/udp/239.3.1.174:8001
+CCTV7 ,http://qnap.yjnhome.com:4000/udp/239.3.1.61:8104
+CCTV8 ,http://qnap.yjnhome.com:4000/udp/239.3.1.175:8001
+CCTV9 ,http://qnap.yjnhome.com:4000/udp/239.3.1.62:8112
+CCTV10,http://qnap.yjnhome.com:4000/udp/239.3.1.63:8116
+CCTV11 ,http://qnap.yjnhome.com:4000/udp/239.3.1.152:8120
+CCTV12 ,http://qnap.yjnhome.com:4000/udp/239.3.1.64:8124
+CCTV13 ,http://qnap.yjnhome.com:4000/udp/239.3.1.124:8128
+CCTV14 ,http://qnap.yjnhome.com:4000/udp/239.3.1.65:8132
+CCTV15 ,http://qnap.yjnhome.com:4000/udp/239.3.1.153:8136
+CCTV17 ,http://qnap.yjnhome.com:4000/udp/239.3.1.151:8144
+北京卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.241:8000
+湖南卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.132:8012
+东方卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.136:8032
+浙江卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.137:8036
+江苏卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.135:8028
+深圳卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.134:8020
+广东卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.142:8048
+安徽卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.211:8064
+天津卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.141:1234
+重庆卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.122:8160
+山东卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.209:8052
+黑龙江卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.133:8016
+河北卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.148:8072
+辽宁卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.210:8056
+湖北卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.138:8044
+吉林卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.240:8172
+贵州卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.149:8076
+东南卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.156:8148
+江西卫视,http://qnap.yjnhome.com:4000/udp/239.3.1.123:8164
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 淘电影,http://happy2015.synology.me:4000/udp/239.3.1.250:8001
 淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
 淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 淘电影,http://router.tonyliangli.cn:4022/udp/239.3.1.250:8001
-淘电影,http://beifeng.site:4000/udp/239.3.1.250:8001
-淘剧场,http://beifeng.site:4000/udp/239.3.1.95:8001
-淘娱乐,http://beifeng.site:4000/udp/239.3.1.100:8001
-淘BABY,http://beifeng.site:4000/udp/239.3.1.238:8001
-4K超清[3840*2160],http://beifeng.site:4000/udp/239.3.1.249:8001
-淘电影,http://beifeng.site:4000/udp/239.3.1.250:8001
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
+淘剧场,http://lay6.3322.org:4022/udp/239.3.1.95:8001
+淘娱乐,http://lay6.3322.org:4022/udp/239.3.1.100:8001
+淘BABY,http://lay6.3322.org:4022/udp/239.3.1.238:8001
+4K超清[3840*2160],http://lay6.3322.org:4022/udp/239.3.1.249:8001
+淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
 淘电影,http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 淘电影,http://happy2015.synology.me:4000/udp/239.3.1.250:8001
+辽宁都市,http://175.147.84.36:8888/rtp/232.0.0.154:1234
+辽宁影视,http://175.147.84.36:8888/rtp/232.0.0.25:1234
+辽宁体育,http://175.147.84.36:8888/rtp/232.0.0.164:1234
+辽宁生活,http://175.147.84.36:8888/rtp/232.0.0.150:1234
+辽宁北方,http://175.147.84.36:8888/rtp/232.0.0.151:1234
+辽宁公共,http://175.147.84.36:8888/rtp/232.0.0.168:1234
+辽宁经济,http://175.147.84.36:8888/rtp/232.0.0.156:1234
+辽宁青少,http://175.147.84.36:8888/rtp/232.0.0.241:1234
+宜佳购物,http://175.147.84.36:8888/rtp/232.0.0.30:1234
 移动组播,#genre#
 太极养生,http://223.87.160.11:55555/udp/239.10.0.135:5140
 CCTV1,http://223.87.160.11:55555/udp/239.11.0.65:5140
