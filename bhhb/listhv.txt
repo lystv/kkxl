@@ -5947,6 +5947,50 @@ CGTN-西班牙语,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240367_1/
 CHC高清电影,http://223.244.13.63/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC家庭影院,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC动作电影,http://223.244.13.72/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+精选,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8?CONTENTID=00000110240275_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+喜剧,http://223.244.13.80/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8?CONTENTID=00000110240276_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+动作,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8?CONTENTID=00000110240277_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+家庭,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8?CONTENTID=00000110240278_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+星影,http://223.244.13.80/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8?CONTENTID=00000110240279_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+武侠,http://223.244.13.64/live.aishang.ctlcdn.com/00000110240308_1/encoder/0/playlist.m3u8?CONTENTID=00000110240308_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+足球,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240001_1/encoder/0/playlist.m3u8?CONTENTID=00000110240001_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+美妆,http://223.244.13.80/live.aishang.ctlcdn.com/00000110240310_1/encoder/0/playlist.m3u8?CONTENTID=00000110240310_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+军事,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240342_1/encoder/0/playlist.m3u8?CONTENTID=00000110240342_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+武术,http://223.244.13.72/live.aishang.ctlcdn.com/00000110240312_1/encoder/0/playlist.m3u8?CONTENTID=00000110240312_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+国学,http://223.244.13.80/live.aishang.ctlcdn.com/00000110240332_1/encoder/0/playlist.m3u8?CONTENTID=00000110240332_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+戏曲,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240333_1/encoder/0/playlist.m3u8?CONTENTID=00000110240333_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+早教,http://223.244.13.64/live.aishang.ctlcdn.com/00000110240334_1/encoder/0/playlist.m3u8?CONTENTID=00000110240334_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+动画,http://223.244.13.64/live.aishang.ctlcdn.com/00000110240335_1/encoder/0/playlist.m3u8?CONTENTID=00000110240335_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+热门,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240336_1/encoder/0/playlist.m3u8?CONTENTID=00000110240336_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+军旅,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240337_1/encoder/0/playlist.m3u8?CONTENTID=00000110240337_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+古装,http://223.244.13.64/live.aishang.ctlcdn.com/00000110240338_1/encoder/0/playlist.m3u8?CONTENTID=00000110240338_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+音乐,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240339_1/encoder/0/playlist.m3u8?CONTENTID=00000110240339_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+课堂,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240340_1/encoder/0/playlist.m3u8?CONTENTID=00000110240340_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+探索,http://223.244.13.63/live.aishang.ctlcdn.com/00000110240341_1/encoder/0/playlist.m3u8?CONTENTID=00000110240341_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+鉴赏,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240342_1/encoder/0/playlist.m3u8?CONTENTID=00000110240342_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+光影,http://223.244.13.80/live.aishang.ctlcdn.com/00000110240343_1/encoder/0/playlist.m3u8?CONTENTID=00000110240343_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+台球,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240344_1/encoder/0/playlist.m3u8?CONTENTID=00000110240344_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+味道,http://223.244.13.80/live.aishang.ctlcdn.com/00000110240345_1/encoder/0/playlist.m3u8?CONTENTID=00000110240345_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+高网,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240346_1/encoder/0/playlist.m3u8?CONTENTID=00000110240346_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+地理,http://223.244.13.72/live.aishang.ctlcdn.com/00000110240347_1/encoder/0/playlist.m3u8?CONTENTID=00000110240347_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+科学,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240348_1/encoder/0/playlist.m3u8?CONTENTID=00000110240348_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+爱尚,http://223.244.13.80/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+动作影院,http://223.244.13.63/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8?CONTENTID=00000110240277_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+武侠剧场,http://223.244.13.80/live.aishang.ctlcdn.com/00000110240308_1/encoder/0/playlist.m3u8?CONTENTID=00000110240308_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+喜剧影院,http://223.244.13.63/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8?CONTENTID=00000110240276_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV3+,http://223.244.13.72/live.aishang.ctlcdn.com/00000110240093_1/encoder/0/playlist.m3u8?CONTENTID=00000110240093_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV5+,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240094_1/encoder/0/playlist.m3u8?CONTENTID=00000110240094_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV6+,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8?CONTENTID=00000110240007_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV8+,http://223.244.13.72/live.aishang.ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8?CONTENTID=00000110240125_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV谍战,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8?CONTENTID=00000110240003_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV相声,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8?CONTENTID=00000110240006_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV剧场,http://223.244.13.64/live.aishang.ctlcdn.com/00000110240089_1/encoder/0/playlist.m3u8?CONTENTID=00000110240089_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV经典,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240090_1/encoder/0/playlist.m3u8?CONTENTID=00000110240090_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV时尚,http://223.244.13.63/live.aishang.ctlcdn.com/00000110240091_1/encoder/0/playlist.m3u8?CONTENTID=00000110240091_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV少儿,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240092_1/encoder/0/playlist.m3u8?CONTENTID=00000110240092_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV野外,http://223.244.13.62/live.aishang.ctlcdn.com/00000110240095_1/encoder/0/playlist.m3u8?CONTENTID=00000110240095_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV法治,http://223.244.13.80/live.aishang.ctlcdn.com/00000110240096_1/encoder/0/playlist.m3u8?CONTENTID=00000110240096_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+IPTV指南,http://223.244.13.71/live.aishang.ctlcdn.com/00000110240225_1/encoder/0/playlist.m3u8?CONTENTID=00000110240225_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV-1综合,http://live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV-2财经,http://live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV-3综艺,http://live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -8622,6 +8666,8 @@ TJBSBS,http://1.245.74.5:1935/live/tv/.m3u8
 MBC HD,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 TURKUVAZ TV,http://54.38.222.70:2020/anka-icin-test/fhoPny6SRC/3685
 广播,#genre#
+郴州综合广播 FM99.2[0*0],http://ls.qingting.fm/live/76765.m3u8
+郴州音乐交通广播 FM102.8[0*0],http://ls.qingting.fm/live/86747.m3u8
 广东新闻广播,http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广东股市广播,http://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8
 广东文体广播,http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
@@ -8768,6 +8814,254 @@ Big B Radio - 韩语流行,http://kpop.bigbradio.net/s
 Big B Radio - 日语流行,http://jpop.bigbradio.net/s
 Big B Radio - 亚洲流行,http://apop.bigbradio.net/s
 Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
+楚天音乐广播 FM105.8 (Opt-1)[0*0],http://ls.qingting.fm/live/1289.m3u8
+楚天交通广播 FM92.7[0*0],http://ls.qingting.fm/live/1291.m3u8
+荆门交通音乐频率 FM99.3 (Opt-2)[0*0],http://ls.qingting.fm/live/60808.m3u8
+襄阳交通广播 FM89.0 (Opt-1)[0*0],http://ls.qingting.fm/live/1307.m3u8
+襄阳交通广播 FM89.0 (Opt-2)[0*0],http://ls.qingting.fm/live/1308.m3u8
+襄阳音乐广播[0*0],http://ls.qingting.fm/live/5057.m3u8
+北京房山经典音乐 FM96.90*0][0*0],http://live.xmcdn.com/live/963/64.m3u8
+北京房山经典音乐 FM96.90*0][0*0],http://ls.qingting.fm/live/68746.m3u8
+北京房山经典音乐 FM96.90*0][0*0],http://ls.qingting.fm/live/68746.m3u8
+重庆新闻广播 FM96.80*0][0*0],http://live.xmcdn.com/live/128/64.m3u8
+重庆新闻广播 FM96.80*0][0*0],http://ls.qingting.fm/live/1498.m3u8
+重庆经济广播 FM101.50*0][0*0],http://ls.qingting.fm/live/1499.m3u8
+重庆经济广播 FM101.50*0][0*0],http://ls.qingting.fm/live/1499.m3u8
+重庆交通广播 FM95.50*0][0*0],http://live.xmcdn.com/live/130/64.m3u8
+重庆交通广播 FM95.50*0][0*0],http://ls.qingting.fm/live/1500.m3u8
+重庆交通广播 FM95.50*0][0*0],http://ls.qingting.fm/live/1500.m3u8
+重庆音乐广播 FM88.10*0][0*0],http://live.xmcdn.com/live/131/64.m3u8
+重庆音乐广播 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
+重庆音乐广播 FM88.10*0][0*0],http://ls.qingting.fm/live/647.m3u8
+重庆都市广播 FM93.80*0][0*0],http://live.xmcdn.com/live/132/64.m3u8
+重庆都市广播 FM93.80*0][0*0],http://ls.qingting.fm/live/1502.m3u8
+重庆都市广播 FM93.80*0][0*0],http://ls.qingting.fm/live/1502.m3u8
+巴渝之声 FM104.50*0][0*0],http://ls.qingting.fm/live/3545693.m3u8
+万州交通广播0*0][0*0],http://live.xmcdn.com/live/1679/64.m3u8
+厦门音乐广播0*0][0*0],http://ls.qingting.fm/live/1739.m3u8
+厦门音乐广播0*0][0*0],http://ls.qingting.fm/live/1739.m3u8
+厦门新闻广播0*0][0*0],http://ls.qingting.fm/live/1737.m3u8
+厦门新闻广播0*0][0*0],http://ls.qingting.fm/live/1737.m3u8
+兰州新闻综合广播 FM97.30*0][0*0],http://ls.qingting.fm/live/1712.m3u8
+兰州新闻综合广播 FM97.30*0][0*0],http://ls.qingting.fm/live/1712.m3u8
+兰州交通音乐广播 FM99.50*0][0*0],http://ls.qingting.fm/live/1711.m3u8
+兰州生活文艺广播 FM100.80*0][0*0],http://ls.qingting.fm/live/1713.m3u8
+广州新闻电台 FM96.20*0][0*0],http://live.xmcdn.com/live/256/64.m3u8
+广州新闻电台 FM96.20*0][0*0],http://ls.qingting.fm/live/4848.m3u8
+广州新闻电台 FM96.20*0][0*0],http://ls.qingting.fm/live/4848.m3u8
+广州汽车音乐电台 FM102.70*0][0*0],http://live.xmcdn.com/live/257/64.m3u8
+广州汽车音乐电台 FM102.70*0][0*0],http://ls.qingting.fm/live/52710.m3u8
+广州汽车音乐电台 FM102.70*0][0*0],http://ls.qingting.fm/live/52710.m3u8
+广州交通电台 FM106.10*0][0*0],http://ls.qingting.fm/live/4955.m3u8
+广州 MYFM 88.0 (都市生活)0*0][0*0],http://ls.qingting.fm/live/52712.m3u8
+东广新闻台 FM90.9[0*0],http://ls.qingting.fm/live/275.m3u8
+东莞FM104音乐广播[0*0],http://ls.qingting.fm/live/93619.m3u8
+东莞畅享1075交通广播[0*0],http://ls.qingting.fm/live/1288.m3u8
+九江交通广播 FM88.4 FM88.9[0*0],http://ls.qingting.fm/live/2785094.m3u8
+云南交通广播 FM91.8[0*0],http://ls.qingting.fm/live/1928.m3u8
+云南教育广播 FM100[0*0],http://ls.qingting.fm/live/1930.m3u8
+云南新闻广播 FM105.8[0*0],http://ls.qingting.fm/live/1926.m3u8
+云南民族广播 SW7210[0*0],http://ls.qingting.fm/live/1933.m3u8
+云南经济广播 私家车 FM88.7[0*0],http://ls.qingting.fm/live/1927.m3u8
+云南音乐广播 FM97[0*0],http://ls.qingting.fm/live/1929.m3u8
+保定交通广播 FM104.8[0*0],http://ls.qingting.fm/live/28140.m3u8
+保定城市服务广播 乐动1016[0*0],http://ls.qingting.fm/live/62628.m3u8
+保定新闻广播 FM93.7[0*0],http://ls.qingting.fm/live/3701149.m3u8
+保定经典964汽车音乐广播[0*0],http://ls.qingting.fm/live/2227017.m3u8
+南宁交通音乐广播 FM107.4[0*0],http://ls.qingting.fm/live/80793.m3u8?aac
+南通交通广播 FM92.9[0*0],http://ls.qingting.fm/live/2216385.m3u8
+呼和浩特城市生活广播 FM90.1[0*0],http://ls.qingting.fm/live/2218717.m3u8
+呼和浩特文艺广播 FM99.8[0*0],http://ls.qingting.fm/live/3099076.m3u8
+呼和浩特新闻综合广播 FM92.9[0*0],http://ls.qingting.fm/live/2218711.m3u8
+咸阳城市之声 FM100.7[0*0],http://ls.qingting.fm/live/3559664.m3u8
+四川文艺广播 快乐900 FM90.0[0*0],http://ls.qingting.fm/live/4887.m3u8
+四川新闻综合广播 FM98.1[0*0],http://ls.qingting.fm/live/4906.m3u8
+四川民族广播 AM954[0*0],http://ls.qingting.fm/live/1115.m3u8
+四川私家车广播 FM92.5[0*0],http://ls.qingting.fm/live/4939.m3u8
+四川财富广播 FM94.0[0*0],http://ls.qingting.fm/live/4927.m3u8
+太原交通广播 FM107[0*0],http://ls.qingting.fm/live/4900.m3u8
+太原新闻广播 FM91.2[0*0],http://ls.qingting.fm/live/23873.m3u8
+太原私家车Radio FM104.4[0*0],http://ls.qingting.fm/live/4018.m3u8
+太原音乐广播 FM102.6[0*0],http://ls.qingting.fm/live/1185.m3u8
+宁夏交通广播 FM98.4[0*0],http://ls.qingting.fm/live/1840.m3u8
+宁夏都市广播 FM103.7[0*0],http://ls.qingting.fm/live/1842.m3u8
+山东体育广播 FM102.1[0*0],http://ls.qingting.fm/live/60266.m3u8
+山东女主播电台 FM97.5[0*0],http://ls.qingting.fm/live/60258.m3u8
+山东新闻广播 FM95[0*0],http://ls.qingting.fm/live/60180.m3u8
+山东生活广播 MyFM FM105[0*0],http://ls.qingting.fm/live/60260.m3u8
+山东音乐广播 FM99.1[0*0],http://ls.qingting.fm/live/1665.m3u8
+岳阳交通广播 FM106.1[0*0],http://ls.qingting.fm/live/88931.m3u8
+岳阳新闻综合广播[0*0],http://ls.qingting.fm/live/88933.m3u8
+常州交通广播 FM90[0*0],http://ls.qingting.fm/live/2796.m3u8
+广西女主播电台 FM97.0[0*0],http://ls.qingting.fm/live/1754.m3u8
+广西新闻910 FM91.0[0*0],http://ls.qingting.fm/live/1753.m3u8
+广西私家车930 FM93.0[0*0],http://ls.qingting.fm/live/1756.m3u8
+广西音乐台 FM95.0[0*0],http://ls.qingting.fm/live/4875.m3u8
+惠州新闻综合广播 FM100[0*0],http://ls.qingting.fm/live/5016.m3u8
+惠州环保交通广播 FM98.8[0*0],http://ls.qingting.fm/live/5017.m3u8
+惠州音乐广播 FM90.7[0*0],http://ls.qingting.fm/live/2212959.m3u8
+新疆交通广播 FM94.9 (Opt-2)[0*0],http://ls.qingting.fm/live/1910.m3u8
+新疆新闻广播 FM96.1 (Opt-1)[0*0],http://ls.qingting.fm/live/1902.m3u8
+新疆民生广播 FM92.4 (Opt-2)[0*0],http://ls.qingting.fm/live/76186.m3u8
+新疆维吾尔语交通文艺广播 (Opt-2)[0*0],http://ls.qingting.fm/live/78923.m3u8
+新疆蒙古语广播 (Opt-1)[0*0],http://ls.qingting.fm/live/1903.m3u8
+无锡新闻广播 FM93.7[0*0],http://ls.qingting.fm/live/2777.m3u8
+昆明汽车广播 FM95.4[0*0],http://ls.qingting.fm/live/1936.m3u8
+昆明都市调频 FM102.8[0*0],http://ls.qingting.fm/live/1935.m3u8
+梅州交通广播 FM105.8[0*0],http://ls.qingting.fm/live/24195.m3u8
+梅州新闻广播 FM94.8[0*0],http://ls.qingting.fm/live/24173.m3u8
+江苏新闻广播 FM93.7[0*0],http://ls.qingting.fm/live/4944.m3u8
+沈阳新闻广播 FM104.5[0*0],http://ls.qingting.fm/live/23891.m3u8
+河北 My FM 102.9[0*0],http://ls.qingting.fm/live/2508757.m3u8
+河北交通广播 FM99.2[0*0],http://ls.qingting.fm/live/1646.m3u8
+河北农民广播 AM558[0*0],http://ls.qingting.fm/live/1650.m3u8
+河北故事广播 FM107.9[0*0],http://ls.qingting.fm/live/1645.m3u8
+河北新闻广播 FM104.3[0*0],http://ls.qingting.fm/live/1644.m3u8
+河北旅游广播 AM603[0*0],http://ls.qingting.fm/live/1651.m3u8
+河北生活广播 FM88.8[0*0],http://ls.qingting.fm/live/4867.m3u8
+河北私家车广播 FM90.7[0*0],http://ls.qingting.fm/live/4868.m3u8
+河北音乐广播 FM102.4[0*0],http://ls.qingting.fm/live/1649.m3u8
+河南乐龄(信息广播) FM105.6[0*0],http://ls.qingting.fm/live/59896.m3u8
+河南交通广播 FM104.1[0*0],http://ls.qingting.fm/live/1209.m3u8
+河南娱乐广播 FM97.6[0*0],http://ls.qingting.fm/live/1719795.m3u8
+河南影院广播 MyRadio FM90.0[0*0],http://ls.qingting.fm/live/1206.m3u8
+河南音乐广播 魅力881 FM88.1[0*0],http://ls.qingting.fm/live/1208.m3u8
+河南驾车1066 FM106.6[0*0],http://ls.qingting.fm/live/1207.m3u8
+济南故事广播 FM104.3[0*0],http://ls.qingting.fm/live/1672.m3u8
+济南私家车广播 FM93.6[0*0],http://ls.qingting.fm/live/1670.m3u8
+济南经济广播 FM90.9[0*0],http://ls.qingting.fm/live/1668.m3u8
+济南音乐广播(MUSIC887)[0*0],http://ls.qingting.fm/live/1671.m3u8
+浙江之声 FM88 (Opt-1)[0*0],http://ls.qingting.fm/live/4518.m3u8
+浙江交通之声 FM93 (Opt-1)[0*0],http://ls.qingting.fm/live/4522.m3u8
+浙江动听(音乐调频) FM96.8 (Opt-2)[0*0],http://ls.qingting.fm/live/4866.m3u8
+浙江女主播电台 FM104.5 (Opt-2)[0*0],http://ls.qingting.fm/live/4524.m3u8
+浙江财富广播 FM95 (Opt-1)[0*0],http://ls.qingting.fm/live/4519.m3u8
+海南交通广播 FM100[0*0],http://ls.qingting.fm/live/4911.m3u8
+海南国际旅游之声 FM103.8[0*0],http://ls.qingting.fm/live/1862.m3u8
+海南新闻广播 FM88.6[0*0],http://ls.qingting.fm/live/1861.m3u8
+海南民生广播 FM101[0*0],http://ls.qingting.fm/live/1511803.m3u8
+深圳快乐1062(交通广播)[0*0],http://ls.qingting.fm/live/1272.m3u8
+深圳私家车广播 FM94.2[0*0],http://ls.qingting.fm/live/1273.m3u8
+深圳飞扬音乐971[0*0],http://ls.qingting.fm/live/1271.m3u8
+温州交通广播 FM103.9[0*0],http://ls.qingting.fm/live/23863.m3u8
+温州新闻广播 FM94.9[0*0],http://ls.qingting.fm/live/23861.m3u8
+温州私家车音乐广播 FM100.3[0*0],http://ls.qingting.fm/live/23865.m3u8
+温州经济生活广播 FM88.8[0*0],http://ls.qingting.fm/live/23867.m3u8
+温州绿色之声 FM93.8[0*0],http://ls.qingting.fm/live/1158.m3u8
+珠海电台交通音乐875[0*0],http://ls.qingting.fm/live/1275.m3u8
+西宁交通频率[0*0],http://ls.qingting.fm/live/3400408.m3u8
+西宁新闻频率[0*0],http://ls.qingting.fm/live/3400403.m3u8
+西安交通广播 FM104.3 (Opt-1)[0*0],http://ls.qingting.fm/live/1611.m3u8
+西安新闻广播 FM95.0 (Opt-1)[0*0],http://ls.qingting.fm/live/1610.m3u8
+西安音乐广播 FM93.1 (Opt-1)[0*0],http://ls.qingting.fm/live/1612.m3u8
+贵州新闻综合广播 FM94.6[0*0],http://ls.qingting.fm/live/23933.m3u8
+贵州电台交通广播 FM95.2[0*0],http://ls.qingting.fm/live/23927.m3u8
+贵州电台旅游广播 FM97.2[0*0],http://ls.qingting.fm/live/23929.m3u8
+贵州电台经济广播 FM98.9[0*0],http://ls.qingting.fm/live/23935.m3u8
+贵州电台音乐广播 FM91.6[0*0],http://ls.qingting.fm/live/23937.m3u8
+辽宁交通广播 FM97.5[0*0],http://ls.qingting.fm/live/23801.m3u8
+郑州新闻广播 FM98.6[0*0],http://ls.qingting.fm/live/1220.m3u8
+郑州汽车广播 FM91.2[0*0],http://ls.qingting.fm/live/1211.m3u8
+郑州活力944[0*0],http://ls.qingting.fm/live/4921.m3u8
+郑州车道931[0*0],http://ls.qingting.fm/live/1221.m3u8
+CRI环球资讯广播,https://sk.cri.cn/905.m3u8
+CRI华语环球广播,http://sk.cri.cn/hyhq.m3u8
+CRI南海之声,https://sk.cri.cn/nhzs.m3u8
+CRI世界华声,http://sk.cri.cn/hxfh.m3u8
+CRI轻松调频,http://sk.cri.cn/915.m3u8
+CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
+CityFM城市广播,http://fm929.cityfm.tw:8080/929.mp3
+CityFM台北健康,http://fm901.cityfm.tw:8080/901.mp3
+CityFM大苗栗广播,http://fm983.cityfm.tw:8080/983.mp3
+News98新闻电台,http://n12.rcs.revma.com/55tyxsy4qtzuv
+CAPITAL958,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+8FM,https://mediaprima.rastream.com/mediaprima-onefm
+CNA938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+YES933,https://22393.live.streamtheworld.com/YES933_PREM.aac
+LOVE972,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+大湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+中广新闻,http://n12.rcs.revma.com/78fm9wyy2tzuv
+中广音乐,http://n07.rcs.revma.com/ks4vsmg3qtzuv
+中广流行,http://n14.rcs.revma.com/aw9uqyxy2tzuv
+亚洲经典,http://goldfm.cn:8000/goldfm
+亚洲天空,http://funradio.cn:8000/funradio
+亚洲音乐,http://asiafm.hk:8000/asiahd
+亚洲电台,http://stream.rcs.revma.com/xpgtqc74hv8uv
+美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+环宇广播,http://stream.rcs.revma.com/srn5f9kmwxhvv
+全国广播M-Radio,http://stream.rcs.revma.com/044q61ha7a0uv
+飞扬调频FlyRadio,http://stream.rcs.revma.com/e0tdah74hv8uv
+台湾古典音乐电台,http://59.120.88.155:8000/live.mp3
+台北都会音乐电台,https://onair.bravo913.com.tw:9130/live.mp3
+台中古典音乐电台,https://onair.family977.com.tw:8977/live.mp3
+国立教育电台,http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+天籁之音-经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+天籁之音Hi-Fi,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+天籁之音-国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+店头音乐,http://livestream.1766.today:1781/live2.mp3
+私房音乐,http://livestream.1766.today:1769/live1.mp3
+飞碟电台,http://n08.rcs.revma.com/em90w4aeewzuv
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+民谣蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+警广之声,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+80后音乐,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+格莱美音乐,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+卷卷猫电台,http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+民谣音乐,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+动感音乐,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+金鹰955电台[0*0],http://ls.qingting.fm/live/4937.m3u8
+长春生活故事广播 FM90.0[0*0],http://ls.qingting.fm/live/5014.m3u8
+长沙城市之声 FM101.7[0*0],http://ls.qingting.fm/live/4237.m3u8
+长沙新闻广播 FM105.0[0*0],http://ls.qingting.fm/live/4877.m3u8
+长治交通文艺广播 FM94.9[0*0],http://ls.qingting.fm/live/2669405.m3u8
+长治新闻综合广播(幸福广播) FM94.3[0*0],http://ls.qingting.fm/live/2702863.m3u8
+阳信人民广播电台 FM103.4[0*0],http://ls.qingting.fm/live/2915753.m3u8
+阳泉交通广播[0*0],http://ls.qingting.fm/live/4592896.m3u8?aac
+阳泉新闻综合广播[0*0],http://ls.qingting.fm/live/5876899.m3u8?aac
+陕西交通广播 FM91.6[0*0],http://ls.qingting.fm/live/1601.m3u8
+陕西故事广播 AM603[0*0],http://ls.qingting.fm/live/1608.m3u8
+陕西秦腔广播 FM101.1[0*0],http://ls.qingting.fm/live/1604.m3u8
+陕西都市广播-陕广新闻 FM101.8[0*0],http://ls.qingting.fm/live/1609.m3u8
+陕西音乐广播 FM98.8[0*0],http://ls.qingting.fm/live/4873.m3u8
+青岛交通广播 FM89.7[0*0],http://ls.qingting.fm/live/1676.m3u8
+青岛故事广播 FM95.2[0*0],http://ls.qingting.fm/live/4956.m3u8
+青岛新闻广播 FM107.6[0*0],http://ls.qingting.fm/live/1673.m3u8
+青岛西海岸城市生活广播 FM92.6[0*0],http://ls.qingting.fm/live/33446.m3u8
+青海交通音乐广播 FM97.2[0*0],http://ls.qingting.fm/live/5009.m3u8
+青海生活广播 花儿调频 FM90.3[0*0],http://ls.qingting.fm/live/2163891.m3u8
+青海经济广播 FM07.5[0*0],http://ls.qingting.fm/live/5008.m3u8
+鹤壁交通音乐广播 FM93.5[0*0],http://ls.qingting.fm/live/3032681.m3u8
+龙广交通广播 FM99.8[0*0],http://ls.qingting.fm/live/4973.m3u8
+龙广新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
+龙广新闻广播 FM94.6[0*0],http://ls.qingting.fm/live/4974.m3u8
+龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
+龙广音乐广播 FM95.8[0*0],http://ls.qingting.fm/live/4969.m3u8
+
+
 电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 古典音乐台,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
 动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
