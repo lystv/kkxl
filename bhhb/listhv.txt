@@ -684,6 +684,15 @@ CCTV16-4K,http://106.39.160.148/live.aishang.ctlcdn.com/00000110240349_1/encoder
 百视独播4,https://bp-caster.bestv.com.cn/944/3/video.m3u8
 百视自制,https://bp-caster.bestv.com.cn/723/3/video.m3u8
 独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
+HBO,http://208.115.225.174:14136
+HBO2,http://208.115.225.174:14140
+HBOFamily,http://208.115.225.174:14144
+HBOMundi,http://208.115.225.174:14148
+HBOPop,http://208.115.225.174:14156
+HBOsignature,http://208.115.225.174:14160
+HBOXTEME,http://208.115.225.174:14165
+WBTV,http://208.115.225.174:14132
+ShowFE,http://208.115.225.174:14428
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
