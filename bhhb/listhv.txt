@@ -700,14 +700,23 @@ CCTV16-4K,http://222.170.28.3/live.aishang.ctlcdn.com/00000110240389_1/encoder/0
 百视自制,https://bp-caster.bestv.com.cn/723/3/video.m3u8
 独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 HBO,http://208.115.225.174:14136
+HBO1,http://208.115.225.174:14165
 HBO2,http://208.115.225.174:14140
-HBOFamily,http://208.115.225.174:14144
-HBOMundi,http://208.115.225.174:14148
-HBOPop,http://208.115.225.174:14156
-HBOsignature,http://208.115.225.174:14160
+HBO Family,http://208.115.225.174:14144
+HBO Mundi,http://208.115.225.174:14148
+HBO Pop,http://208.115.225.174:14156
+HBO signature,http://208.115.225.174:14160
 HBOXTEME,http://208.115.225.174:14165
 WBTV,http://208.115.225.174:14132
 ShowFE,http://208.115.225.174:14428
+Universal,http://208.115.225.174:14128
+WB TV,http://208.115.225.174:14132
+Universal TV,http://208.115.225.174:14128
+Warner,http://208.115.225.174:14132
+BDMG,http://208.115.225.174:14263
+SBT,http://208.115.225.174:14170
+SBT1,http://208.115.225.174:14173
+SBT2,http://208.115.225.174:14176
 李连杰,http://123.132.226.194:31028/hls/38/index.m3u8
 周星驰,http://123.132.226.194:31028/hls/39/index.m3u8
 刘德华,http://123.132.226.194:31028/hls/40/index.m3u8
