@@ -301,6 +301,7 @@ CEC国际旅游,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 CEC国际教育,rtmp://play.cec-tv.com.cn/channel/cec-tv3
 CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
 无线新闻,P2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
+黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 江苏组播,#genre#
 凤凰中文,http://175.43.106.30:4022/rtp/239.61.2.184:9092$泉州1080P
 凤凰资讯,http://175.43.106.30:4022/rtp/239.61.2.183:9086$泉州1080P
