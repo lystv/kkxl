@@ -2142,18 +2142,18 @@ CCTV4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.
 CCTV16-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 CCTV16-4K,http://58.20.202.43:808/hls/17/index.m3u8
 CCTV-16 奥林匹克,https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
-CCTV-16,http://113.100.72.131:8899/udp/239.77.0.165:5146
-爱体育高清,http://113.100.72.131:8899/udp/239.77.0.176:5146
-4k测试频道8,http://113.100.72.131:8899/udp/239.77.0.249:5146
-精选4k频道3,http://113.100.72.131:8899/udp/239.77.0.153:5146
-广东综艺 4K,http://113.100.72.131:8899/udp/239.77.1.236:5146
-广东综艺 4K,http://113.100.72.131:8899/udp/239.77.1.237:5146
-广东4K超高清,http://113.100.72.131:8899/udp/239.77.0.244:5146
-广东4K超高清 窄色域 30,http://113.100.72.131:8899/udp/239.77.0.245:5146
-广东4K超高清 宽色域,http://113.100.72.131:8899/udp/239.77.0.246:5146
-广东4K超高清 宽色域AVS2,http://113.100.72.131:8899/udp/239.77.0.252:5146
-CCTV4K-25P,http://113.100.72.131:8899/udp/239.77.0.194:5146
-CCTV4K-50P,http://113.100.72.131:8899/udp/239.77.0.174:5146
+CCTV-16,http://brucezhong1984.fun:4022/rtp/239.77.0.165:5146
+爱体育高清,http://brucezhong1984.fun:4022/rtp/239.77.0.176:5146
+4k测试频道8,http://brucezhong1984.fun:4022/rtp/239.77.0.249:5146
+精选4k频道3,http://brucezhong1984.fun:4022/rtp/239.77.0.153:5146
+广东综艺 4K,http://brucezhong1984.fun:4022/rtp/239.77.1.236:5146
+广东综艺 4K,http://brucezhong1984.fun:4022/rtp/239.77.1.237:5146
+广东4K超高清,http://brucezhong1984.fun:4022/rtp/239.77.0.244:5146
+广东4K超高清 窄色域 30,http://brucezhong1984.fun:4022/rtp/239.77.0.245:5146
+广东4K超高清 宽色域,http://brucezhong1984.fun:4022/rtp/239.77.0.246:5146
+广东4K超高清 宽色域AVS2,http://brucezhong1984.fun:4022/rtp/239.77.0.252:5146
+CCTV4K-25P,http://brucezhong1984.fun:4022/rtp/239.77.0.194:5146
+CCTV4K-50P,http://brucezhong1984.fun:4022/rtp/239.77.0.174:5146
 TEST,#genre#
 1905电影网,http://nas.jdshipin.com:8801/1905.php?id=1905dy
 4K超高清电影,http://r.jdshipin.com/5DWJk
