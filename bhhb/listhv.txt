@@ -825,6 +825,7 @@ SBT2,http://208.115.225.174:14176
 翡翠台(备),P2p://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
 无线新闻台(备),P2p://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
 无线新闻台,P2p://147.135.39.171:9906/657c8f93000dad85a955b78b7a3a4c4f
+tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
