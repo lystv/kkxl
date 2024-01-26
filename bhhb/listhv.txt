@@ -38,6 +38,13 @@ CCTV-4K超高清,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd
 峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 广东电信回看源,#genre#
 CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
+北京新闻,http://iptv.8t.cx:8180/udp/239.3.1.159:8000
+北京财经http://iptv.8t.cx:8180/udp/239.3.1.116:8000
+北京生活,http://iptv.8t.cx:8180/udp/239.3.1.117:8000
+北京文艺,http://iptv.8t.cx:8180/udp/239.3.1.242:8000
+北京影视,http://iptv.8t.cx:8180/udp/239.3.1.158:8000
+北京国际,http://iptv.8t.cx:8180/udp/239.3.1.235:8000
+北京体育休闲,http://iptv.8t.cx:8180/udp/239.3.1.243:8000
 CCTV16,rtsp://183.59.168.27/PLTV/88888905/224/3221230225/425398358.smil?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElJ7LsaiaN4_uqYtHfUWhVw%7EdbWtPTos-oDEwgBKoNtSJ7KDT6s326VdG_E8HohXdnHALuOmXFvvj1fVneW2JUw6z3oCAFLrucmbD3DcB5vwj08nVyCeORHNop9qxhWnxO8%7EExtInfoWNHSPSTb%2B3AG0FnUkYLPMw,END
 IPTV影视推荐,rtsp://183.59.168.27/PLTV/88888905/224/3221228179/10000100000000060000000008189131_0.smil?0&accountinfo=%7E%7EV2.0%7El0PMxMTr89VnbogvGkhHKQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 CCTV4K-音频,rtsp://183.59.168.27/PLTV/88888905/224/3221228307/10000100000000060000000008189136_0.smil?0&accountinfo=%7E%7EV2.0%7EAqd3ciY3-pzJVhUaGjQUaw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
