@@ -402,6 +402,85 @@ CEC国际教育,rtmp://play.cec-tv.com.cn/channel/cec-tv3
 CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
 无线新闻,P2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
+10月测试,#genre#
+台视新闻,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156398&extension=ts&play_token=6pDQNgylDg
+台视综合,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156392&extension=ts&play_token=Ste6dPj5f9
+TVBS亚洲,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156402&extension=ts&play_token=UAAcYUkyjm
+YOYO,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156403&extension=ts&play_token=IOtTGJARgv
+天下卫视1,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156399&extension=ts&play_token=u8z6Sz30CI
+天下卫视2,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156400&extension=ts&play_token=K6gyPVXpHi
+三立国际,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156390&extension=ts
+华视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156391&extension=ts
+东森中国台,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156393&extension=ts
+东森戏剧,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156395&extension=ts
+东森财经,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156396&extension=ts
+CYY,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156389&extension=ts
+华夏电视台,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156422&extension=ts
+中国电影,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156417&extension=ts
+大湾区卫视http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156411&extension=ts
+长城精品,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156410&extension=ts
+凤凰卫视美洲,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156408&extension=ts
+凤凰资讯,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156407&extension=ts
+台视,http://51.77.65.194:40078/
+亚太第一卫视,http://110.19.106.198:9981/stream/channelid/999152661?ticket=B1BCB80234BFA8C75584A88C1E29CA0CF7745FC4&profile=pass
+TVB 翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
+明珠台,http://120.238.13.198:8000/hls/19/index.m3u8
+凤凰卫视,http://120.238.13.198:8000/hls/20/index.m3u8
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳亚卫视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=aoya_1500
+翡翠台,http://sz.l68.fun:9000/bysid/1
+明珠台,http://sz.l68.fun:9001/bysid/2
+J2台,http://sz.l68.fun:9001/bysid/82
+無綫新聞台,http://sz.l68.fun:9001/bysid/83
+J2台,http://bziyunshao.synology.me:8890/bysid/82
+無綫新聞台,http://bziyunshao.synology.me:8890/bysid/83
+無綫財經,http://bziyunshao.synology.me:8890/bysid/85
+國際財經台,http://bziyunshao.synology.me:8891/bysid/76
+HOY TV,http://bziyunshao.synology.me:8891/bysid/77
+HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
+港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
+港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://146.56.153.245:8006/bysid/1
+翡翠台,http://r.jdshipin.com/62WM7
+ViuTVsix,http://146.56.153.245:8006/bysid/96
+ViuTV,http://146.56.153.245:8006/bysid/99
+TVB J2,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
+TVB News,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+TVB Pearl,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+TVB FSI,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
+Channel V,http://203.80.165.14/stream/channelid/1998962087?profile=pass
+星空,http://203.80.165.14/stream/channeliXing Kong,http://203.80.165.14/stream/channelid/192561066?profile=pass
+EBC,http://203.80.165.14/stream/channelid/1080037984?profile=pass
+Lotus-Macau,http://203.80.165.14/stream/channelid/337227380?profile=pass
+HangMeas,http://203.80.165.14/stream/channelid/1448884111?profile=pass
+KIX,http://203.80.165.14/stream/channelid/1365041137?profile=passd/192561066?profile=pass
+EBC,http://203.80.165.14/stream/channelid/1080037984?profile=pass
+Lotus-Macau,http://203.80.165.14/stream/channelid/337227380?profile=pass
+HangMeas,http://203.80.165.14/stream/channelid/1448884111?profile=pass
+KIX,http://203.80.165.14/stream/channelid/1365041137?profile=pass
+星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
+翡翠台华丽,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+Celestial Movies,https://code.vthanhtivi.pw/getlink/eazie/243113/playlist.m3u8
+Celestial Classic Movies,https://code.vthanhtivi.pw/getlink/eazie/242920/playlist.m3u8
+HITS,https://code.vthanhtivi.pw/getlink/tv360/AVfivHCJsMBxzeUxGop7mw/1699926682/107/playlist.m3u8
+Thrill,https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
+TVB Vietnam,https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+TVB Satellite Jade,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB Satellite News Channel,http://live.cooltv.top/tv/tvb.php?id=0
+TVB Satellite Finance-Sport-Info Channel,http://live.cooltv.top/tv/tvb.php?id=2
+EBC Movies,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+EBC Foreign Movies,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+TVB娱乐新闻台mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+J2台,http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68a673f0c11bc3443bc52b1663d94f0&profile=pass
+明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+RTHK34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 江苏组播,#genre#
 凤凰中文,http://175.43.106.30:4022/rtp/239.61.2.184:9092$泉州1080P
 凤凰资讯,http://175.43.106.30:4022/rtp/239.61.2.183:9086$泉州1080P
