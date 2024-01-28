@@ -575,7 +575,7 @@ TVB Satellite News Channel,http://live.cooltv.top/tv/tvb.php?id=0
 TVB Satellite Finance-Sport-Info Channel,http://live.cooltv.top/tv/tvb.php?id=2
 EBC Movies,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 EBC Foreign Movies,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-TVB娱乐新闻台mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 J2台,http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68a673f0c11bc3443bc52b1663d94f0&profile=pass
@@ -585,6 +585,23 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/str
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 RTHK34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+粤语电影,http://epg.112114.xyz/douyu/6566671
+NewTV超级电影 (1080p),https://cloudvideo.servers10.com:8081/8130/index.m3u8
+NewTV超级电影 (1080p),http://stream.smntv.cn/smtv1/sd/live.m3u8
+周星驰,http://open-tct.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_2000.flv?wsAuth=d77f94aacb13db42c68c0f135eedec48&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0185175015db304d46caaef0c1888ae20&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=374937160
+港剧轮播,http://open-tct.douyucdn2.cn/dyliveflv1a/4549169rnrPTaiGh_2000.flv?wsAuth=cdbb69909aad04f716a18df399adc8e7&token=cpn-androidmpro-0-4549169-1fd91ff7b96ba3da1670759cf63dc555f9ca145cdc497b77&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=374846067
+华语电影,http://open-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=e75b875358c4ad5e9dd718192bd3eee3&token=cpn-androidmpro-0-85894-a3575d938a4aa3093906420ddd05c4e6c6cdd142fbcabb69&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=374937156
+贝爷MAX,http://open-tct.douyucdn2.cn/dyliveflv1a/4332rnnUGX3L2q5v_2000.flv?wsAuth=e04438e0a179a227d3172ac59767b701&token=cpn-androidmpro-0-4332-a25e54b4f06502c1dbc5d9883868dcf2c19148cc5b77e4b5&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=375783780
+邵氏影院,http://open-tct.douyucdn2.cn/dyliveflv1a/4246519r2ZW8JB4g_2000.flv?wsAuth=f1d70659b0ade86b8e0f56d363ae8b5f&token=cpn-androidmpro-0-4246519-126295b0785b4fb5061a6378803e10a29bcefb66f5953ea0&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=373010025
+小U恐怖,http://open-tct.douyucdn2.cn/dyliveflv1/96577rUX3XoXRFPI_2000.flv?wsAuth=ccf7b4754b607a104213cbc9107b7d1e&token=cpn-androidmpro-0-96577-281bf88a9ebb9add32e395ffc14a355bd1cf4795a4f28a16&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=369822332
+凌儿影院,http://open-tct.douyucdn2.cn/dyliveflv3/1377142r1P480Ci1_2000.flv?wsAuth=eea7c028fce75aa369de52660e4e322d&token=cpn-androidmpro-0-1377142-93ab7bc20e67144f4f02ddcbb749f5671d7d8b41d8d53d2d&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=376091754
+科幻动作,http://open-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=ec6a335eec03c39d4d7c24f529e27be6&token=cpn-androidmpro-0-20415-b6774b3b3249db173deeaa48809f83b9350308721734c3fd&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=374937161
+原画动作,http://open-tct.douyucdn2.cn/dyliveflv1a/276200rSHb4IoLSK_2000.flv?wsAuth=1844ebc70306e6d0336ed16f74b641c5&token=cpn-androidmpro-0-276200-91760747d302d28d9b52ad4dd1028d6efed421a3fdd2aa33&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=366574471
+小鬼点播,http://open-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.flv?wsAuth=c23b8906eacaf22fe85f23cdce492971&token=cpn-androidmpro-0-3928-15d95fcfde11a749ce15225c29b1e3d924b07dcbf5d51113&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=375084044
+特辑电影,http://open-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.flv?wsAuth=5b4056fc598db32b0cfd980b96f83cc3&token=cpn-androidmpro-0-3637778-8c089871434b93443045becffd9c704deb11dca65816a31d&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=375935767
+贝爷影厅,http://open-tct.douyucdn2.cn/dyliveflv1/252802rUSgZUp0oL_2000.flv?wsAuth=a3f899828f2f598feb9789ddd67c3af5&token=cpn-androidmpro-0-252802-536492a84fc6fe0c94f975c8cfa4d567ee082f8c2a64b709&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=375783321
+
+
 北方组播,#genre#
 CCTV16高清,http://nas.tuyuannet.cn:8800/rtp/239.37.1.21:5540
 CCTV16-4K,http://nas.tuyuannet.cn:8800/rtp/239.37.1.22:5540
@@ -819,6 +836,7 @@ CCTV8高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.234:5540
 湖南都市,http://175.0.51.26:8899/tsfile/live/1044_1.m3u8
 湖南电影,http://175.0.51.26:8899/tsfile/live/1000_1.m3u8
 金鹰卡通,http://175.0.51.26:8899/tsfile/live/0011_1.m3u8
+广东少儿,http://ci.emdoor.tech:8080/touchtv.php?pk=1200
 湖南公共,http://175.0.51.26:8899/tsfile/live/0012_1.m3u8
 湖南娱乐,http://175.0.51.26:8899/tsfile/live/1001_1.m3u8
 湖南国际,http://175.0.51.26:8899/tsfile/live/1002_1.m3u8
@@ -826,6 +844,30 @@ CCTV8高清,http://nas.tuyuannet.cn:8800/rtp/239.37.0.234:5540
 优漫卡通, http://221.226.4.10:9901/tsfile/live/1026_1.m3u8
 动漫秀场, http://221.226.4.10:9901/tsfile/live/1027_1.m3u8
 法治天地, http://221.226.4.10:9901/tsfile/live/1031_1.m3u8
+CCTV1,http://hntv.tpddns.cn:9981/stream/channelid/700353977?profile=pass
+CCTV1,http://hntv.tpddns.cn:9981/stream/channelid/1534760820?profile=pass
+CCTV2,http://hntv.tpddns.cn:9981/stream/channelid/1773762202?profile=pass
+CCTV3,http://hntv.tpddns.cn:9981/stream/channelid/604036061?profile=pass
+CCTV4,http://hntv.tpddns.cn:9981/stream/channelid/1193796804?profile=pass
+CCTV5,http://hntv.tpddns.cn:9981/stream/channelid/569164089?profile=pass
+CCTV5+,http://hntv.tpddns.cn:9981/stream/channelid/643661337?profile=pass
+CCTV5+,http://hntv.tpddns.cn:9981/stream/channelid/1469068128?profile=pass
+CCTV5+,http://hntv.tpddns.cn:9981/stream/channelid/1929490684?profile=pass
+CCTV6,http://hntv.tpddns.cn:9981/stream/channelid/2075913032?profile=pass
+CCTV7,http://hntv.tpddns.cn:9981/stream/channelid/676251594?profile=pass
+CCTV8,http://hntv.tpddns.cn:9981/stream/channelid/1511378432?profile=pass
+CCTV9,http://hntv.tpddns.cn:9981/stream/channelid/1770827509?profile=pass
+CCTV10,http://hntv.tpddns.cn:9981/stream/channelid/1747464068?profile=pass
+CCTV11,http://hntv.tpddns.cn:9981/stream/channelid/1887226139?profile=pass
+CCTV12,http://hntv.tpddns.cn:9981/stream/channelid/246613371?profile=pass
+CCTV13,http://hntv.tpddns.cn:9981/stream/channelid/1643994268?profile=pass
+CCTV14,http://hntv.tpddns.cn:9981/stream/channelid/1239178931?profile=pass
+CCTV15,http://hntv.tpddns.cn:9981/stream/channelid/1969004796?profile=pass
+CCTV16,https://live3.rxip.sc96655.com/live/CCTV-16_4000.m3u8
+CCTV17,http://hntv.tpddns.cn:9981/stream/channelid/1350867579?profile=pass
+CGTN,http://hntv.tpddns.cn:9981/stream/channelid/1939009180?profile=pass
+CETV-1,http://hntv.tpddns.cn:9981/stream/channelid/1235117127?profile=pass
+央广购物,http://hntv.tpddns.cn:9981/stream/channelid/871860857?profile=pass
 CCTV01电信,http://124.115.205.101:8888/newlive/live/hls/2/live.m3u8
 CCTV02电信,http://124.115.205.101:8888/newlive/live/hls/3/live.m3u8
 CCTV03电信,http://124.115.205.101:8888/newlive/live/hls/4/live.m3u8
@@ -872,6 +914,40 @@ CCTV12-社会与法, http://49.84.197.249:9901/tsfile/live/0012_1.m3u8
 CCTV13-新闻, http://49.84.197.249:9901/tsfile/live/0013_1.m3u8
 CCTV14-少儿, http://49.84.197.249:9901/tsfile/live/0014_1.m3u8
 CCTV15-音乐, http://49.84.197.249:9901/tsfile/live/0015_1.m3u8
+浙江卫视,http://hntv.tpddns.cn:9981/stream/channelid/129858749?profile=pass
+东方卫视,http://hntv.tpddns.cn:9981/stream/channelid/821661223?profile=pass
+湖南卫视,http://hntv.tpddns.cn:9981/stream/channelid/599264888?profile=pass
+河南卫视4K,http://hntv.tpddns.cn:9981/stream/channelid/158216923?profile=pass
+河南卫视,http://hntv.tpddns.cn:9981/stream/channelid/336713411?profile=pass
+东南卫视,http://hntv.tpddns.cn:9981/stream/channelid/662734975?profile=pass
+内蒙古卫视,http://hntv.tpddns.cn:9981/stream/channelid/306985497?profile=pass
+北京卫视,http://hntv.tpddns.cn:9981/stream/channelid/189655462?profile=pass
+四川卫视,http://hntv.tpddns.cn:9981/stream/channelid/1324556535?profile=pass
+天津卫视,http://hntv.tpddns.cn:9981/stream/channelid/1202085887?profile=pass
+宁夏卫视,http://hntv.tpddns.cn:9981/stream/channelid/488565619?profile=pass
+安徽卫视,http://hntv.tpddns.cn:9981/stream/channelid/1146952216?profile=pass
+山东卫视,http://hntv.tpddns.cn:9981/stream/channelid/85512075?profile=pass
+山西卫视,http://hntv.tpddns.cn:9981/stream/channelid/516479799?profile=pass
+广东卫视,http://hntv.tpddns.cn:9981/stream/channelid/1970222896?profile=pass
+新疆卫视,http://hntv.tpddns.cn:9981/stream/channelid/36610334?profile=pass
+江苏卫视,http://hntv.tpddns.cn:9981/stream/channelid/1109408725?profile=pass
+江西卫视,http://hntv.tpddns.cn:9981/stream/channelid/1106849627?profile=pass
+河北卫视,http://hntv.tpddns.cn:9981/stream/channelid/1161099081?profile=pass
+东方财经,http://hntv.tpddns.cn:9981/stream/channelid/1614679571?profile=pass
+甘肃卫视,http://hntv.tpddns.cn:9981/stream/channelid/8044427?profile=pass
+湖北卫视,http://hntv.tpddns.cn:9981/stream/channelid/1740583680?profile=pass
+贵州卫视,http://hntv.tpddns.cn:9981/stream/channelid/2053834573?profile=pass
+辽宁卫视,http://hntv.tpddns.cn:9981/stream/channelid/676977849?profile=pass
+云南卫视,http://hntv.tpddns.cn:9981/stream/channelid/426585921?profile=pass
+陕西卫视,http://hntv.tpddns.cn:9981/stream/channelid/599234640?profile=pass
+青海卫视,http://hntv.tpddns.cn:9981/stream/channelid/7429072?profile=pass
+吉林卫视,http://hntv.tpddns.cn:9981/stream/channelid/2145915030?profile=pass
+广西卫视,http://hntv.tpddns.cn:9981/stream/channelid/70690037?profile=pass
+黑龙江卫视,http://hntv.tpddns.cn:9981/stream/channelid/977077266?profile=pass
+海南卫视,http://hntv.tpddns.cn:9981/stream/channelid/1947887187?profile=pass
+深圳卫视,http://hntv.tpddns.cn:9981/stream/channelid/1126285367?profile=pass
+西藏卫视,http://hntv.tpddns.cn:9981/stream/channelid/1223540982?profile=pass
+重庆卫视,http://hntv.tpddns.cn:9981/stream/channelid/2135471563?profile=pass
 北京卫视, http://49.84.197.249:9901/tsfile/live/0122_1.m3u8
 东方卫视, http://49.84.197.249:9901/tsfile/live/0107_1.m3u8
 天津卫视, http://49.84.197.249:9901/tsfile/live/0135_1.m3u8
