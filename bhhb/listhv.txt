@@ -3409,9 +3409,13 @@ CCTV17,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8
 西双版纳野象谷,https://gcwbndali.v.myalicdn.com/gcwbnd/xiongmao19_2/index.m3u8
 西双版纳野象谷,https://gcwbndtxy.liveplay.myqcloud.com/gcwbnd/xiongmao19_2/index.m3u8
 4K测试,#genre#
+CCTV8K-50FPS,http://159.75.85.63:8654/xx8k50fps.php
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8#mitv://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a#https://epg.pw/stream/9738bfc90d9cd020ee8a9797361cfde7c85528dadd9638913a2dc0114384c687.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+欢笑剧场4K银河源,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+
 CCTV16-4K,http://nas.tuyuannet.cn:8800/rtp/239.37.1.22:5540
 CCTV16-4K,http://sxd.nyxg.vip:40000/rtp/239.77.1.98:5146$广电4K
 电影台,#genre#
