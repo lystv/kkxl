@@ -5,8 +5,11 @@ CCTV16-4K,http://nas.tuyuannet.cn:8800/rtp/239.37.1.22:5540
 CCTV16-4K,http://sxd.nyxg.vip:40000/rtp/239.77.1.98:5146$广电4K
 CCTV4欧洲,http://183.238.248.83:9000/udp/239.11.0.101:1025
 CCTV4美洲,http://183.238.248.83:9000/udp/239.11.0.102:1025
-CCTV-4美洲,http://qnap.yjnhome.com:4000/udp/239.3.1.214:4220
-CCTV-4欧洲,http://qnap.yjnhome.com:4000/udp/239.3.1.213:4220
+CCTV4美洲,http://qnap.yjnhome.com:4000/udp/239.3.1.214:4220
+CCTV4欧洲,http://qnap.yjnhome.com:4000/udp/239.3.1.213:4220
+CCTV4美洲,http://sxd.nyxg.vip:40000/udp/239.253.43.121:5146
+CCTV4欧洲,http://sxd.nyxg.vip:40000/udp/239.253.43.120:5146
+CCTV-4K,http://112.17.52.85/PLTV/88888888/224/3221233679/index.m3u8
 CCTV5,rtsp://183.59.146.146:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?0&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 CCTV5,rtsp://183.59.70.72:554/PLTV/88888905/224/3221229857/10000100000000060000000009924447_0.smil?0&GuardEncType=2&accountinfo=%7E%7EV2.0%7EEKh7Q4W2FxVQNRn0W0dHbA%7EcTgwUiuxQssvRF06N32M0KfvZmS0JG0rj5JCqzbhbPQnRgsDroA9zfjO8sqbKQOyoMOYl9C6X5s1q_soi6nnITR-eljooL-JfajvDiqIcSg~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=%2C
 CCTV-5+体育赛事,rtsp://183.59.146.146:554/PLTV/88888905/224/3221227192/10000100000000060000000000987131_0.smil?0&accountinfo=%7E%7EV2.0%7Er6jF1xCjzHv7swACkj1iSQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
@@ -168,6 +171,7 @@ Movie Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid
 日本|QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 广东电信回看源,#genre#
 CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
+山东教育,http://182.46.8.160:8018/hls/16/index.m3u8
 北京新闻,http://iptv.8t.cx:8180/udp/239.3.1.159:8000
 北京财经http://iptv.8t.cx:8180/udp/239.3.1.116:8000
 北京生活,http://iptv.8t.cx:8180/udp/239.3.1.117:8000
@@ -175,12 +179,6 @@ CCTV8K,http://159.75.85.63:8654/xx8k50fps.php
 北京影视,http://iptv.8t.cx:8180/udp/239.3.1.158:8000
 北京国际,http://iptv.8t.cx:8180/udp/239.3.1.235:8000
 北京体育休闲,http://iptv.8t.cx:8180/udp/239.3.1.243:8000
-凤凰资讯,http://113.117.74.78:8081/hls/36/index.m3u8
-凤凰中文,http://113.117.74.78:8081/hls/37/index.m3u8
-香港卫视,http://113.117.74.78:8081/hls/38/index.m3u8
-凤凰资讯,http://110.72.83.117:808/hls/1/index.m3u8
-凤凰中文,http://110.72.83.117:808/hls/83/index.m3u8
-香港卫视,http://110.72.83.117:808/hls/333/index.m3u8
 CCTV16,http://183.59.131.100:30001/PLTV/88888905/224/3221230225/425398358.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7ElJ7LsaiaN4_uqYtHfUWhVw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 IPTV影视推荐,http://183.59.131.100:30001/PLTV/88888905/224/3221228179/10000100000000060000000008189131_0.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7El0PMxMTr89VnbogvGkhHKQ%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 CCTV4K-音频,http://183.59.131.100:30001/PLTV/88888905/224/3221228307/10000100000000060000000008189136_0.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7EAqd3ciY3-pzJVhUaGjQUaw%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
@@ -580,6 +578,7 @@ CCTV-17高清,http://mtw.so/61WFoQ
 CCTV-4K超高清,http://mtw.so/69sSrV
 CCTV-8K超高清,http://mtw.so/5xRPVl
 TVB星河,http://183.237.246.14:9003/hls/9/index.m3u8
+星空卫视,http://183.237.246.14:9003/hls/40/index.m3u8
 凤凰中文,http://110.191.246.220:8888/udp/239.93.0.162:2192
 凤凰资讯,http://113.218.137.146:9999/udp/239.76.246.8:1234
 CCTV5+,http://14.212.185.138:9901/tsfile/live/0001_11.m3u8
