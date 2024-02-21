@@ -615,6 +615,7 @@ CEC国际健康,rtmp://play.cec-tv.com.cn/channel/cec-tv4
 无线新闻,P2p://147.135.39.171:9906/60410a86000b2b564b7737ca69aa1a5d
 黄金翡翠台,mitv://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
 2月测试,#genre#
+Animax,https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
@@ -861,11 +862,18 @@ BestTV测试3-4K,http://59.174.227.169:8880/rtp/239.69.1.25:9790
 BestTV测试2-4K,http://59.174.227.169:8880/rtp/239.69.1.27:9802
 BestTV测试1-4K,http://59.174.227.169:8880/rtp/239.69.1.26:9796
 CCTV16-4K,http://59.174.227.169:8880/rtp/239.69.1.249:11136
+云南4K,http://106.57.1.156:55555/udp/239.200.200.178:8884
+CCTV16-4K,http://106.57.1.156:55555/udp/239.200.200.194:8780
 爱上4K,http://59.174.227.169:8880/rtp/239.69.1.141:10482
 爱上4K,http://220.173.254.53:6666/udp/239.81.0.123:4056
 爱上4K,http://182.138.136.76:8888/udp/239.93.0.97:5140
 4K乐享超清,http://182.138.136.76:8888/udp/239.93.0.43:5140
 峨眉电影高清,http://182.138.136.76:8888/udp/239.93.0.252:5140
+广东综艺 4K,http://14.117.233.78:9000/udp/239.77.1.237:5146
+南国都市 4K,http://14.117.233.78:9000/udp/239.253.43.99:5146
+CCTV-16 4K,http://14.117.233.78:9000/udp/239.77.1.98:5146
+CCTV-4K 4K,http://14.117.233.78:9000/udp/239.77.0.194:5146
+CCTV-4K 4K50p,http://14.117.233.78:9000/udp/239.77.0.174:5146
 欢笑剧场4K,http://114.223.251.240:8800/rtp/239.49.8.231:6000
 凤凰中文,http://182.138.136.76:8888/udp/239.93.0.162:2192
 凤凰中文,http://182.138.136.76:8888/udp/239.93.1.9:2192
