@@ -3534,6 +3534,11 @@ CCTV17,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/cctv17hd8m/800
 宝宝动画,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/bbdh8m/8000000/mnf.m3u8
 卡酷少儿,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/kkse8m/8000000/mnf.m3u8
 炫动卡通,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/hhxd8m/8000000/mnf.m3u8
+康巴卫视,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/kbws/2500000/mnf.m3u8
+浦东电视台,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/hhse/2500000/mnf.m3u8
+北京纪实科教,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/dajs8m/8000000/mnf.m3u8
+西藏藏语卫视,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/xzwszy/2500000/mnf.m3u8
+CGTN,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/ottcctvnews/1300000/mnf.m3u8
 福建综合,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/fjzhhd4m/4000000/mnf.m3u8
 福建新闻,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/fjxwhd4m/4000000/mnf.m3u8
 福建电视剧,http://zjbuv52.live.bestvcdn.com.cn/yqtv/live/program/live/fjdsjhd4m/4000000/mnf.m3u8
