@@ -2667,6 +2667,7 @@ CCTV5+体育赛事,http://60.208.44.186:9901/tsfile/live/0016_1.m3u8
 内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 电影联播,#genre#
 解说_阿斗说电影,http://43.138.170.29:35455/huya/13303478
+解说_阿斗说电影,http://www.goodiptv.club/huya/13303478
 解说_电影狂人,http://43.138.170.29:35455/huya/18715610
 解说_鹿哥电影,http://43.138.170.29:35455/huya/24396360
 解说_斌哥漫说,http://43.138.170.29:35455/huya/18632116
@@ -10449,7 +10450,7 @@ CCTV女性时尚,http://china.733240.com/cqyx.php?id=nvxing
 联播,#genre#
 电影联播,http://epg.112114.xyz/huya/11601968
 解说_阿斗说电影,http://43.138.170.29:35455/huya/13303478
-解说_阿斗说电影,https://www.goodiptv.club/huya/13303478
+解说_阿斗说电影,http://www.goodiptv.club/huya/13303478
 解说_阿斗说电影,http://159.75.85.63:35455/huya/13303478
 解说_阿斗说电影,http://epg.112114.xyz/huya/13303478
 解说_电影狂人,http://43.138.170.29:35455/huya/18715610
