@@ -2666,6 +2666,13 @@ CCTV5+体育赛事,http://60.208.44.186:9901/tsfile/live/0016_1.m3u8
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 电影联播,#genre#
+神探狄仁杰,https://www.goodiptv.club/douyu/10120371.
+鬼吹灯,https://www.goodiptv.club/douyu/11279861
+胡八一,https://www.goodiptv.club/douyu/11649079
+邵氏影院,https://www.goodiptv.club/douyu/4246519
+周星驰,https://www.goodiptv.club/douyu/122402
+欧美电影,https://www.goodiptv.club/douyu/20415
+东北一家人,https://www.goodiptv.club/douyu/11751004
 解说_阿斗说电影,http://43.138.170.29:35455/huya/13303478
 解说_阿斗说电影,http://www.goodiptv.club/huya/13303478
 解说_电影狂人,http://43.138.170.29:35455/huya/18715610
