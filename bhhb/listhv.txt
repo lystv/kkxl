@@ -1614,6 +1614,14 @@ CCTV14 少儿,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 CCTV15 音乐,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls$动移阳贵
 CCTV16 奥运,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv16.m3u8$路线苏江
 CCTV17 农业,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls$动移阳贵
+第一剧场,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls$动移阳贵
+风云剧场,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls$动移阳贵
+怀旧剧场,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls$动移阳贵
+都市剧场,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226243/1/index.m3u8?fmt=ts2hls$动移阳贵
+欢笑剧场,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226210/1/index.m3u8?fmt=ts2hls$动移阳贵
+金鹰卡通,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls$动移阳贵
+动漫秀场,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls$动移阳贵
+游戏风云,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226252/1/index.m3u8?fmt=ts2hls$动移阳贵
 北京卫视,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225754/1/index.m3u8?fmt=ts2hls
 东方卫视,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
 天津卫视,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225756/1/index.m3u8?fmt=ts2hls
