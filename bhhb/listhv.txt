@@ -1306,6 +1306,15 @@ NBA,http://38.96.178.201/live/NBA/index.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
 凤凰中文,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+凤凰资讯,http://183.1.251.70:8081/hls/36/index.m3u8
+凤凰中文,http://183.1.251.70:8081/hls/37/index.m3u8
+凤凰香港,http://183.1.251.70:8081/hls/38/index.m3u8
+凤凰资讯,http://116.11.159.0:8181/tsfile/live/1001_1.m3u8
+凤凰中文,http://116.11.159.0:8181/tsfile/live/1009_1.m3u8
+凤凰香港,http://116.11.159.0:8181/tsfile/live/1005_1.m3u8
+凤凰资讯,http://116.11.158.255:8181/tsfile/live/1001_1.m3u8
+凤凰中文,http://116.11.158.255:8181/tsfile/live/1009_1.m3u8
+凤凰香港,http://116.11.158.255:8181/tsfile/live/1005_1.m3u8
 HOY-76,mitv://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
 HOY-77,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 HOY-78,mitv://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
