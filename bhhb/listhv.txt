@@ -1625,6 +1625,68 @@ NewTV超级电影 (1080p),http://stream.smntv.cn/smtv1/sd/live.m3u8
 小鬼点播,http://open-tct.douyucdn2.cn/dyliveflv1a/3928r9p0BHMDG_2000.flv?wsAuth=c23b8906eacaf22fe85f23cdce492971&token=cpn-androidmpro-0-3928-15d95fcfde11a749ce15225c29b1e3d924b07dcbf5d51113&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vhost=pla
 特辑电影,http://open-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.flv?wsAuth=5b4056fc598db32b0cfd980b96f83cc3&token=cpn-androidmpro-0-3637778-8c089871434b93443045becffd9c704deb11dca65816a31d&logo=0&expire=0&did=10000000000000000000000000001501&origin=tct&vho
 移动回看,#genre#
+CCTV 1FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022576803.m3u8
+CCTV 2FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022576703.m3u8
+CCTV 3FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022576503.m3u8
+CCTV 4FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022576603..m3u8
+CCTV 5FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022576403.m3u8
+CCTV 5+FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022576303.m3u8
+CCTV 6FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022574303.m3u8
+CCTV 7FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022576203.m3u8
+CCTV 8FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022576103.m3u8
+CCTV 9FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022576003.m3u8
+CCTV 10FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022573003.m3u8
+CCTV 11FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022575903.m3u8
+CCTV 12FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022575803.m3u8
+CCTV 13FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022575703.m3u8
+CCTV 14FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022575603.m3u8
+CCTV 15FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022575503.m3u8
+CCTV 16FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022575403.m3u8
+CCTV 17FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022575303.m3u8
+CCTV 4KFHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2022575203.m3u8
+CCTV 8KFHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2020603401.m3u8
+CCTV兵器科技,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012513403.m3u8
+CCTV第一剧场,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012514403.m3u8
+CCTV怀旧剧场,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012511203.m3u8
+CCTV风云剧场,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012513603.m3u8
+CCTV风云音乐,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012514103.m3u8
+CCTV风云足球,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012514203.m3u8
+CCTV电视指南,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012514003.m3u8
+CCTV女性时尚,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012513903.m3u8
+CCTV央视文化精品,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012513803.m3u8
+CCTV世界地理,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012513303.m3u8
+CCTV高尔夫网球,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012512503.m3u8
+CCTV央视台球,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012513703.m3u8
+CCTV卫生健康,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2012513503.m3u8
+CGTN,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2001656803.m3u8
+CGTN纪录,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2010155403.m3u8
+CGTN西语,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2010152503.m3u8
+CGTN法语,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2010153503.m3u8
+CGTN阿语,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2010152603.m3u8
+CGTN俄语,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2010152603.m3u8
+北京卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000272103.m3u8
+湖南卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000296203.m3u8
+东方卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000292403.m3u8
+天津卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2019927003.m3u8
+广东卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000292703.m3u8
+深圳卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000292203.m3u8
+江苏卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000295603.m3u8
+浙江卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000295503.m3u8
+重庆卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000297803.m3u8
+海南卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000291503.m3u8
+山东卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000294803.m3u8
+江西卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000294103.m3u8
+湖北卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000294503.m3u8
+河南卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000296103.m3u8
+河北卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000293403.m3u8
+贵州卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000293303.m3u8
+东南卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000292503.m3u8
+广西卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000294203.m3u8
+四川卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000295003.m3u8
+辽宁卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000281303.m3u8
+新疆卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000281303.m3u8
+安徽卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2019927403.m3u8
+黑龙江卫视FHD,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/2000293903.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
@@ -1636,7 +1698,24 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
+CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+CCTV高尔夫•网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+CCTV世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
+CCTV央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CGTN,http://39.134.24.161/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225745/1.m3u8
 CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225745/1.m3u8
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225796/1.m3u8
@@ -1678,6 +1757,25 @@ CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/TVOD/88888890/224/3221225745
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 综合高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8?
+CCTV-1综合,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv1.m3u8
+CCTV-2财经,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+CCTV-3综艺,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv3.m3u8
+CCTV-4中文国际,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+CCTV-5体育,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+CCTV-5+体育赛事,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+CCTV-6电影,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv6.m3u8
+CCTV-7国防军事,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv7.m3u8
+CCTV-8电视剧,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv8.m3u8
+CCTV-9纪录,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV-10科教,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+CCTV-11戏曲,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv11.m3u8
+CCTV-12社会与法,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv12.m3u8
+CCTV-13新闻,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv13.m3u8
+CCTV-14少儿,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+CCTV-15音乐,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv15.m3u8
+CCTV-16奥林匹克,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv16.m3u8
+CCTV-17农业农村,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+CCTV-4K超高清,http://150.138.40.183/liveali-tpgq.cctv.cn/live/cctv4k.m3u8
 CCTV-1 综合,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225777/1/index.m3u8?fmt=ts2hls$动移阳贵
 CCTV-2 财经,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225706/1/index.m3u8?fmt=ts2hls$动移阳贵
 CCTV-3 综艺,http://39.136.18.168:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226263/1/index.m3u8?fmt=ts2hls$动移阳贵
@@ -1926,6 +2024,12 @@ CCTV4K,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/
 浙江卫视,http://zjbuv52.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zjwshd8m/8000000/mnf.m3u8
 2月组播,#genre#
 经典再现,http://183.222.72.116:6868/rtp/239.10.0.130:5140
+汕头综合,http://115.45.101.165:8888/rtp/239.253.43.45:5146
+汕头综合,http://115.45.101.165:8888/rtp/239.77.1.130:5146
+汕头经济生活,http://115.45.101.165:8888/rtp/239.253.43.46:5146
+汕头经济生活,http://115.45.101.165:8888/rtp/239.77.1.131:5146
+汕头文旅体育,http://115.45.101.165:8888/rtp/239.253.43.47:5146
+汕头文旅体育,http://115.45.101.165:8888/rtp/239.77.1.132:5146
 凤凰资讯,http://cdn.swes.cn:8089/udp/239.93.0.118:2191
 凤凰资讯,http://cdn.swes.cn:8089/udp/239.93.1.4:2191
 凤凰中文,http://cdn.swes.cn:8089/udp/239.93.0.162:2192
