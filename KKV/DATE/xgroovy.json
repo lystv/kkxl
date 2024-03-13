@@ -1,0 +1,109 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"xgroovy",
+"episode_flag":false,
+"landscape_flag":true,
+"category": [{
+			"title": "best",
+			"url0": "https://cn.xgroovy.com/best/",
+			"url1": "https://cn.xgroovy.com/best//{pg}/"
+		},
+	     {
+			"title": "beautiful-girl",
+			"url0": "https://cn.xgroovy.com/categories/beautiful-girl/",
+			"url1": "https://xgroovy.com/categories/chinese/{pg}/"
+		},
+	     {
+			"title": "new",
+			"url0": "https://cn.xgroovy.com/new/",
+			"url1": "https://cn.xgroovy.com/new/{pg}/"
+		},
+	     {
+			"title": "Japanese",
+			"url0": "https://cn.xgroovy.com/categories/japanese/",
+			"url1": "https://cn.xgroovy.com/categories/japanese/{pg}/"
+		},
+	    {
+			"title": "Asian",
+			"url0": "https://cn.xgroovy.com/categories/big-tits/",
+			"url1": "https://cn.xgroovy.com/categories/big-tits/{pg}/"
+		},
+	    {
+			"title": "bbc",
+			"url0": "https://cn.xgroovy.com/categories/bbc/",
+			"url1": "https://cn.xgroovy.com/categories/bbc/{pg}/"
+		},
+	     {
+			"title": "celebrity",
+			"url0": "https://cn.xgroovy.com/categories/celebrity/",
+			"url1": "https://cn.xgroovy.com/categories/celebrity/{pg}/"
+		},
+	     {
+			"title": "gangbang",
+			"url0": "https://cn.xgroovy.com/categories/gangbang/",
+			"url1": "https://cn.xgroovy.com/categories/gangbang/{pg}/"
+		},
+	    {
+			"title": "first-time",
+			"url0": "https://cn.xgroovy.com/categories/first-time/",
+			"url1": "https://cn.xgroovy.com/categories/first-time/{pg}/"
+		},
+	    {
+			"title": "cheating",
+			"url0": "https://cn.xgroovy.com/categories/cheating/",
+			"url1": "https://cn.xgroovy.com/categories/cheating/{pg}/"
+		},
+	    {
+			"title": "Newest",
+			"url0": "https://cn.xgroovy.com/new/",
+			"url1": "https://cn.xgroovy.com/{pg}/"
+		},
+	    {
+			"title": "Chinese",
+			"url0": "https://cn.xgroovy.com/categories/chinese/",
+			"url1": "https://cn.xgroovy.com/categories/chinese/{pg}/"
+		},
+	   {
+			"title": "Japanese",
+			"url0": "https://cn.xgroovy.com/categories/japanese/",
+			"url1": "https://cn.xgroovy.com/categories/japanese/{pg}/"
+		},
+	    {
+			"title": "creampie",
+			"url0": "https://cn.xgroovy.com/categories/creampie/",
+			"url1": "https://cn.xgroovy.com/categories/creampie/{pg}/"
+		},
+	    {
+			"title": "orgasm",
+			"url0": "https://cn.xgroovy.com/categories/orgasm/",
+			"url1": "https://cn.xgroovy.com/categories/orgasm/{pg}/"
+		}
+	],  
+"vod_node":"//div[@class='list-videos']//div[@class='item  ']",
+"vod_info":"//div[@class='views']",
+"vod_score":"//div[contains(@class, 'duration')]",
+"vod_title":"//strong[@class='title']",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//a/@href",
+"vod_link_url":"{id}",
+"play_regex":"c3JjPSIoLis3MjBwXC5tcDRbXiJdKyk=",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://cn.xgroovy.com/search/{wd}/",
+"search_url_other_page":"https://cn.xgroovy.com/search/{wd}/{pg}/",
+"search_vod_node":"//div[@class='list-videos']//div[@class='item  ']",
+"search_vod_title":"//strong[@class='title']",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//a/@href",
+"search_vod_link_url":"{id}"
+}
