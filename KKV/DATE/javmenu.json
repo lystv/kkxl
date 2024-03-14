@@ -1,0 +1,101 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"javmenu",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"https://javplayer.me/",
+"open_with_safari_flag":true,
+"category": [{
+                                                "title": "首页",
+			"url0": "https://javmenu.one",
+			"url1": "https://javmenu.one"
+		},
+	{
+			"title": "有码",
+			"url0": "https://javmenu.one/zh/censored/online",
+			"url1": "https://javmenu.one/zh/censored/online?page=={pg}"
+		},
+	{
+			"title": "无码",
+			"url0": "https://javmenu.one/zh/uncensored/online",
+			"url1": "https://javmenu.one/zh/uncensored/online?page={pg}"
+		},
+	{
+			"title": "欧美",
+			"url0": "https://javmenu.one/zh/western/online",
+			"url1": "https://javmenu.one/zh/western/online?page={pg}"
+		},
+	{
+			"title": "FC2",
+			"url0": "https://javmenu.one/zh/fc2/online",
+			"url1": "https://javmenu.one/zh/fc2/online?page={pg}"
+		},
+	{
+			"title": "成人动画",
+			"url0": "https://javmenu.one/zh/hanime/online",
+			"url1": "https://javmenu.one/zh/hanime/online?page={pg}"
+		},
+	{
+			"title": "国产",
+			"url0": "https://javmenu.one/zh/chinese/online",
+			"url1": "https://javmenu.one/zh/chinese/online?page={pg}"
+		},
+	{
+			"title": "日榜",
+			"url0": "https://javmenu.one/zh/rank/censored/day",
+			"url1": "https://javmenu.one/zh/rank/censored/day?page={pg}"
+		},
+	{
+			"title": "周榜",
+			"url0": "https://javmenu.one/zh/rank/censored/week",
+			"url1": "https://javmenu.one/zh/rank/censored/week?page={pg}"
+		},
+	{
+			"title": "女优榜",
+			"url0": "https://javmenu.one/zh/rank/censored/actress",
+			"url1": "https://javmenu.one/zh/rank/censored/actress?page=={pg}"
+		},
+	{
+			"title": "黑人",
+			"url0": "https://javmenu.one/zh/search?wd=%E9%BB%91%E4%BA%BA",
+			"url1": "https://javmenu.one/zh/search?wd=%E9%BB%91%E4%BA%BA&page={pg}"
+		},
+	{
+			"title": "系列",
+			"url0": "https://javmenu.one/zh/series/censored",
+			"url1": "https://javmenu.one/zh/series/censored?page={pg}"
+		},
+	{
+			"title": "SIRO",
+			"url0": "https://javmenu.one/zh/code/SIRO",
+			"url1": "https://javmenu.one/zh/code/SIRO?page={pg}"
+		}
+	],    
+"vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
+"vod_info":"",
+"vod_score":"//div[@class='duration']",
+"vod_title":"//div[@class='detail']/a",
+"vod_image_id":"//img/@data-src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//div[@class='detail']/a/@href",
+"vod_link_url":"https://javmenu.one/{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://javmenu.one/search?keyword={wd}&sort=recent_update",
+"search_url_other_page":"https://javmenu.one/search?keyword={wd}&page={pg}&sort=recent_update",
+"search_vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
+"search_vod_title":"//div[@class='detail']/a",
+"search_vod_image_id":"//img/@data-src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//div[@class='detail']/a/@href",
+"search_vod_link_url":"https://javmenu.one/{id}"
+}
