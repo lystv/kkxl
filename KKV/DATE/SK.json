@@ -2,8 +2,8 @@
 "uuid":"e24b4542-ce5d-4625-b2cb-e40429945328",
 "json":[{
 "type":0,
-"name":"唐人街",
-"api":"https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
+"name":"乐视采集",
+"api":"https://leshizyapi.com/api.php/provide/vod/at/xml"
 },{
 "type":8,
 "name":"javrate",
@@ -288,6 +288,14 @@
 "type":3,
 "name":"段友影视2(M2)",
 "api":"https://shangjihuoke.com/api.php/tv.vod"
+},{
+"type":1,
+"name":"四九蓝光",
+"api":"https://49zyw.com/api.php/provide/vod/at/xml"
+},{
+"type":1,
+"name":"快云资源",
+"api":"https://kuaiyun-api.com/api.php/provide/vod/at/xml"
 },{
 "type":1,
 "name":"飞速资源",
