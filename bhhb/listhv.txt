@@ -25,9 +25,10 @@ CCTV-13高清,rtsp://183.59.146.146:554/PLTV/88888905/224/3221230039/10000100000
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
 广东GRTN纪录片,https://glive.grtn.cn/live/jilupian.m3u8?auth_key=1681123653-0-0-a35d50d3397bd374ec26f01c8625c73e
 广东GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1681059808-0-0-fdabdd99794469e8571601f7538ec474
-广东4K超高清,http://220.231.188.200:8089/hls/30/index.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+广东GRTN健康频道,https://glive.grtn.cn/live/health.m3u8?t_token=96e66ffc719309e61d1e6c04e6feb66d-oVi6YuP%2B80pNzIkiZx8Y6dm0p2IHTqmqtkXtjwpiQAxo3tCxWe9%2Fgi4eMZCZEk9fKXpCWoBx2Dd9305Es1Is7Ui2Kic%2FrNzNFhsS63Q3sucVJ1WM7EE6tSSKk4OIbUiRsjxEfJU%2BDSi%2BcXyd1gTHP0QwA8OTVlhm9LhD7JozRa8vX0YzsWWmdsPEGjqoww4AjrFI45tMkNpGz4VjJKCCKmCMLTYQh72jwQfQnlD3cJ0I2%2BlDMkL4gBaorCBbjZJIFY2jH2V%2FmlhvRIiPM03zj%2BfdIW9kB2nneP3aPYExc6UQfKZ%2B1dPg0nQ5xZKfm3AHQbV0oe4b5%2FhSr4Pfwrpss%2BNBg0KO1o7CQjcZGonn8TOSdCu0P%2FJhp1SCULb5tYLv
+广东GRTN教育频道,https://glive.grtn.cn/live/jiaoyu.m3u8
+广东GRTN生活频道,https://glive.grtn.cn/live/life.m3u8?t_token=957de32bcdbd83540386d43ff6438c39-yfmNrrlmprwDTAJf1AbkGKIFYRAJLGowwhRDu80pgQ31%2Bwycd7Sy%2FCHXtZmAKUmzns%2BKQk7bP5gFnGl0%2FfDClXOTq%2Fe%2FMKAHBtqE58sM3hUXE%2Bg0U7xLmzPGm2RRSIK3pHJIAnV8NEPIPuiw3ckB77YAIKS8UVNPVDyUZ4cXUnGojHe9SI0VyQ7QNLbUaVm%2BlSnn%2FgU0ro0EP15T8D3XxAW18a2awv%2Fz%2Bl3JWETxjJ6PeBTf1p%2BHx8FFFT0beBCNY7VOsxFcj24s%2BoqXtLPSD4U4XvK0Th5q4%2FhhWqbJ9NRsmo4kFyDgCIIMNPXvtOCQBtoIwazWpquCGrFHg4N%2BfPq7QCFJdvKo7DY5Bv%2FhG%2FNMNuAgGcCu68gAQC6XsZZZ
+广东GRTN荔枝台,https://glive.grtn.cn/live/lizhi.m3u8?t_token=861087910e471f3ac7d1232630810ff2-UseDefBliDd8dx0aDDh4bbI%2BN%2BEFhw8FzilMvp1dQM5zkQmkTwblm10DGG8n%2FdzcwmrJNaXpLZVbmJq52M%2FwpDfuQUwg6GSdNMb6LQVRM7l5zaOPGExByZJ3ByvILfqAwiX25wGm1R97nupvE71DJRl2nAk%2B%2B1fP2mE%2F%2FRe6JE2rQp3k8apjSrOiyBMq%2FHVLlBdy9Lgs%2B1sYxtzlmhEjGqrWqg6y6ipHyvtYh7fC2baCOD0bQDK478cKWroOKzFTU5B4XSiqiqYyy3etvQRDnDyKQDsGgfd70vdbO8l5Q7ihA0gwGO0raI1fvMNwv7zhoWXBqCJ6vaQ4m%2FPL9JX1aSLTnvtufGs3kviZ18Hc7zM5le9I%2FfVsCY5aJ8sCzKu%2F3TU0JiRVIOnblZC6zlsA%2Fg%3D%3D
 广东体育高清,http://183.59.131.100:30001/PLTV/88888905/224/3221227484/10000100000000060000000003928833_0.smil/index.m3u8?fmt=ts2hls&accountinfo=%7E%7EV2.0%7Ew7Bz7WWUvefO8y8c0TBseg%7EzJeEdQQK6GK7r2Q5jZjxjKYhZiHklGs8wg1XyXUSKdk5d8f2s2AYjzO2-qcyDeaExan3Pra4cuU_Whoju6BKGf666OGX7-GKwJrfpZjwyfM~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2CEND&GuardEncType=2
 广东体育,http://113.81.20.104:9901/tsfile/live/1002_1.m3u8
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8$荔枝网
