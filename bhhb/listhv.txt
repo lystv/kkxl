@@ -2111,6 +2111,8 @@ HOY TV,http://bziyunshao.synology.me:8891/bysid/77
 HOY 資訊台,http://bziyunshao.synology.me:8891/bysid/78
 港台電視 31,http://bziyunshao.synology.me:8892/bysid/31
 港台電視 32,http://bziyunshao.synology.me:8892/bysid/32
+港台電視 33,http://bziyunshao.synology.me:8892/bysid/33
+港台電視 34,http://bziyunshao.synology.me:8892/bysid/34
 翡翠台,http://hksc.vnetidc.hk:61281/bysid/1
 无线新闻,http://hksc.vnetidc.hk:61282/bysid/83
 无线财经,http://hksc.vnetidc.hk:61282/bysid/85
