@@ -1,0 +1,117 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"freejavbt",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"https://javplayer.me/",
+"open_with_safari_flag":true,
+"category": [
+	{
+			"title": "无码",
+			"url0": "https://freejavbt.com/uncensored/play?",
+			"url1": "https://freejavbt.com/uncensored/play?&page={pg}"
+		},
+	{
+			"title": "有码",
+			"url0": "https://freejavbt.com/censored/play",
+			"url1": "https://freejavbt.com/censored/play&page={pg}"
+		},
+	{
+			"title": "欧美",
+			"url0": "https://freejavbt.com/western/play",
+			"url1": "https://freejavbt.com/western/play&page={pg}"
+		},
+	{
+			"title": "fc2",
+			"url0": "https://freejavbt.com/fc2/play",
+			"url1": "https://freejavbt.com/fc2/play&page={pg}"
+		},
+	{
+			"title": "强奸",
+			"url0": "https://freejavbt.com/censored/filter?c=52",
+			"url1": "https://freejavbt.com/censored/filter?c=52&page={pg}"
+		},
+	{			
+                                                "title": "乱伦",
+			"url0": "https://freejavbt.com/censored/filter?c=54",
+			"url1": "https://freejavbt.com/censored/filter?c=54&page={pg}"
+		},
+	{
+			"title": "后入",
+			"url0": "http://freejavbt.com/censored/filter?c=376",
+			"url1": "http://freejavbt.com/censored/filter?c=376&page={pg}"
+		},
+	{
+			"title": "日排行榜",
+			"url0": "https://freejavbt.com/rank/censored/day",
+			"url1": "https://freejavbt.com/rank/censored/day?page={pg}"
+		},
+	{
+			"title": "周排行榜",
+			"url0": "https://freejavbt.com/rank/censored/week",
+			"url1": "https://freejavbt.com/rank/censored/week?page={pg}"
+		},
+	{
+			"title": "精选",
+			"url0": "https://freejavbt.com/censored/filter?c=8",
+			"url1": "https://freejavbt.com/censored/filter?c=8&page={pg}"
+		},
+	{
+			"title": "月排行榜",
+			"url0": "https://freejavbt.com/rank/censored/month",
+			"url1": "https://freejavbt.com/rank/censored/month?page={pg}"
+		},
+	{
+			"title": "女友排行榜",
+			"url0": "https://freejavbt.com/rank/censored/actress",
+			"url1": "https://freejavbt.com/rank/censored/actress&page={pg}"
+		},
+	{
+			"title": "多P",
+			"url0": "https://freejavbt.com/censored/filter?c=24",
+			"url1": "https://freejavbt.com/censored/filter?c=24&page={pg}"
+		},
+	{
+			"title": "肛交",
+			"url0": "https://freejavbt.com/censored/filter?c=74",
+			"url1": "https://freejavbt.com/censored/filter?c=74&page={pg}"
+		},
+	{
+			"title": "uncensored",
+			"url0": "https://freejavbt.com/uncensored",
+			"url1": "https://freejavbt.com/uncensored?page={pg}"
+		},
+	{
+			"title": "censored",
+			"url0": "https://freejavbt.com/censored",
+			"url1": "https://freejavbt.com/censored?page={pg}"
+		}
+	],    
+"vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
+"vod_info":"",
+"vod_score":"//div[@class='duration']",
+"vod_title":"//div[@class='detail']/a",
+"vod_image_id":"//img/@data-src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//div[@class='detail']/a/@href",
+"vod_link_url":"https://freejavbt.com/{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://freejavbt.com/search?keyword={wd}&sort=recent_update",
+"search_url_other_page":"https://freejavbt.com/search?keyword={wd}&page={pg}&sort=recent_update",
+"search_vod_node":"//div[contains(@class, 'box-item-list')]//div[@class='box-item']",
+"search_vod_title":"//div[@class='detail']/a",
+"search_vod_image_id":"//img/@data-src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//div[@class='detail']/a/@href",
+"search_vod_link_url":"https://freejavbt.com/{id}"
+}
