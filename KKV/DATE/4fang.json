@@ -1,0 +1,66 @@
+{
+"uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
+"title":"24hjav",
+"episode_flag":false,
+"landscape_flag":true,
+"referer":"https://4fang.tv/",
+"open_with_safari_flag":true,
+"category": [{
+                                                "title": "最新更新",
+			"url0": "https://4fang.tv/index.html",
+			"url1": "https://4fang.tv/index.html"
+		},
+    {			
+                                                "title": "热门视频",
+			"url0": "https://4fang.tv/video.html",
+			"url1": "https://4fang.tv/video.html"
+		},
+    {
+                                                "title": "国产专区",
+			"url0": "https://4fang.tv/category/a674.html",
+			"url1": "https://4fang.tv/category/a674-{pg}.html"
+		},
+    {
+			"title": "成人抖音",
+			"url0": "https://4fang.tv/category/a676.html",
+			"url1": "https://4fang.tv/category/a676-{pg}.html"
+		},
+    {
+			"title": "欧美高清",
+			"url0": "https://4fang.tv/category/a677.html",
+			"url1": "https://4fang.tv/category/a677-{pg}.html"
+		},
+    {
+			"title": "日韩AV",
+			"url0": "https://4fang.tv/category/a675.html",
+			"url1": "https://4fang.tv/category/a675-{pg}.html"
+		}
+	],  
+"vod_node":"//div[contains(@class, 'videos-latest-list')]//div[contains(@class, 'video-latest-list')]",
+"vod_info":"",
+"vod_score":"",
+"vod_title":"//div[@class='video-title']//a//h4",
+"vod_image_id":"//img/@src",
+"vod_image_regex":"",
+"vod_image_url":"{id}",
+"vod_link_id":"//div[@class='video-title']/a/@href",
+"vod_link_url":https://4fang.tv"{id}",
+"play_regex":"",
+"play_url":"{id}",
+"playlist_flag":false,
+"playlist_group_node":"",
+"playlist_title":"",
+"playlist_link_id":"",
+"playlist_link_url":"",
+"playlist_info":"",
+"search_flag":true,
+"search_url_first_page":"https://4fang.tv/search?keyword={wd}",
+"search_url_other_page":"https://4fang.tv/search?keyword={wd}&page_id={pg}",
+"search_vod_node":"//div[contains(@class, 'videos-latest-list')]//div[contains(@class, 'video-latest-list')]",
+"search_vod_title":"//div[@class='video-title']//a//h4",
+"search_vod_image_id":"//img/@src",
+"search_vod_image_regex":"",
+"search_vod_image_url":"{id}",
+"search_vod_link_id":"//div[@class='video-title']/a/@href",
+"search_vod_link_url":https://4fang.tv"{id}"
+}
