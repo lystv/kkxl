@@ -8,31 +8,6 @@
 			"title": "新作上市",
 			"url0": "https://bad.news/av",
 			"url1": "https://bad.news/av/page-{pg}"
-		},
-		{
-                                                "title": "无码",
-			"url0": "https://bad.news/av/search/q-无码/via-log",
-			"url1": "https://bad.news/av/search/q-无码/via-log/page-{pg}"
-                                },
-		{
-			"title": "中字",
-			"url0": "https://bad.news/av/search/q-中文字幕/via-log",
-			"url1": "https://bad.news/av/search/q-中文字幕/via-log/page-{pg}"
-		},
-		{
-			"title": "无码丝袜",
-			"url0": "https://bad.news/av/search/q-无码丝袜/via-log",
-			"url1": "https://bad.news/av/search/q-无码丝袜/via-log/page-{pg}"
-		},
-		{
-			"title": "强行施暴",
-			"url0": "https://bad.news/av/search/q-强行施暴/via-log",
-			"url1": "https://bad.news/av/search/q-强行施暴/via-log/page-{pg}"
-		},
-		{
-                                                "title": "上流社会的夫妻",
-			"url0": "https://bad.news/av/search/q-上流社会的夫妻/via-log",
-			"url1": "https://bad.news/av/search/q-上流社会的夫妻/via-log/page-{pg}"
 		}
 	],  
 "vod_node":"//div[@class='ugc']",
