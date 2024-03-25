@@ -1,22 +1,22 @@
 {
 "uuid":"6ed73adf-8c3e-46dd-a8cd-64a7dfe491d2",
-"title":"24hjav",
+"title":"4fang",
 "episode_flag":false,
 "landscape_flag":true,
 "referer":"https://4fang.tv/",
 "open_with_safari_flag":true,
 "category": [{
-                                                "title": "最新更新",
+            "title": "最新更新",
 			"url0": "https://4fang.tv/index.html",
 			"url1": "https://4fang.tv/index.html"
 		},
     {			
-                                                "title": "热门视频",
+            "title": "热门视频",
 			"url0": "https://4fang.tv/video.html",
 			"url1": "https://4fang.tv/video.html"
 		},
     {
-                                                "title": "国产专区",
+            "title": "国产专区",
 			"url0": "https://4fang.tv/category/a674.html",
 			"url1": "https://4fang.tv/category/a674-{pg}.html"
 		},
