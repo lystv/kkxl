@@ -19,8 +19,7 @@
 			"url0": "https://www.javrate.com/menu/chinese",
 			"url1": "https://www.javrate.com/menu/chinese/5-2-{pg}/"
 		}
-
-	],  
+    ],  
 "vod_node":"//section[contains(@class, 'list-main')]/div[@class='row']//div[contains(@class, 'col-md-4')]",
 "vod_info":"//label[@class='fg-light5']",
 "vod_score":"",
