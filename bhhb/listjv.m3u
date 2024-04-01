@@ -176,9 +176,11 @@ http://www.erbao1981.top:8188/udp/239.76.246.95:1234
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4美洲
 http://www.erbao1981.top:8188/udp/239.76.246.96:1234
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4欧洲
-http://home4.kmo.ink:8888/rtp/239.3.1.213:4220
+http://happy2015.synology.me:4000/rtp/239.3.1.213:4220
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4美洲
-http://home4.kmo.ink:8888/rtp/239.3.1.214:4220
+http://happy2015.synology.me:4000/rtp/239.3.1.214:4220
+#EXTINF:-1,tvg-id="淘电影" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/淘电影.png" group-title="央视",淘电影
+淘电影,http://happy2015.synology.me:4000/udp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4北美
 http://182.46.8.252:8686/udp/239.21.2.29:5002
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4美洲
@@ -589,19 +591,19 @@ http://qnap.yjnhome.com:4000/udp/239.3.1.242:8000
 #EXTINF:-1,tvg-id="BRTV生活" tvg-name="BRTV生活" tvg-logo="https://epg.112114.xyz/logo/BRTV生活.png" group-title="其他",BRTV生活
 http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 #EXTINF:-1,tvg-id="BRTV新闻" tvg-name="BRTV新闻" tvg-logo="https://epg.112114.xyz/logo/BRTV新闻.png" group-title="其他",BRTV新闻
-http://home4.kmo.ink:8888/rtp/239.3.1.159:8000
+http://happy2015.synology.me:4000/rtp/239.3.1.159:8000
 #EXTINF:-1,tvg-id="BRTV影视" tvg-name="BRTV影视" tvg-logo="https://epg.112114.xyz/logo/BRTV影视.png" group-title="其他",BRTV影视
-http://home4.kmo.ink:8888/rtp/239.3.1.158:8000
+http://happy2015.synology.me:40008/rtp/239.3.1.158:8000
 #EXTINF:-1,tvg-id="BRTV文艺" tvg-name="BRTV文艺" tvg-logo="https://epg.112114.xyz/logo/BRTV文艺.png" group-title="其他",BRTV文艺
-http://home4.kmo.ink:8888/rtp/239.3.1.242:8000
+http://happy2015.synology.me:4000/rtp/239.3.1.242:8000
 #EXTINF:-1,tvg-id="BRTV财经" tvg-name="BRTV财经" tvg-logo="https://epg.112114.xyz/logo/BRTV财经.png" group-title="其他",BRTV财经
-http://home4.kmo.ink:8888/rtp/239.3.1.116:8000
+http://happy2015.synology.me:4000/rtp/239.3.1.116:8000
 #EXTINF:-1,tvg-id="BRTV生活" tvg-name="BRTV生活" tvg-logo="https://epg.112114.xyz/logo/BRTV生活.png" group-title="其他",BRTV生活
-http://home4.kmo.ink:8888/rtp/239.3.1.117:8000
+http://happy2015.synology.me:4000/rtp/239.3.1.117:8000
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通
-http://home4.kmo.ink:8888/rtp/239.3.1.188:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.188:8001
 #EXTINF:-1,tvg-id="朝阳融媒" tvg-name="朝阳融媒" tvg-logo="https://epg.112114.xyz/logo/朝阳融媒.png" group-title="其他",朝阳融媒
-http://home4.kmo.ink:8888/rtp/239.3.1.163:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.163:8001
 #EXTINF:-1,tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://epg.112114.xyz/logo/中国交通.png" group-title="其他",中国交通
 http://27.223.140.121:4022/udp/239.253.254.177:8000
 #EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png" group-title="其他",淘电影
@@ -613,17 +615,17 @@ http://lay6.3322.org:4022/udp/239.3.1.100:8001
 #EXTINF:-1,tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://epg.112114.xyz/logo/北京淘BABY.png" group-title="其他",淘BABY
 http://lay6.3322.org:4022/udp/239.3.1.238:8001
 #EXTINF:-1,tvg-id="北京淘精彩" tvg-name="北京淘精彩" tvg-logo="https://epg.112114.xyz/logo/北京淘精彩.png" group-title="其他",淘精彩
-http://home4.kmo.ink:8888/rtp/239.3.1.178:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.178:8001
 #EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png" group-title="其他",淘电影
-http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://epg.112114.xyz/logo/北京淘剧场.png" group-title="其他",淘剧场
-http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.95:8001
 #EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京淘娱乐.png" group-title="其他",淘娱乐
-http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.100:8001
 #EXTINF:-1,tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://epg.112114.xyz/logo/北京淘BABY.png" group-title="其他",淘BABY
-http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.238:8001
 #EXTINF:-1,tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://epg.112114.xyz/logo/萌宠TV.png" group-title="其他",萌宠TV
-http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.102:8001
 #EXTINF:-1,tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://epg.112114.xyz/logo/北京淘电影.png" group-title="其他",淘电影
 http://qnap.yjnhome.com:4000/udp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="北京淘剧场" tvg-name="北京淘剧场" tvg-logo="https://epg.112114.xyz/logo/北京淘剧场.png" group-title="其他",淘剧场
@@ -649,13 +651,13 @@ http://webmail.axxe.top:4022/udp/239.3.1.250:8001
 #EXTINF:-1,tvg-id="北京淘娱乐" tvg-name="北京淘娱乐" tvg-logo="https://epg.112114.xyz/logo/北京淘娱乐.png" group-title="其他",淘娱乐
 http://webmail.axxe.top:4022/udp/239.3.1.100:8001
 #EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" group-title="其他",睛彩竞技
-http://home4.kmo.ink:8888/rtp/239.3.1.125:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.125:8001
 #EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="其他",睛彩篮球
-http://home4.kmo.ink:8888/rtp/239.3.1.126:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.126:8001
 #EXTINF:-1,tvg-id="睛彩羽毛球" tvg-name="睛彩羽毛球" tvg-logo="https://epg.112114.xyz/logo/睛彩羽毛球.png" group-title="其他",睛彩羽毛球
-http://home4.kmo.ink:8888/rtp/239.3.1.127:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.127:8001
 #EXTINF:-1,tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://epg.112114.xyz/logo/睛彩广场舞.png" group-title="其他",睛彩广场舞
-http://home4.kmo.ink:8888/rtp/239.3.1.128:8001
+http://happy2015.synology.me:4000/rtp/239.3.1.128:8001
 #EXTINF:-1,tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://epg.112114.xyz/logo/睛彩竞技.png" group-title="其他",睛彩竞技
 http://opdf.top:8088/udp/239.81.0.190:4056
 #EXTINF:-1,tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://epg.112114.xyz/logo/睛彩篮球.png" group-title="其他",睛彩篮球
@@ -719,7 +721,7 @@ http://124.227.203.3:8888/udp/239.81.0.128:4056
 #EXTINF:-1,tvg-id="南宁新闻" tvg-name="南宁新闻" tvg-logo="https://epg.112114.xyz/logo/南宁新闻.png" group-title="其他",南宁新闻
 http://124.227.203.3:8888/udp/239.81.0.241:4056
 #EXTINF:-1,tvg-id="南宁新闻" tvg-name="南宁新闻" tvg-logo="https://epg.112114.xyz/logo/南宁新闻.png" group-title="其他",南宁新闻
-http://124.227.203.3:8888/udp/239.81.0.126:4056
+http://222.217.124.147:8088/udp/239.81.0.126:4056
 #EXTINF:-1,tvg-id="南宁公共" tvg-name="南宁公共" tvg-logo="https://epg.112114.xyz/logo/南宁公共.png" group-title="其他",南宁公共
 http://124.227.203.3:8888/udp/239.81.0.129:4056
 #EXTINF:-1,tvg-id="南宁都市" tvg-name="南宁都市" tvg-logo="https://epg.112114.xyz/logo/南宁都市.png" group-title="其他",南宁都市
