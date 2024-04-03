@@ -35,6 +35,8 @@ http://222.65.170.16:8686/udp/239.45.1.1:5140
 http://59.174.209.2:4022/rtp/239.69.1.111:10304
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
 http://office.gofaraway.top:888/udp/238.125.5.122:5140
+#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
+http://175.147.76.205:8888/rtp/232.0.0.98:1234
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png" group-title="卫视",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1,tvg-id="卫视音乐" tvg-name="卫视音乐" tvg-logo="https://epg.112114.xyz/logo/卫视音乐.png" group-title="卫视",卫视音乐
@@ -121,12 +123,18 @@ http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
 http://182.138.136.195:4455/udp/239.93.0.162:2192
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台
 http://182.138.136.195:4455/udp/239.93.0.118:2191
+#EXTINF:-1,tvg-id="CCTV-4欧洲" tvg-name="CCTV-4欧洲" tvg-logo="https://epg.112114.xyz/logo/CCTV-4欧洲.png" group-title="央视",CCTV-4欧洲
+http://rt4.orangevip.top:8999/rtp/232.0.0.53:1234
+#EXTINF:-1,tvg-id="CCTV-4美洲" tvg-name="CCTV-4美洲" tvg-logo="https://epg.112114.xyz/logo/CCTV-4美洲.png" group-title="央视",CCTV-4美洲
+http://175.147.76.205:8888/rtp/232.0.0.59:1234
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文台
 http://125.70.180.178:8123/udp/239.93.0.162:2192
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯台
 http://125.70.180.178:8123/udp/239.93.0.118:2191
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他",爱上4K
 http://182.138.136.195:4455/udp/239.93.0.97:5140
+#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他",爱上4K
+http://175.147.76.205:8888/rtp/232.0.0.187:1234
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他",爱上4K
 http://222.217.124.147:8088/udp/239.81.0.123:4056
 #EXTINF:-1,tvg-id="爱上4K 17M2160" tvg-name="爱上4K 17M2160" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="其他",爱上4K 17M2160
